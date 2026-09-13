@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([["src_remote-gadget-b_js"],{6:(e,t,s)=>{function r(){return"gadget-b"}s.r(t),s.d(t,{tag:()=>r})}}]);
+//# sourceMappingURL=src_remote-gadget-b_js.8593b116.js.map

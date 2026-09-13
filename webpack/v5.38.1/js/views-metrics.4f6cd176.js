@@ -1,0 +1,2 @@
+(self.webpackChunkwebpack_dynamic_load_demo=self.webpackChunkwebpack_dynamic_load_demo||[]).push([["views-metrics"],{10:(e,c,d)=>{"use strict";d.r(c),d.d(c,{render:()=>a});var s=d(247);function a(){console.log("views/metrics rendered",s.F)}}}]);
+//# sourceMappingURL=views-metrics.4f6cd176.js.map

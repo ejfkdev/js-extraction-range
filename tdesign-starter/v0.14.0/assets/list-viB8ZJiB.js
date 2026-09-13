@@ -1,0 +1,1 @@
+import{S as e}from"./index-DkWNI6C3.js";var t={BaseList:`/get-list`,CardList:`/get-card-list`};function n(){return e.get({url:t.BaseList})}function r(){return e.get({url:t.CardList})}export{n,r as t};

@@ -1,0 +1,1 @@
+import{_ as r}from"./preload-helper-DfZQVC28.js";import{b as e}from"./beta-fgEP4nz1.js";import{l as t}from"./deep-BQy7yIB_.js";function a(){t("views/about rendered",e),r(()=>import("./detail-DZHz6UtJ.js"),[]).then(o=>o.show())}export{a as render};

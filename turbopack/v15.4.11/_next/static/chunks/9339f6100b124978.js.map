@@ -1,0 +1,1 @@
+{"version":3,"sources":["turbopack:///[project]/components/widgets/y.jsx"],"sourcesContent":["export default function Y() {\n  return <span>widget-y</span>;\n}"],"names":[],"mappings":"4KAAe,SAAS,IACtB,MAAO,CAAA,EAAA,EAAA,GAAA,EAAC,OAAA,UAAK,YACf"}

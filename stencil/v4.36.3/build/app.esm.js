@@ -1,0 +1,2 @@
+import{p,b as a}from"./p-DgRtmdpr.js";export{s as setNonce}from"./p-DgRtmdpr.js";import{g as r}from"./p-DQuL1Twl.js";var t=()=>{const a=import.meta.url;const r={};if(a!==""){r.resourcesUrl=new URL(".",a).href}return p(r)};t().then((async p=>{await r();return a([["p-3c3d35f6",[[257,"app-root"],[257,"app-about",{label:[32]}],[257,"app-cards",{label:[32]}],[257,"app-forms",{label:[32]}]]]],p)}));
+//# sourceMappingURL=app.esm.js.map

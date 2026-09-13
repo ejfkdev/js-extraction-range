@@ -1,0 +1,1 @@
+export const REMOTE_APP_NAME="emp-remote";export const REMOTE_APP_VERSION="1.0.0";export function boot(e){const t=document.createElement("div");t.dataset.remote="emp-remote",t.textContent="emp-remote boots",(e||document.body).appendChild(t)}import("/remote/remoteApp1.js").then(e=>e.init()).catch(e=>console.warn("remoteApp1 failed",e));

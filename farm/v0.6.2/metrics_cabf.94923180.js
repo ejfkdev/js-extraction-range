@@ -1,0 +1,2 @@
+!function(e){for(var r in e)e[r].__farm_resource_pot__="metrics_cabf.js",(globalThis||window||global).d25e9ecee5c6996a0667e7c47ebdf736.__farm_module_system__.register(r,e[r]);}({deb521a6:function(e,r,n,o){"use strict";function t(){console.log("views/metrics rendered");}Object.defineProperty(r,"__esModule",{value:!0}),Object.defineProperty(r,"render",{enumerable:!0,get:function(){return t;}});}});
+//# sourceMappingURL=metrics_cabf.94923180.js.map

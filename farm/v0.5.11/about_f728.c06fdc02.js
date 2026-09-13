@@ -1,0 +1,2 @@
+!function(e){for(var r in e)e[r].__farm_resource_pot__="about_f728.js",(globalThis||window||self||global).d25e9ecee5c6996a0667e7c47ebdf736.__farm_module_system__.register(r,e[r]);}({"358a416c":function(e,r,o,n){"use strict";function t(){console.log("views/about rendered");}Object.defineProperty(r,"__esModule",{value:!0}),Object.defineProperty(r,"render",{enumerable:!0,get:function(){return t;}});}});
+//# sourceMappingURL=about_f728.c06fdc02.js.map

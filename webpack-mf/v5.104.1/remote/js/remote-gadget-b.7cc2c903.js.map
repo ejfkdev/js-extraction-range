@@ -1,0 +1,1 @@
+{"version":3,"file":"js/remote-gadget-b.7cc2c903.js","mappings":"yLAAO,MAAAA,EAAA,IAAAC,QAAAC,IAAA","sources":["webpack://webpack-mf-official-dynamic-load-demo/./remote/src/remote-gadget-b.js"],"sourcesContent":["export const gb = () => console.log(\"[wmf remote] gadget-b\");"],"names":["gb","console","log"],"ignoreList":[],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"file":"js/views-metrics.6de6c6a4.js","sources":["webpack://rspack-dynamic-load-demo/./src/views/metrics.js"],"sourcesContent":["import { alpha } from \"../lib-a/alpha\";\n\nexport function render() {\n  console.log(\"views/metrics rendered (3-level nested)\", alpha);\n}"],"names":["console"],"mappings":"sJAEO,SAAS,IACdA,QAAQ,GAAG,CAAC,0CAA2C,GAAK,CAC9D,C"}

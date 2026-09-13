@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebpack_mf_official_dynamic_load_demo=self.webpackChunkwebpack_mf_official_dynamic_load_demo||[]).push([["views-home"],{945:(e,a,c)=>{c.r(a),c.d(a,{render:()=>_});var d=c(547),i=c(809);function _(){(0,i.R)("views/home rendered",d.X)}}}]);
+//# sourceMappingURL=views-home.6286659c.js.map

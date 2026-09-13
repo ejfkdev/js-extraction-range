@@ -1,0 +1,1 @@
+import{z as s,A as o,B as e,C as a,J as l,i as r}from"./CPwDyja-.js";const u={class:"widget"},f={__name:"Alpha",setup(p){const n=r(0);return(i,t)=>(s(),o("section",u,[t[1]||(t[1]=e("h2",null,"Alpha",-1)),e("p",null,"count: "+a(l(n)),1),e("button",{onClick:t[0]||(t[0]=c=>n.value++)},"+1")]))}};export{f as default};

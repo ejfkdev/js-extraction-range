@@ -1,0 +1,1 @@
+var e=`tdesign-starter`;export{e as t};

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebpack_mf_official_dynamic_load_demo=self.webpackChunkwebpack_mf_official_dynamic_load_demo||[]).push([["remote_src_remote-widgets_x_js"],{308:(e,_,c)=>{c.r(_),c.d(_,{rwx:()=>a});const a="remote-widget-x"}}]);
+//# sourceMappingURL=remote_src_remote-widgets_x_js.676263fd.js.map

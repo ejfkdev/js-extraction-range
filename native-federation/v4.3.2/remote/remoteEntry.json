@@ -1,0 +1,11 @@
+{
+  "$version": "v4",
+  "name": "remote",
+  "shared": [],
+  "exposes": [
+    {
+      "key": "./remote-app",
+      "outFileName": "remote-app-OLPYFONR.js"
+    }
+  ]
+}

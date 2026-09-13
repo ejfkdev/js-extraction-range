@@ -1,0 +1,2 @@
+var e=globalThis.parcelRequirebc54,t=e.register;t("fkFJu",function(t,n){console.log("template a loaded (context chunk), gamma:",e("3jhsx").gamma),e("6cL7b").then(e=>e.paint())}),t("3jhsx",function(e,t){function n(){return"lib-b/gamma"}Object.defineProperty(e.exports,"gamma",{get:()=>n,set:void 0,enumerable:!0,configurable:!0})}),t("6cL7b",function(t,n){t.exports=import("jnGJ6").then(()=>e("iQ0qI"))});
+//# sourceMappingURL=a.cdc13f33.js.map

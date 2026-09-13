@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrspack_dynamic_load_demo=self.webpackChunkrspack_dynamic_load_demo||[]).push([["views-metrics"],{320:function(e,s,c){c.d(s,{render:()=>d});var n=c(146);function d(){console.log("views/metrics rendered (3-level nested)",n.X)}}}]);
+//# sourceMappingURL=views-metrics.4fa76099.js.map

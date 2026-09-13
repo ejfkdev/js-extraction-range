@@ -1,0 +1,1 @@
+{"version":3,"file":"js/views-settings.7c4e07e0.js","mappings":"oKAAO,SAAAA,IACPC,QAAAC,IAAA,4CACA","sources":["webpack://module-federation-dynamic-load-demo/./host/src/views/settings.js"],"sourcesContent":["export function render() {\n  console.log(\"views/settings rendered (lazy-once chunk)\");\n}"],"names":["render","console","log"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+"use strict";(self["chunk_remote "]=self["chunk_remote "]||[]).push([["479"],{3682(e,t,u){u.d(t,{tag:()=>n});function n(){return"gadget-a"}}}]);

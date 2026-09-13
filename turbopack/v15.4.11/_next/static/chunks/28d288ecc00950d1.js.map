@@ -1,0 +1,1 @@
+{"version":3,"sources":["turbopack:///[project]/components/templates/tc.jsx"],"sourcesContent":["export default function Tc() {\n  return \"template-tc\";\n}"],"names":[],"mappings":"sIAAe,SAAS,IACtB,MAAO,aACT"}

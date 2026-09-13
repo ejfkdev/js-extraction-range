@@ -1,0 +1,1 @@
+(self.webpackChunkice_dj_demo=self.webpackChunkice_dj_demo||[]).push([[629],{3629:(e,n,t)=>{t.r(n),t.d(n,{default:()=>d});const d={init:function(e){console.log("[heavys] extra init",e),document.body.dataset.heavy="extra",t.e(148).then(t.bind(t,3148)).then((function(n){return n.default.init(e+"-nested")}))}}}}]);

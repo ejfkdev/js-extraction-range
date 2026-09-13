@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunkrsbuild_dynamic_load_demo=self.rspackChunkrsbuild_dynamic_load_demo||[]).push([[107],{497(a,e,n){function d(){return"lib-b/gamma"}n.d(e,{u:()=>d})},236(a,e,n){n.r(e),console.log("template a loaded (context chunk), gamma:",n(497).u),n.e(365).then(n.bind(n,508)).then(a=>a.paint())}}]);

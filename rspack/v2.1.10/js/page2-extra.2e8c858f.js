@@ -1,0 +1,2 @@
+"use strict";(self.rspackChunkrspack_dynamic_load_demo=self.rspackChunkrspack_dynamic_load_demo||[]).push([["page2-extra"],{568(a,e,s){var c=s(886);function d(){console.log("page2-extra chunk loaded",c.l)}s.d(e,{side:()=>d})}}]);
+//# sourceMappingURL=page2-extra.2e8c858f.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebpack_mf_official_dynamic_load_demo=self.webpackChunkwebpack_mf_official_dynamic_load_demo||[]).push([["remote_src_remote-templates_c_js"],{319(e,_,a){a.r(_),a.d(_,["default",0,"remote-template-c"])}}]);
+//# sourceMappingURL=remote_src_remote-templates_c_js.570f1f08.js.map

@@ -1,0 +1,1 @@
+import{t as e}from"./column-template-D8SvtRrb.js";export{e as default};

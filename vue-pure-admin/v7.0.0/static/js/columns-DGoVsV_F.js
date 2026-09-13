@@ -1,0 +1,1 @@
+import{t as e}from"./columns-B6Eloi01.js";export{e as useColumns};

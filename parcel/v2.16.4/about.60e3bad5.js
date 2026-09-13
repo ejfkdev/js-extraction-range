@@ -1,0 +1,2 @@
+function e(e,t,n,r){Object.defineProperty(e,t,{get:n,set:r,enumerable:!0,configurable:!0})}var t=globalThis.parcelRequirebc54,n=t.register;n("lkT7o",function(n,r){e(n.exports,"render",()=>i);var o=t("kDlFc"),c=t("7ccv8");function i(){(0,c.log)("views/about rendered",o.beta),t("dFcZP").then(e=>e.show())}}),n("kDlFc",function(t,n){e(t.exports,"beta",()=>r);function r(){return"lib-a/beta"}}),n("dFcZP",function(e,n){e.exports=import("3w3sz").then(()=>t("3xs30"))});
+//# sourceMappingURL=about.60e3bad5.js.map

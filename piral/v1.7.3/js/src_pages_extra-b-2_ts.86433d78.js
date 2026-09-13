@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkv1_7_3=self.webpackChunkv1_7_3||[]).push([["src_pages_extra-b-2_ts"],{203(e,s,_){_.r(s),_.d(s,{b2:()=>a});var a="extra-b-2"}}]);
+//# sourceMappingURL=src_pages_extra-b-2_ts.86433d78.js.map

@@ -1,0 +1,2 @@
+function e(e,n,t,a){Object.defineProperty(e,n,{get:t,set:a,enumerable:!0,configurable:!0})}var n=globalThis.parcelRequirebc54,t=n.register;t("3xs30",function(t,a){e(t.exports,"show",()=>r);var o=n("3jhsx");function r(){console.log("views/detail chunk loaded (nested dynamic import target)",o.gamma)}}),t("3jhsx",function(n,t){e(n.exports,"gamma",()=>a);function a(){return"lib-b/gamma"}});
+//# sourceMappingURL=detail.ea261f0f.js.map

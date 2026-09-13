@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrsbuild_dynamic_load_demo=self.webpackChunkrsbuild_dynamic_load_demo||[]).push([["525"],{447:function(e,n,d){d.d(n,{K:()=>i});function i(){return"lib-a/beta"}},160:function(e,n,d){d.r(n),d.d(n,{render:()=>r});var i=d(447),u=d(838);function r(){(0,u.c)("views/about rendered",i.K),d.e("131").then(d.bind(d,352)).then(e=>e.show())}}}]);

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebpack_dynamic_load_demo=self.webpackChunkwebpack_dynamic_load_demo||[]).push([["page2-extra"],{568(e,a,c){c.d(a,{side:()=>o});var d=c(886);function o(){console.log("page2-extra chunk loaded",d.l)}}}]);
+//# sourceMappingURL=page2-extra.31be0ff3.js.map

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://webpack-dynamic-load-demo/./src/views/extra.js"],"names":["paint","console","log"],"mappings":"qJAAO,SAASA,IACdC,QAAQC,IAAI,yDACd,C","file":"js/src_views_extra_js.53243330.js","sourcesContent":["export function paint() {\n  console.log(\"views/extra chunk loaded (from inside a context chunk)\");\n}"],"sourceRoot":""}

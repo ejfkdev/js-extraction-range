@@ -1,0 +1,1 @@
+import{c as e,r as o,m as s}from"./render-template.3244c417.js";const i=e((t,r,a)=>o`${s()}<div class="comp comp-Five" id="comp-Five"> <h2>Comp Five</h2> <p class="state">initial</p> </div> `,"src/components/CompFive.astro",void 0);export{i as default};

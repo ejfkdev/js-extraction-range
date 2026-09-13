@@ -1,0 +1,1 @@
+"use strict";(globalThis.rspackChunkmodernjs_dynamic_load_demo=globalThis.rspackChunkmodernjs_dynamic_load_demo||[]).push([[516],{8511(a,d,s){s.r(d),s.d(d,{},{default:"template-b"})}}]);

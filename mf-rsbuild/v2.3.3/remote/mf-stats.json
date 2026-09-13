@@ -1,0 +1,53 @@
+{
+  "id": "remote",
+  "name": "remote",
+  "metaData": {
+    "name": "remote",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "1.0.0",
+      "buildName": "mf-rsbuild-dynamic-load-demo"
+    },
+    "remoteEntry": {
+      "name": "remoteEntry.js",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "remote",
+    "pluginVersion": "2.3.3",
+    "prefetchInterface": false,
+    "publicPath": "/remote/"
+  },
+  "shared": [],
+  "remotes": [],
+  "exposes": [
+    {
+      "path": "./remote-app",
+      "id": "remote:remote-app",
+      "name": "remote-app",
+      "requires": [],
+      "file": "src-remote/remote-app.js",
+      "assets": {
+        "js": {
+          "sync": [
+            "static/js/async/__federation_expose_remote_app.b54c3493.js"
+          ],
+          "async": [
+            "static/js/async/479.b4c6f8c5.js",
+            "static/js/async/36.54c4a234.js"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    }
+  ]
+}

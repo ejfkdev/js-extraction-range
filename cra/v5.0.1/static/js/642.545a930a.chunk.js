@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkcra_dynamic_load_demo||=[]).push([[642],{642(a,d,e){e.r(d),e.d(d,{default:()=>r});e(43);var i=e(579);function r(){return(0,i.jsx)("div",{children:"detail page"})}}}]);
+//# sourceMappingURL=642.545a930a.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"js/wdg-0.edc09c1b.js","mappings":"0IAAAA,QAAAC,IAAA","sources":["webpack://module-federation-dynamic-load-demo/./host/src/widgets/x.js"],"sourcesContent":["console.log(\"widget x loaded (context chunk)\");"],"names":["console","log"],"sourceRoot":""}

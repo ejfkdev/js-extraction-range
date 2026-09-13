@@ -1,0 +1,12 @@
+{
+  "routes": [
+    { "name": "home", "file": "js/lazy-home.js" },
+    { "name": "about", "file": "js/lazy-about.js" },
+    { "name": "loader", "file": "js/nested/loader.js" }
+  ],
+  "chunks": {
+    "w-0": "x1y2z3w4",
+    "w-1": "a5b6c7d8"
+  },
+  "workers": ["js/worker.js"]
+}

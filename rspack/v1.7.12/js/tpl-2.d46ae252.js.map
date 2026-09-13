@@ -1,0 +1,1 @@
+{"version":3,"file":"js/tpl-2.d46ae252.js","sources":["webpack://rspack-dynamic-load-demo/./src/templates/c.js"],"sourcesContent":["console.log(\"template c loaded (context chunk)\");"],"names":["console"],"mappings":"iHAAAA,QAAQ,GAAG,CAAC,oC"}

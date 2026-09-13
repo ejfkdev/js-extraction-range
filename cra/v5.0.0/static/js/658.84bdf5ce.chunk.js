@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkcra_dynamic_load_demo||=[]).push([[658],{658(a,d,e){e.r(d),e.d(d,{default:()=>l});var n=e(43),s=e(579);const i=(0,n.lazy)(()=>e.e(941).then(e.bind(e,941)));function l(){return(0,s.jsxs)("div",{children:[(0,s.jsx)("span",{children:"team page"}),(0,s.jsx)(n.Suspense,{fallback:(0,s.jsx)("div",{children:"loading dashboard\u2026"}),children:(0,s.jsx)(i,{})})]})}}}]);
+//# sourceMappingURL=658.84bdf5ce.chunk.js.map

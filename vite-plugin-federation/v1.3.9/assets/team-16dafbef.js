@@ -1,0 +1,1 @@
+import{_ as r}from"./index-4cb421d5.js";import{g as o}from"./gamma-c588c891.js";function _(){console.log("views/team rendered",o),r(()=>import("./dashboard-cb3c583b.js"),[]).then(e=>e.render())}export{_ as render};

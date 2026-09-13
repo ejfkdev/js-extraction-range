@@ -1,0 +1,10 @@
+{
+  "remote-lib-main": {
+    "url": "/lib/lib-main.js",
+    "offlineChunks": ["/lib/lib-lazy.js"]
+  },
+  "remote-lib-extra": {
+    "url": "/lib/lib-extra.js",
+    "offlineChunks": ["/lib/lib-extra2.js"]
+  }
+}

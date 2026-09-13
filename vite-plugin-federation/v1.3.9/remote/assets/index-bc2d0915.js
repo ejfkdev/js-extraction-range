@@ -1,0 +1,1 @@
+import{_ as e}from"./preload-helper-5aa2bf15.js";import{b as r}from"./remote-shared-8ffef60d.js";r("remote entry loaded");e(()=>import("./__federation_expose_Remote-app-efe39280.js"),[]).then(t=>{const o=document.getElementById("remote-root");o&&t.default.mount(o)});

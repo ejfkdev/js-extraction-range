@@ -1,0 +1,2 @@
+(self.webpackChunkemp_dj_site=self.webpackChunkemp_dj_site||[]).push([["src_pages_page-b_ts"],{882:function(e,n,s){"use strict";function t(){return"page-b"}s.r(n),s.d(n,{page:function(){return t}})}}]);
+//# sourceMappingURL=src_pages_page-b_ts.daad4f31.js.map

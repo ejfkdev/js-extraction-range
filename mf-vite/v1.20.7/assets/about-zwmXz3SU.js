@@ -1,0 +1,1 @@
+const t="gamma";function n(){const e=document.createElement("div");e.textContent="about rendered ("+t+")",document.getElementById("root").appendChild(e)}const o={render:n};export{o as default,n as render};

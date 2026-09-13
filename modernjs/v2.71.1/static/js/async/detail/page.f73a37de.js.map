@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/async/detail/page.344fc949.js","mappings":"0JAAA,MAKA,EALeA,KACbC,EAAAA,EAAAA,KAAA,QAAAC,UACED,EAAAA,EAAAA,KAAA,MAAAC,SAAI,a","sources":["src/routes/detail/page.tsx"],"sourcesContent":["const Detail = () => (\n  <main>\n    <h1>detail</h1>\n  </main>\n);\nexport default Detail;\n"],"names":["Detail","_jsx","children"],"sourceRoot":""}

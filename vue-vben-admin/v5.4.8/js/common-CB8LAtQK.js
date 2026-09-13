@@ -1,0 +1,1 @@
+const o="返回",n="返回首页",c="登录",t="退出登录",s="提示",a="取消",e="确认",r="暂无数据",l="刷新",m="加载菜单中",u="查询",g={back:o,backToHome:n,login:c,logout:t,prompt:s,cancel:a,confirm:e,noData:r,refresh:l,loadingMenu:m,query:u};export{o as back,n as backToHome,a as cancel,e as confirm,g as default,m as loadingMenu,c as login,t as logout,r as noData,s as prompt,u as query,l as refresh};

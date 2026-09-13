@@ -1,0 +1,1 @@
+import{b as o,_ as r}from"./remote-shared-y9n_BV5q.js";o("remote entry loaded");r(()=>import("./__federation_expose_Remote-app-ynxVWDYd.js"),[]).then(t=>{const e=document.getElementById("remote-root");e&&t.default.mount(e)});

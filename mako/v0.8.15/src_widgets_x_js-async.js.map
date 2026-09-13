@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/widgets/x.js"],"sourcesContent":["console.log(\"widget x loaded (context chunk)\");\n"],"names":[],"mappings":";;;;;;YAAA,QAAQ,GAAG,CAAC"}

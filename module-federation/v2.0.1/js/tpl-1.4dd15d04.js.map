@@ -1,0 +1,1 @@
+{"version":3,"file":"js/tpl-1.4dd15d04.js","mappings":"0IAAAA,QAAAC,IAAA","sources":["webpack://module-federation-dynamic-load-demo/./host/src/templates/b.js"],"sourcesContent":["console.log(\"template b loaded (context chunk)\");"],"names":["console","log"],"sourceRoot":""}

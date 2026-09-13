@@ -1,0 +1,1 @@
+import{_ as a}from"./preload-helper-DfZQVC28.js";import{g as m}from"./gamma-DbgPTHvm.js";console.log("template a loaded (expression import dir), gamma:",m);a(()=>import("./extra-D53d_I-3.js"),[]).then(o=>o.paint());

@@ -1,0 +1,1 @@
+import{C as s,G as t,T as e,a as r}from"./q-BfJAmizJ.js";import{k as n,z as l,c as a}from"./q-D-IOCjLy.js";const i=()=>n("main",null,null,[n("h1",null,{class:"site-title"},"Qwik City SPA",3,null),l(s,null,3,"0Y_0"),l(t,{name:"DJ",[a]:{name:a}},3,"0Y_1"),l(e,null,3,"0Y_2"),l(r,null,3,"0Y_3")],1,"0Y_4");export{i as s_0zLEZiVuE7w};

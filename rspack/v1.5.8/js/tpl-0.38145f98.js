@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrspack_dynamic_load_demo=self.webpackChunkrspack_dynamic_load_demo||[]).push([["tpl-0"],{143:function(e,a,n){n.r(a),console.log("template a loaded (context chunk), gamma:",n(74).u),n.e("src_views_extra_js").then(n.bind(n,683)).then(e=>e.paint())}}]);
+//# sourceMappingURL=tpl-0.38145f98.js.map

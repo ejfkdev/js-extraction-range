@@ -1,0 +1,1 @@
+import{R as e,S as t,h as n}from"./vue.runtime.esm-bundler-P1jIn7UA.js";import{t as r}from"./common-table-C-8WN-ui.js";var i=t({name:`ListFilter`,__name:`index`,setup(t){return(t,i)=>(e(),n(r))}});export{i as default};

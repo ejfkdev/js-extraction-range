@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/views/home.js"],"names":["render"],"mappings":"yFAAA,gEAGO,SAASA,IACd,YAAI,sBAAuB","file":"js/views-home.10618390.js","sourcesContent":["import { alpha } from \"../lib-a/alpha\";\nimport { log } from \"../shared/deep\";\n\nexport function render() {\n  log(\"views/home rendered\", alpha);\n}"],"sourceRoot":""}

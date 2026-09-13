@@ -1,0 +1,62 @@
+<!DOCTYPE html><html lang="en"><head><script  class='$tsr'>(self.$R=self.$R||{})["tsr"]=[];self.$_TSR={c(){document.querySelectorAll(".\\$tsr").forEach(e=>{e.remove()})},p(e){this.initialized?e():this.buffer.push(e)},buffer:[]};
+;$_TSR.router=($R=>$R[0]={manifest:$R[1]={routes:$R[2]={__root__:$R[3]={preloads:$R[4]=["/assets/main-5n1QFCMe.js"],assets:$R[5]=[$R[6]={tag:"script",attrs:$R[7]={type:"module",suppressHydrationWarning:!0,async:!0},children:"import('/assets/main-5n1QFCMe.js')"}]},"/":$R[8]={preloads:$R[9]=["/assets/index-icsILViG.js"],assets:$R[10]=[]},"/page1":$R[11]={preloads:$R[12]=["/assets/page1-BKKN_gjA.js"],assets:$R[13]=[]},"/page2":$R[14]={preloads:$R[15]=["/assets/page2-g9ebhPFn.js"],assets:$R[16]=[]},"/page3":$R[17]={preloads:$R[18]=["/assets/page3-Dl2pBOFz.js"],assets:$R[19]=[]}},clientEntry:"/assets/main-5n1QFCMe.js"},matches:$R[20]=[$R[21]={i:"__root__/",u:1787037192663,s:"success",ssr:!0},$R[22]={i:"/page2/page2",u:1787037192664,s:"success",ssr:!0}],lastMatchId:"/page2/page2",dehydratedData:void 0})($R["tsr"]);$_TSR.c()</script><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>TanStack Start SPA Demo</title><link rel="modulepreload" href="/assets/main-5n1QFCMe.js"/><link rel="modulepreload" href="/assets/page2-g9ebhPFn.js"/></head><body><nav><a href="/">Home</a> | <a href="/page1">Page1</a> |<!-- --> <a class="active" href="/page2" data-status="active" aria-current="page">Page2</a> | <a href="/page3">Page3</a></nav><!--$--><div><h2>Page 2</h2><p>page two content goes here</p></div><script></script><script class="$tsr">(function restoreScroll({
+  storageKey: storageKey2,
+  key,
+  behavior,
+  shouldScrollRestoration,
+  scrollToTopSelectors,
+  location
+}) {
+  let byKey;
+  try {
+    byKey = JSON.parse(sessionStorage.getItem(storageKey2) || "{}");
+  } catch (error) {
+    console.error(error);
+    return;
+  }
+  const resolvedKey = key || window.history.state?.__TSR_key;
+  const elementEntries = byKey[resolvedKey];
+  ignoreScroll = true;
+  scroll: {
+    if (shouldScrollRestoration && elementEntries && Object.keys(elementEntries).length > 0) {
+      for (const elementSelector in elementEntries) {
+        const entry = elementEntries[elementSelector];
+        if (elementSelector === "window") {
+          window.scrollTo({
+            top: entry.scrollY,
+            left: entry.scrollX,
+            behavior
+          });
+        } else if (elementSelector) {
+          const element = document.querySelector(elementSelector);
+          if (element) {
+            element.scrollLeft = entry.scrollX;
+            element.scrollTop = entry.scrollY;
+          }
+        }
+      }
+      break scroll;
+    }
+    const hash = (location ?? window.location).hash.split("#", 2)[1];
+    if (hash) {
+      const hashScrollIntoViewOptions = window.history.state?.__hashScrollIntoViewOptions ?? true;
+      if (hashScrollIntoViewOptions) {
+        const el = document.getElementById(hash);
+        if (el) {
+          el.scrollIntoView(hashScrollIntoViewOptions);
+        }
+      }
+      break scroll;
+    }
+    const scrollOptions = { top: 0, left: 0, behavior };
+    window.scrollTo(scrollOptions);
+    if (scrollToTopSelectors) {
+      for (const selector of scrollToTopSelectors) {
+        if (selector === "window") continue;
+        const element = typeof selector === "function" ? selector() : document.querySelector(selector);
+        if (element) element.scrollTo(scrollOptions);
+      }
+    }
+  }
+  ignoreScroll = false;
+})({"storageKey":"tsr-scroll-restoration-v1_3","shouldScrollRestoration":true});$_TSR.c()</script><!--/$--><script type="module" async="">import('/assets/main-5n1QFCMe.js')</script></body></html>

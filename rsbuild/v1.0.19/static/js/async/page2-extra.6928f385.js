@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrsbuild_dynamic_load_demo=self.webpackChunkrsbuild_dynamic_load_demo||[]).push([["242"],{447:function(n,e,u){u.d(e,{K:function(){return o}});function o(){return"lib-a/beta"}},955:function(n,e,u){u.r(e),u.d(e,{side:function(){return c}});var o=u(447);function c(){console.log("page2-extra chunk loaded",o.K)}}}]);

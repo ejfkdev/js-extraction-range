@@ -1,0 +1,156 @@
+{
+  "_vendor-lib-a-D9xvV3QL.js": {
+    "file": "assets/vendor-lib-a-D9xvV3QL.js",
+    "name": "vendor-lib-a"
+  },
+  "_vendor-lib-b-CRQrJT1E.js": {
+    "file": "assets/vendor-lib-b-CRQrJT1E.js",
+    "name": "vendor-lib-b"
+  },
+  "index.html": {
+    "file": "assets/index-C23IwRwO.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_vendor-lib-a-D9xvV3QL.js"
+    ],
+    "dynamicImports": [
+      "src/views/home.js",
+      "src/views/about.js",
+      "src/views/settings.js",
+      "src/views/team.js",
+      "src/page2-extra.js",
+      "src/templates/a.js",
+      "src/templates/b.js",
+      "src/templates/c.js",
+      "src/widgets/x.js",
+      "src/widgets/y.js"
+    ]
+  },
+  "src/page2-extra.js": {
+    "file": "assets/page2-extra-CFVEdUiE.js",
+    "name": "page2-extra",
+    "src": "src/page2-extra.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-lib-a-D9xvV3QL.js"
+    ]
+  },
+  "src/templates/a.js": {
+    "file": "assets/a-Canenrtt.js",
+    "name": "a",
+    "src": "src/templates/a.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_vendor-lib-b-CRQrJT1E.js"
+    ],
+    "dynamicImports": [
+      "src/views/extra.js"
+    ]
+  },
+  "src/templates/b.js": {
+    "file": "assets/b-B1fPvnYG.js",
+    "name": "b",
+    "src": "src/templates/b.js",
+    "isDynamicEntry": true
+  },
+  "src/templates/c.js": {
+    "file": "assets/c-BA9rERkM.js",
+    "name": "c",
+    "src": "src/templates/c.js",
+    "isDynamicEntry": true
+  },
+  "src/views/about.js": {
+    "file": "assets/about-D-jXMFuH.js",
+    "name": "about",
+    "src": "src/views/about.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-lib-a-D9xvV3QL.js",
+      "index.html"
+    ],
+    "dynamicImports": [
+      "src/views/detail.js"
+    ]
+  },
+  "src/views/dashboard.js": {
+    "file": "assets/dashboard-C4Uu8Deq.js",
+    "name": "dashboard",
+    "src": "src/views/dashboard.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-lib-a-D9xvV3QL.js",
+      "index.html"
+    ],
+    "dynamicImports": [
+      "src/views/metrics.js"
+    ]
+  },
+  "src/views/detail.js": {
+    "file": "assets/detail-DHZtYmvW.js",
+    "name": "detail",
+    "src": "src/views/detail.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-lib-b-CRQrJT1E.js"
+    ]
+  },
+  "src/views/extra.js": {
+    "file": "assets/extra-Cd3r5b6l.js",
+    "name": "extra",
+    "src": "src/views/extra.js",
+    "isDynamicEntry": true
+  },
+  "src/views/home.js": {
+    "file": "assets/home-CjyCN_gt.js",
+    "name": "home",
+    "src": "src/views/home.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-lib-a-D9xvV3QL.js",
+      "index.html"
+    ]
+  },
+  "src/views/metrics.js": {
+    "file": "assets/metrics-MhdsQafC.js",
+    "name": "metrics",
+    "src": "src/views/metrics.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-lib-a-D9xvV3QL.js"
+    ]
+  },
+  "src/views/settings.js": {
+    "file": "assets/settings-CnlOoSoU.js",
+    "name": "settings",
+    "src": "src/views/settings.js",
+    "isDynamicEntry": true
+  },
+  "src/views/team.js": {
+    "file": "assets/team-D_TGNxKn.js",
+    "name": "team",
+    "src": "src/views/team.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_vendor-lib-b-CRQrJT1E.js"
+    ],
+    "dynamicImports": [
+      "src/views/dashboard.js"
+    ]
+  },
+  "src/widgets/x.js": {
+    "file": "assets/x-5QOtB25q.js",
+    "name": "x",
+    "src": "src/widgets/x.js",
+    "isDynamicEntry": true
+  },
+  "src/widgets/y.js": {
+    "file": "assets/y-B5TWsDtc.js",
+    "name": "y",
+    "src": "src/widgets/y.js",
+    "isDynamicEntry": true
+  }
+}

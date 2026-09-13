@@ -1,0 +1,1 @@
+{"version":3,"file":"js/host_src_views_extra_js.7b95a4c2.js","mappings":"+KAAO,SAAAA,IACPC,QAAAC,IAAA,yDACA","sources":["webpack://module-federation-dynamic-load-demo/./host/src/views/extra.js"],"sourcesContent":["export function paint() {\n  console.log(\"views/extra chunk loaded (from inside a context chunk)\");\n}"],"names":["paint","console","log"],"sourceRoot":""}

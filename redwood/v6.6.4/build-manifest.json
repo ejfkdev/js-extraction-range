@@ -1,0 +1,82 @@
+{
+  "index.html": {
+    "dynamicImports": [
+      "pages/DashboardPage/DashboardPage.tsx",
+      "pages/HomePage/HomePage.tsx",
+      "pages/NotFoundPage/NotFoundPage.tsx",
+      "pages/TeamPage/TeamPage.tsx",
+      "pages/HomePage/HomePage.tsx",
+      "pages/TeamPage/TeamPage.tsx",
+      "pages/DashboardPage/DashboardPage.tsx"
+    ],
+    "file": "assets/index-44a76f04.js",
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "pages/DashboardPage/DashboardPage.tsx": {
+    "dynamicImports": [
+      "templates/TplOne.tsx",
+      "templates/TplThree.tsx",
+      "templates/TplTwo.tsx"
+    ],
+    "file": "assets/DashboardPage-e90bef35.js",
+    "imports": [
+      "index.html"
+    ],
+    "isDynamicEntry": true,
+    "src": "pages/DashboardPage/DashboardPage.tsx"
+  },
+  "pages/HomePage/HomePage.tsx": {
+    "dynamicImports": [
+      "widgets/WdgAlpha.tsx",
+      "widgets/WdgBeta.tsx"
+    ],
+    "file": "assets/HomePage-f85d9bbc.js",
+    "imports": [
+      "index.html"
+    ],
+    "isDynamicEntry": true,
+    "src": "pages/HomePage/HomePage.tsx"
+  },
+  "pages/NotFoundPage/NotFoundPage.tsx": {
+    "file": "assets/NotFoundPage-97c57225.js",
+    "imports": [
+      "index.html"
+    ],
+    "isDynamicEntry": true,
+    "src": "pages/NotFoundPage/NotFoundPage.tsx"
+  },
+  "pages/TeamPage/TeamPage.tsx": {
+    "file": "assets/TeamPage-5f4bb48f.js",
+    "imports": [
+      "index.html"
+    ],
+    "isDynamicEntry": true,
+    "src": "pages/TeamPage/TeamPage.tsx"
+  },
+  "templates/TplOne.tsx": {
+    "file": "assets/TplOne-c3bbf2d4.js",
+    "isDynamicEntry": true,
+    "src": "templates/TplOne.tsx"
+  },
+  "templates/TplThree.tsx": {
+    "file": "assets/TplThree-9e9e2e5c.js",
+    "isDynamicEntry": true,
+    "src": "templates/TplThree.tsx"
+  },
+  "templates/TplTwo.tsx": {
+    "file": "assets/TplTwo-ec658f97.js",
+    "isDynamicEntry": true,
+    "src": "templates/TplTwo.tsx"
+  },
+  "widgets/WdgAlpha.tsx": {
+    "file": "assets/WdgAlpha-b000f9aa.js",
+    "isDynamicEntry": true,
+    "src": "widgets/WdgAlpha.tsx"
+  },
+  "widgets/WdgBeta.tsx": {
+    "file": "assets/WdgBeta-a6131487.js",
+    "isDynamicEntry": true,
+    "src": "widgets/WdgBeta.tsx"
+  }
+}

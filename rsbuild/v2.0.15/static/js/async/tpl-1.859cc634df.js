@@ -1,0 +1,1 @@
+(self.rspackChunkrsbuild_dynamic_load_demo=self.rspackChunkrsbuild_dynamic_load_demo||[]).push([[500],{85(){console.log("template b loaded (context chunk)")}}]);

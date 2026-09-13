@@ -1,0 +1,1 @@
+import{w as o,j as e,L as n}from"./jsx-runtime-Cg8uu_RG.js";const r=o(function(){return e.jsxs("div",{children:[e.jsx("h1",{children:"Home"}),e.jsxs("nav",{children:[e.jsx(n,{to:"/page1",children:"Page1"})," | ",e.jsx(n,{to:"/page2",children:"Page2"})," |"," ",e.jsx(n,{to:"/page3",children:"Page3"})]}),e.jsx("p",{children:"home content"})]})});export{r as default};

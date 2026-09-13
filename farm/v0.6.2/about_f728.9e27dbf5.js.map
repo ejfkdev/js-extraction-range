@@ -1,0 +1,1 @@
+{"version":3,"sources":["/src/views/about.js"],"sourcesContent":["export function render() { console.log(\"views/about rendered\"); }\n"],"names":[],"mappings":"0NAAO,SAAA,IAAS,QAAA,GAAA,CAAA,wBAAgD,oFAAhD,WAAA,CAAA,EAAA,IAAA,WAAA,OAAA,EAAA,CAAA,GAAgD,CAAA"}

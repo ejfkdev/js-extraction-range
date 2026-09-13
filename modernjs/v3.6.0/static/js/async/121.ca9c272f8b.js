@@ -1,0 +1,1 @@
+"use strict";(globalThis.rspackChunkmodernjs_dynamic_load_demo=globalThis.rspackChunkmodernjs_dynamic_load_demo||[]).push([[121],{93976(d,s,a){a.r(s),a.d(s,{},{wy:"widget-y"})}}]);

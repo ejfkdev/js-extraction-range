@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/dashboard-oOxh6Anb.js","assets/preload-helper-BlTxHScW.js"])))=>i.map(i=>d[i]);
+import{_ as n}from"./preload-helper-BlTxHScW.js";function r(){const e=document.createElement("div");e.textContent="team rendered",document.getElementById("root").appendChild(e),n(()=>import("./dashboard-oOxh6Anb.js"),__vite__mapDeps([0,1])).then(t=>t.render())}export{r as render};

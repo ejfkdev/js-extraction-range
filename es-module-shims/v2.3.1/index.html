@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>es-module-shims import-map SPA</title>
+  <!-- polyfill first: es-module-shims handles import maps in browsers without
+       native support (the file itself is the version under test) -->
+  <script async src="/libs/es-module-shims.js"></script>
+  <!-- import map: bare specifiers -> /libs/*.js -->
+  <script type="importmap">
+  {
+    "imports": {
+      "lib-a": "/libs/a.js",
+      "lib-b": "/libs/b.js",
+      "util-x": "/libs/util.js"
+    }
+  }
+  </script>
+</head>
+<body>
+  <div id="root">index page</div>
+  <script type="module" src="/main.js"></script>
+</body>
+</html>

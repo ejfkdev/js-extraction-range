@@ -1,0 +1,2 @@
+(self.webpackChunkrspack_dynamic_load_demo=self.webpackChunkrspack_dynamic_load_demo||[]).push([["tpl-2"],{625:function(){console.log("template c loaded (context chunk)")}}]);
+//# sourceMappingURL=tpl-2.009be388.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"js/wdg-0.179e0be3.js","sources":["webpack://rspack-dynamic-load-demo/./src/widgets/x.js"],"sourcesContent":["console.log(\"widget x loaded (context chunk)\");"],"names":["console"],"mappings":"+GAAAA,QAAQ,GAAG,CAAC,kC"}

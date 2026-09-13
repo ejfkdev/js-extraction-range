@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebpack_mf_official_dynamic_load_demo=self.webpackChunkwebpack_mf_official_dynamic_load_demo||[]).push([["views-settings"],{63:(e,c,n)=>{function i(){console.log("views/settings rendered (lazy-once chunk)")}n.r(c),n.d(c,{render:()=>i})}}]);
+//# sourceMappingURL=views-settings.73d7dde2.js.map

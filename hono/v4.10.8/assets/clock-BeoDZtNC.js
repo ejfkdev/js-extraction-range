@@ -1,0 +1,1 @@
+import{r,j as t}from"./index-BIv2lrKK.js";const o=()=>{const e=()=>{n.textContent="time: "+new Date().toLocaleTimeString()},n=t("span",{children:"time: --"});return setInterval(e,1e3),e(),t("div",{children:["Clock widget ",n]})},i=e=>{e.replaceChildren(),r(t(o,{}),e)};export{i as mountClock};

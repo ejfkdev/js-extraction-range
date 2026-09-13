@@ -1,0 +1,1 @@
+import{t as e}from"./columns-3RSGp0hm.js";export{e as useColumns};

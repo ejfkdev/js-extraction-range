@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/async/49.8d0f49b4.js","mappings":"0KAAc,c","sources":["webpack://modernjs-dynamic-load-demo/./src/templates/a.ts"],"sourcesContent":["const value = 'template-a';\nexport default value;\n"],"names":[],"sourceRoot":""}

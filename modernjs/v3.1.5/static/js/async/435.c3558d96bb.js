@@ -1,0 +1,1 @@
+"use strict";(globalThis.rspackChunkmodernjs_dynamic_load_demo=globalThis.rspackChunkmodernjs_dynamic_load_demo||[]).push([[435],{56470(e,d,a){var o=a(74848);a.d(d,{},{default:()=>(a.e(319).then(a.bind(a,69602)).then(e=>console.log("extra loaded",e.default)),(0,o.jsx)("p",{children:"home extra"}))})}}]);

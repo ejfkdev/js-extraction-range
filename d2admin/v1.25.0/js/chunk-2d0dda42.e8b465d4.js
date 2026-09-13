@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0dda42"],{"81f9":function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n._self._c;return e("d2-container",{attrs:{type:"card"}},[e("p",[n._v("src/views/demo/playground/add-routes/alternates/2.vue")])])},r=[],s=t("2877"),u={},d=Object(s["a"])(u,a,r,!1,null,null,null);e["default"]=d.exports}}]);

@@ -1,0 +1,1 @@
+import{t as e}from"./hook-DqbCvEVi.js";export{e as useMenu};

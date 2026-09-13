@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkemp_dj_site=self.webpackChunkemp_dj_site||[]).push([["src_pages_page-b_ts"],{206(e,s,p){function t(){return"page-b"}p.r(s),p.d(s,{page:function(){return t}})}}]);
+//# sourceMappingURL=src_pages_page-b_ts.bedadbbc.js.map

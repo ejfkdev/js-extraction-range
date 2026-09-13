@@ -1,0 +1,65 @@
+{
+  "_chunk-B4feTDva.js": {
+    "file": "assets/chunks/chunk-B4feTDva.js",
+    "name": "preload-helper"
+  },
+  "node_modules/vike/dist/client/runtime-client-routing/entry.js": {
+    "file": "assets/entries/entry-client-routing.B-Cw6qH0.js",
+    "name": "entries/entry-client-routing",
+    "src": "node_modules/vike/dist/client/runtime-client-routing/entry.js",
+    "isEntry": true,
+    "imports": [
+      "_chunk-B4feTDva.js"
+    ],
+    "dynamicImports": [
+      "virtual:vike:page-entry:client:/pages/index"
+    ]
+  },
+  "src/widgets/extra-one.js": {
+    "file": "assets/chunks/chunk-ByZk0HR6.js",
+    "name": "extra-one",
+    "src": "src/widgets/extra-one.js",
+    "isDynamicEntry": true
+  },
+  "src/widgets/extra-two.js": {
+    "file": "assets/chunks/chunk-45m28Mb6.js",
+    "name": "extra-two",
+    "src": "src/widgets/extra-two.js",
+    "isDynamicEntry": true
+  },
+  "src/widgets/widget-a.js": {
+    "file": "assets/chunks/chunk-BzFE2OTM.js",
+    "name": "widget-a",
+    "src": "src/widgets/widget-a.js",
+    "isDynamicEntry": true
+  },
+  "src/widgets/widget-b.js": {
+    "file": "assets/chunks/chunk-BI_uXjDT.js",
+    "name": "widget-b",
+    "src": "src/widgets/widget-b.js",
+    "isDynamicEntry": true
+  },
+  "src/widgets/widget-c.js": {
+    "file": "assets/chunks/chunk-DaXAM5VF.js",
+    "name": "widget-c",
+    "src": "src/widgets/widget-c.js",
+    "isDynamicEntry": true
+  },
+  "virtual:vike:page-entry:client:/pages/index": {
+    "file": "assets/entries/pages_index.CmTpqvGA.js",
+    "name": "entries/pages/index",
+    "src": "virtual:vike:page-entry:client:/pages/index",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-B4feTDva.js"
+    ],
+    "dynamicImports": [
+      "src/widgets/widget-a.js",
+      "src/widgets/widget-b.js",
+      "src/widgets/widget-c.js",
+      "src/widgets/extra-one.js",
+      "src/widgets/extra-two.js"
+    ]
+  }
+}

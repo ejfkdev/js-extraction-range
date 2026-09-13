@@ -1,0 +1,1 @@
+{"version":3,"sources":["/src/views/settings.js"],"sourcesContent":["export function render() { console.log(\"views/settings rendered\"); }\n"],"names":[],"mappings":"iOAAgB,SAAA,IAAuB,QAAA,GAAA,CAAA,2BAA4B,oFAAnD,WAAA,CAAA,EAAA,IAAA,WAAA,OAAA,EAAA,CAAA,GAAmD,CAAA"}

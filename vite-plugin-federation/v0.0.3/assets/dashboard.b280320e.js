@@ -1,0 +1,1 @@
+import{_ as r}from"./index.742505e4.js";import{b as o}from"./beta.28d4e94c.js";function _(){console.log("views/dashboard rendered",o),r(()=>import("./metrics.2b86f588.js"),["assets/metrics.2b86f588.js","assets/index.742505e4.js"]).then(e=>e.render())}export{_ as render};

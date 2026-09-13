@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/detail-DHZtYmvW.js","assets/vendor-lib-b-CRQrJT1E.js"])))=>i.map(i=>d[i]);
+import{t as e}from"./vendor-lib-a-D9xvV3QL.js";import{n as t,t as n}from"./index-Dkf8tCcg.js";function r(){t(`views/about rendered`,e),n(()=>import(`./detail-DHZtYmvW.js`).then(e=>e.show()),__vite__mapDeps([0,1]))}export{r as render};

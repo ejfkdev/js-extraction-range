@@ -1,0 +1,1 @@
+{"version":3,"file":"js/shared.67abeaba.js","sources":["webpack://rspack-dynamic-load-demo/./src/shared/deep.js"],"sourcesContent":["export function log(msg, extra) {\n  console.log(\"[shared/deep]\", msg, extra === undefined ? \"\" : extra);\n}"],"names":["console"],"mappings":"8JAAO,SAAS,EAAI,CAAG,CAAE,CAAK,EAC5BA,QAAQ,GAAG,CAAC,gBAAiB,EAAK,AAAU,SAAV,EAAsB,GAAK,EAC/D,C"}

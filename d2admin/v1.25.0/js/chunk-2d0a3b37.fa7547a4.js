@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a3b37"],{"02fe":function(n,t,o){"use strict";o.r(t);var u=function(){var n=this,t=n._self._c;return t("div",[t("van-button",{attrs:{type:"info",block:""}},[n._v(" Vant info button with custom color ")])],1)},c=[],a=o("2877"),e={},i=Object(a["a"])(e,u,c,!1,null,null,null);t["default"]=i.exports}}]);

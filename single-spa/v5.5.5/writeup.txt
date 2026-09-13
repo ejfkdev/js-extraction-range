@@ -1,0 +1,15 @@
+app1/app1-extra.js
+app1/app1.js
+app2/app2.js
+app3/app3.js
+js/dynamic/chain2/dashboard-WZNOKAk-.js
+js/dynamic/chain3/metrics-uEBb0Kju.js
+js/dynamic/dep/shared-D2KJQSCd.js
+js/dynamic/dep/single-spa-BPwXb8Nx.js
+js/dynamic/lazy/about-C6tBUwwG.js
+js/dynamic/lazy/extra-C7trGJAS.js
+js/dynamic/lazy/home-JDYy4kN6.js
+js/dynamic/lazy/settings-C8MOrQBP.js
+js/dynamic/lazy/team-D8EyOagc.js
+js/index.js
+lib/system.min.js

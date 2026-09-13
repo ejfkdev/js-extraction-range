@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrspack_dynamic_load_demo=self.webpackChunkrspack_dynamic_load_demo||[]).push([["views-team"],{230:function(e,n,a){a.r(n),a.d(n,{render:()=>r});var d=a(945);function r(){console.log("views/team rendered",d.y),Promise.all([a.e("vendor-lib-a"),a.e("views-dashboard")]).then(a.bind(a,221)).then(e=>e.render())}}}]);
+//# sourceMappingURL=views-team.765ca19a.js.map

@@ -1,0 +1,1 @@
+import{t as e}from"./table-WepiJccR.js";export{e as default};

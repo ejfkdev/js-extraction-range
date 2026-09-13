@@ -1,0 +1,1 @@
+{"version":3,"file":"js/src_views_extra_js.48364970.js","sources":["webpack://rspack-dynamic-load-demo/./src/views/extra.js"],"sourcesContent":["export function paint() {\n  console.log(\"views/extra chunk loaded (from inside a context chunk)\");\n}"],"names":["paint","console"],"mappings":"yJAAO,SAASA,IACdC,QAAQ,GAAG,CAAC,yDACd,C"}

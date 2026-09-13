@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkemp_dj_site=self.webpackChunkemp_dj_site||[]).push([["src_widgets_w1_ts"],{181(e,t,s){function n(){return"w1"}s.d(t,{widget:function(){return n}})}}]);
+//# sourceMappingURL=src_widgets_w1_ts.b9714f34.js.map

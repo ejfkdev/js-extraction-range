@@ -1,0 +1,1 @@
+"use strict";(globalThis.rspackChunkmodernjs_dynamic_load_demo=globalThis.rspackChunkmodernjs_dynamic_load_demo||[]).push([["570"],{55977(a,d,e){e.r(d),e.d(d,{default:()=>l});let l="template-c"}}]);

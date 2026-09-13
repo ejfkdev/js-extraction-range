@@ -1,0 +1,1 @@
+import{l as e,r as t}from"./web-CNBk8amf.js";var n=e(`<div><h2>Page 3</h2><p>page three content goes here`);function r(){return t(n)}export{r as default};

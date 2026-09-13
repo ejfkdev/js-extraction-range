@@ -1,0 +1,1 @@
+import{t as e}from"./vendor-lib-a-O545pnoL.js";function t(){console.log(`page2-extra chunk loaded`,e)}export{t as side};

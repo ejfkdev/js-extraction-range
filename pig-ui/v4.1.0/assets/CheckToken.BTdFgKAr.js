@@ -1,0 +1,1 @@
+import{H as a,M as s,R as t,tt as e}from"./vue.ClqaXiZU.js";import{F as r}from"./tagsViewRoutes.Cwi6gg9R.js";import{v as o}from"./shared.XWVOqqHJ.js";a();var m=t({name:"check-token"}),i=t({...m,setup(a){const{pause:t}=o(async()=>{try{await r()&&t()}catch{t()}},6e4,{immediate:!0});return(a,t)=>(e(),s("div"))}});export{i as default};

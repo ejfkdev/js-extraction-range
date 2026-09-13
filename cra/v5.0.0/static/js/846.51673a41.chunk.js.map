@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/846.f37f2ec9.chunk.js","mappings":"0IACe,SAASA,IACtB,OAAOC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,WACd","sources":["pages/Metrics.jsx"],"sourcesContent":["import React from \"react\";\nexport default function Metrics() {\n  return <div>metrics</div>;\n}\n"],"names":["Metrics","_jsx","children"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrsbuild_dynamic_load_demo=self.webpackChunkrsbuild_dynamic_load_demo||[]).push([["131"],{424:function(n,e,i){i.d(e,{y:function(){return o}});function o(){return"lib-b/gamma"}},352:function(n,e,i){i.r(e),i.d(e,{show:function(){return t}});var o=i(424);function t(){console.log("views/detail chunk loaded (nested dynamic import target)",o.y)}}}]);

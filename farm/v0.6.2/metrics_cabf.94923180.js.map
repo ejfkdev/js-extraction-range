@@ -1,0 +1,1 @@
+{"version":3,"sources":["/src/views/metrics.js"],"sourcesContent":["export function render() { console.log(\"views/metrics rendered\"); }\n"],"names":[],"mappings":"0NAAO,SAAA,IAAS,QAAA,GAAA,CAAA,0BAAkD,oFAAlD,WAAA,CAAA,EAAA,IAAA,WAAA,OAAA,EAAA,CAAA,GAAkD,CAAA"}

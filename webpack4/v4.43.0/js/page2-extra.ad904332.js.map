@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/page2-extra.js"],"names":["side","console","log"],"mappings":"wFAAA,wDAEO,SAASA,IACdC,QAAQC,IAAI,2BAA4B","file":"js/page2-extra.ad904332.js","sourcesContent":["import { beta } from \"./lib-a/beta\";\n\nexport function side() {\n  console.log(\"page2-extra chunk loaded\", beta);\n}"],"sourceRoot":""}

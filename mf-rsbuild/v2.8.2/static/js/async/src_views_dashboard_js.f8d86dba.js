@@ -1,0 +1,1 @@
+"use strict";(self.chunk_host=self.chunk_host||[]).push([["src_views_dashboard_js"],{"./src/views/dashboard.js"(e,s,t){t.d(s,{render:()=>d});function d(){let e=document.createElement("div");e.textContent="dashboard rendered",document.getElementById("root").appendChild(e),t.e("src_views_metrics_js").then(t.bind(t,"./src/views/metrics.js")).then(e=>e.render())}}}]);

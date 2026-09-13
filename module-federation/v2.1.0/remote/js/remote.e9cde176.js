@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmodule_federation_dynamic_load_demo=self.webpackChunkmodule_federation_dynamic_load_demo||[]).push([["rshared"],{6981:(e,d,o)=>{o.d(d,{z:()=>a});const a=(...e)=>console.log("[remote/shared]",...e)}}]);
+//# sourceMappingURL=remote.e9cde176.js.map

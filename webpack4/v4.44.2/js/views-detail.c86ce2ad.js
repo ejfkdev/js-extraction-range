@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{17:function(n,o,e){"use strict";e.r(o),e.d(o,"show",(function(){return i}));var t=e(16);function i(){console.log("views/detail chunk loaded (nested dynamic import target)",t.a)}}}]);
+//# sourceMappingURL=views-detail.c86ce2ad.js.map

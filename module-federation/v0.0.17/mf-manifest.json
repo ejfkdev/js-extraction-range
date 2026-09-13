@@ -1,0 +1,34 @@
+{
+  "id": "host",
+  "name": "host",
+  "metaData": {
+    "name": "host",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "local",
+      "buildName": "module-federation-dynamic-load-demo"
+    },
+    "remoteEntry": {
+      "name": "",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "name": "",
+      "path": ""
+    },
+    "globalName": "host",
+    "pluginVersion": "0.0.17",
+    "publicPath": "/"
+  },
+  "shared": [],
+  "remotes": [
+    {
+      "federationContainerName": "remote",
+      "moduleName": "remote-app",
+      "alias": "remote",
+      "entry": "/remote/remoteEntry.js"
+    }
+  ],
+  "exposes": []
+}

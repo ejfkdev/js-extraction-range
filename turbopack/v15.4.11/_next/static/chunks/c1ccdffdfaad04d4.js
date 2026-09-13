@@ -1,0 +1,3 @@
+(globalThis.TURBOPACK=globalThis.TURBOPACK||[]).push(["object"==typeof document?document.currentScript:void 0,{58521:e=>{"use strict";e.s({default:()=>c});var t=e.i(31636),i=e.i(38653);function c(){return(0,i.useEffect)(()=>{e.r(93344)(e.i).then(e=>e.note())},[]),(0,t.jsx)("section",{children:"A loaded"})}},39935:e=>{e.n(e.i(58521))},93344:e=>{e.v(t=>Promise.all(["static/chunks/d542a78287bc53e6.js"].map(t=>e.l(t))).then(()=>t(99208)))}}]);
+
+//# sourceMappingURL=720bee69c74fa7ba.js.map

@@ -1,0 +1,1 @@
+import{y as s,z as o,A as e,B as a,I as l,g as r}from"./Cm7J_l5m.js";const u={class:"widget"},f={__name:"Alpha",setup(p){const n=r(0);return(c,t)=>(s(),o("section",u,[t[1]||(t[1]=e("h2",null,"Alpha",-1)),e("p",null,"count: "+a(l(n)),1),e("button",{onClick:t[0]||(t[0]=i=>n.value++)},"+1")]))}};export{f as default};

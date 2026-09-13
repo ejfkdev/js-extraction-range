@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([["__federation_expose_app"],{3e3:(e,s,a)=>{function n(){return"remote-shared-message"}a.d(s,{q:()=>n})}}]);
+//# sourceMappingURL=__federation_expose_app.ef916361.js.map

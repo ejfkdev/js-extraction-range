@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebpack_mf_official_dynamic_load_demo=self.webpackChunkwebpack_mf_official_dynamic_load_demo||[]).push([["remote-gadget-b"],{239(e,a,o){o.d(a,{gb:()=>c});const c=()=>console.log("[wmf remote] gadget-b")}}]);
+//# sourceMappingURL=remote-gadget-b.7cc2c903.js.map

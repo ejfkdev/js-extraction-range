@@ -1,0 +1,1 @@
+import{_ as t}from"./preload-helper-5aa2bf15.js";import{b as r}from"./remote-shared-8ffef60d.js";const e=()=>{r("gadget-a"),t(()=>import("./remote-gadget-b-23b938a0.js"),[]).then(o=>o.gb())};export{e as ga};

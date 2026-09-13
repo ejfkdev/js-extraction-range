@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmodernjs_dynamic_load_demo=self.webpackChunkmodernjs_dynamic_load_demo||[]).push([[140],{36140(e,d,a){var n=a(74848);const o=()=>(a.e(520).then(a.bind(a,74520)).then(e=>console.log("extra loaded",e.default)),(0,n.jsx)("p",{children:"home extra"}));a.d(d,["default",0,o])}}]);

@@ -1,0 +1,1 @@
+{"version":3,"file":"js/wdg-1.61c2f8f7.js","mappings":"8IAAAA,QAAAC,IAAA","sources":["webpack://webpack-mf-official-dynamic-load-demo/./host/src/widgets/y.js"],"sourcesContent":["console.log(\"widget y loaded (context chunk)\");"],"names":["console","log"],"sourceRoot":""}

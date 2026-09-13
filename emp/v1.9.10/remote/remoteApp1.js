@@ -1,0 +1,1 @@
+export function init(){return console.log("emp remote-app1 init"),"remote-app1"}

@@ -1,0 +1,1 @@
+import{t as e}from"./main-DGEiRqod.js";var t=e();function n(){return(0,t.jsxs)(`div`,{children:[(0,t.jsx)(`h1`,{children:`Home`}),(0,t.jsx)(`p`,{children:`home content goes here`})]})}export{n as component};

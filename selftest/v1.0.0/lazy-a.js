@@ -1,0 +1,1 @@
+export const name = "lazy-a"; console.log("lazy-a.js loaded via import()");

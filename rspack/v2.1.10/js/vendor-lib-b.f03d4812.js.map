@@ -1,0 +1,1 @@
+{"version":3,"file":"js/vendor-lib-b.f03d4812.js","sources":["webpack://rspack-dynamic-load-demo/./src/lib-b/gamma.js"],"sourcesContent":["export const id = \"lib-b/gamma\";\n\nexport function gamma() {\n  return id;\n}"],"names":[],"mappings":"uIAEO,SAAS,IACd,MAHgB,aAIlB,C"}

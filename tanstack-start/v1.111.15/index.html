@@ -1,0 +1,61 @@
+<nav><a class="active" href="/" data-status="active" aria-current="page">Home</a> | <a href="/page1">Page1</a> |<!-- --> <a href="/page2">Page2</a> | <a href="/page3">Page3</a></nav><!--$--><div><h1>Home</h1><p>home content goes here</p></div><script></script><script class="tsr-once">(function restoreScroll(storageKey2, key, behavior, shouldScrollRestoration, scrollToTopSelectors) {
+  var _a;
+  let byKey;
+  try {
+    byKey = JSON.parse(sessionStorage.getItem(storageKey2) || "{}");
+  } catch (error) {
+    console.error(error);
+    return;
+  }
+  const resolvedKey = key || ((_a = window.history.state) == null ? void 0 : _a.key);
+  const elementEntries = byKey[resolvedKey];
+  ignoreScroll = true;
+  (() => {
+    if (shouldScrollRestoration && elementEntries) {
+      for (const elementSelector in elementEntries) {
+        const entry = elementEntries[elementSelector];
+        if (elementSelector === "window") {
+          window.scrollTo({
+            top: entry.scrollY,
+            left: entry.scrollX,
+            behavior
+          });
+        } else if (elementSelector) {
+          const element = document.querySelector(elementSelector);
+          if (element) {
+            element.scrollLeft = entry.scrollX;
+            element.scrollTop = entry.scrollY;
+          }
+        }
+      }
+      return;
+    }
+    const hash = window.location.hash.split("#")[1];
+    if (hash) {
+      const hashScrollIntoViewOptions = (window.history.state || {}).__hashScrollIntoViewOptions ?? true;
+      if (hashScrollIntoViewOptions) {
+        const el = document.getElementById(hash);
+        if (el) {
+          el.scrollIntoView(hashScrollIntoViewOptions);
+        }
+      }
+      return;
+    }
+    [
+      "window",
+      ...(scrollToTopSelectors == null ? void 0 : scrollToTopSelectors.filter((d) => d !== "window")) ?? []
+    ].forEach((selector) => {
+      const element = selector === "window" ? window : document.querySelector(selector);
+      if (element) {
+        element.scrollTo({
+          top: 0,
+          left: 0,
+          behavior
+        });
+      }
+    });
+  })();
+  ignoreScroll = false;
+})("tsr-scroll-restoration-v1_3",null, undefined, true)
+if (typeof __TSR_SSR__ !== "undefined") __TSR_SSR__.cleanScripts()</script><!--/$--><script class='tsr-once'>const __TSR_SSR__={matches:[],streamedValues:{},initMatch:a=>(__TSR_SSR__.matches.push(a),a.extracted?.forEach(l=>{if(l.type==="stream"){let r;l.value=new ReadableStream({start(e){r={enqueue:t=>{try{e.enqueue(t)}catch{}},close:()=>{try{e.close()}catch{}}}}}),l.value.controller=r}else{let r,e;l.value=new Promise((t,o)=>{e=o,r=t}),l.value.reject=e,l.value.resolve=r}}),!0),resolvePromise:({matchId:a,id:l,promiseState:r})=>{const e=__TSR_SSR__.matches.find(t=>t.id===a);if(e){const t=e.extracted?.[l];if(t&&t.type==="promise"&&t.value&&r.status==="success")return t.value.resolve(r.data),!0}return!1},injectChunk:({matchId:a,id:l,chunk:r})=>{const e=__TSR_SSR__.matches.find(t=>t.id===a);if(e){const t=e.extracted?.[l];if(t&&t.type==="stream"&&t.value?.controller)return t.value.controller.enqueue(new TextEncoder().encode(r.toString())),!0}return!1},closeStream:({matchId:a,id:l})=>{const r=__TSR_SSR__.matches.find(e=>e.id===a);if(r){const e=r.extracted?.[l];if(e&&e.type==="stream"&&e.value?.controller)return e.value.controller.close(),!0}return!1},cleanScripts:()=>{document.querySelectorAll(".tsr-once").forEach(a=>{a.remove()})}};window.__TSR_SSR__=__TSR_SSR__;
+; if (typeof __TSR_SSR__ !== 'undefined') __TSR_SSR__.cleanScripts()</script><script class='tsr-once'>__TSR_SSR__.initMatch({"id":"__root__","__beforeLoadContext":"{}","loaderData":"{\"$undefined\":0}","error":"{\"$undefined\":0}","extracted":null,"updatedAt":1787036793028,"status":"success"}); if (typeof __TSR_SSR__ !== 'undefined') __TSR_SSR__.cleanScripts()</script><script class='tsr-once'>__TSR_SSR__.initMatch({"id":"/","__beforeLoadContext":"{}","loaderData":"{\"$undefined\":0}","error":"{\"$undefined\":0}","extracted":null,"updatedAt":1787036793029,"status":"success"}); if (typeof __TSR_SSR__ !== 'undefined') __TSR_SSR__.cleanScripts()</script><script class='tsr-once'>__TSR_SSR__.dehydrated = "{\"manifest\":{\"routes\":{\"__root__\":{\"preloads\":[\"/_build/assets/client-DYTedCxZ.js\",\"/_build/assets/client-LMbv3vJK.js\"],\"assets\":[{\"tag\":\"script\",\"attrs\":{\"type\":\"module\",\"suppressHydrationWarning\":true,\"async\":true},\"children\":\"import(\\\"/_build/assets/client-DYTedCxZ.js\\\")\"}]},\"/\":{\"preloads\":{\"$undefined\":0},\"assets\":{\"$undefined\":0}},\"/page1\":{\"preloads\":{\"$undefined\":0},\"assets\":{\"$undefined\":0}},\"/page2\":{\"preloads\":{\"$undefined\":0},\"assets\":{\"$undefined\":0}},\"/page3\":{\"preloads\":{\"$undefined\":0},\"assets\":{\"$undefined\":0}}}},\"dehydratedData\":{\"$undefined\":0}}"; if (typeof __TSR_SSR__ !== 'undefined') __TSR_SSR__.cleanScripts()</script>

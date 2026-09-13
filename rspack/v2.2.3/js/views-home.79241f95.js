@@ -1,0 +1,2 @@
+"use strict";(self.rspackChunkrspack_dynamic_load_demo=self.rspackChunkrspack_dynamic_load_demo||[]).push([["views-home"],{274(e,r,s){s.r(r);var d=s(146),a=s(764);function c(){(0,a.R)("views/home rendered",d.X)}s.d(r,{render:()=>c})}}]);
+//# sourceMappingURL=views-home.79241f95.js.map

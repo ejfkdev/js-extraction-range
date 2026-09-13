@@ -1,0 +1,2 @@
+!function(e){for(var r in e)e[r].__farm_resource_pot__="settings_aba1.js",(globalThis||window||global).d25e9ecee5c6996a0667e7c47ebdf736.__farm_module_system__.register(r,e[r]);}({de25de83:function(e,r,n,t){"use strict";function o(){console.log("views/settings rendered");}Object.defineProperty(r,"__esModule",{value:!0}),Object.defineProperty(r,"render",{enumerable:!0,get:function(){return o;}});}});
+//# sourceMappingURL=settings_aba1.aeacca51.js.map

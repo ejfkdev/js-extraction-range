@@ -1,0 +1,1 @@
+import{n as e,t}from"./_virtual_one-entry-DNeqCr2r.js";e();var n=e=>{e.textContent=`widget one mounted`;let n=document.createElement(`button`);n.textContent=`nested widget4`,n.addEventListener(`click`,()=>t(async()=>{let{mountWidget4:e}=await import(`./widget4-D1jaHCza.js`);return{mountWidget4:e}},[]).then(({mountWidget4:t})=>t(e))),e.appendChild(n)};export{n as mountWidget};

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmodule_federation_dynamic_load_demo=self.webpackChunkmodule_federation_dynamic_load_demo||[]).push([["remote_src_remote-widgets_y_js"],{571:(e,d,o)=>{o.r(d),o.d(d,{rwy:()=>_});const _="remote-widget-y"}}]);
+//# sourceMappingURL=remote_src_remote-widgets_y_js.2ded7e92.js.map

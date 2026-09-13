@@ -1,0 +1,1 @@
+import{w as o}from"./with-props-CGdyNZzr.js";import{j as e}from"./jsx-runtime-_TJedymN.js";const s=o(function(){return e.jsxs("div",{children:[e.jsx("h2",{children:"Page 1"}),e.jsx("p",{children:"page one content goes here"})]})});export{s as default};

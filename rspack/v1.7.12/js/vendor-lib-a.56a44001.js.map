@@ -1,0 +1,1 @@
+{"version":3,"file":"js/vendor-lib-a.56a44001.js","sources":["webpack://rspack-dynamic-load-demo/./src/lib-a/beta.js"],"sourcesContent":["export const id = \"lib-a/beta\";\n\nexport function beta() {\n  return id;\n}"],"names":[],"mappings":"2JAEO,SAAS,IACd,MAHgB,YAIlB,C"}

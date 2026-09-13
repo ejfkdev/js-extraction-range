@@ -1,0 +1,50 @@
+{
+  "../../../../../../../~start/default-client-entry.tsx": {
+    "file": "assets/main-CjfK-7EY.js",
+    "name": "main",
+    "src": "../../../../../../../~start/default-client-entry.tsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/routes/page3.tsx?tsr-split=component",
+      "src/routes/page2.tsx?tsr-split=component",
+      "src/routes/page1.tsx?tsr-split=component",
+      "src/routes/index.tsx?tsr-split=component"
+    ]
+  },
+  "src/routes/index.tsx?tsr-split=component": {
+    "file": "assets/index-DsQ31vKO.js",
+    "name": "index",
+    "src": "src/routes/index.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../../../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/page1.tsx?tsr-split=component": {
+    "file": "assets/page1-DbgnElJ3.js",
+    "name": "page1",
+    "src": "src/routes/page1.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../../../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/page2.tsx?tsr-split=component": {
+    "file": "assets/page2-D508pGHD.js",
+    "name": "page2",
+    "src": "src/routes/page2.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../../../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/page3.tsx?tsr-split=component": {
+    "file": "assets/page3-BwyRgxMb.js",
+    "name": "page3",
+    "src": "src/routes/page3.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../../../../../~start/default-client-entry.tsx"
+    ]
+  }
+}

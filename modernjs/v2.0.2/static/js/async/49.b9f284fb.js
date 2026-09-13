@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmodernjs_dynamic_load_demo=globalThis.webpackChunkmodernjs_dynamic_load_demo||[]).push([[49],{28049(a,d,e){e.r(d);e.d(d,["default",0,"template-a"])}}]);

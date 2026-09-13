@@ -1,0 +1,1 @@
+(self.webpackChunkrsbuild_dynamic_load_demo=self.webpackChunkrsbuild_dynamic_load_demo||[]).push([["91"],{413(){console.log("widget y loaded (context chunk)")}}]);

@@ -1,0 +1,1 @@
+import{_ as r}from"./index.c0266d6c.js";import{g as o}from"./vendor-lib-b.dab8646b.js";import"./vendor-lib-a.1adb32e4.js";function _(){console.log("views/team rendered",o),r(()=>import("./dashboard.dd108ca8.js"),["assets/dashboard.dd108ca8.js","assets/index.c0266d6c.js","assets/vendor-lib-a.1adb32e4.js"]).then(e=>e.render())}export{_ as render};

@@ -1,0 +1,2 @@
+("undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:"undefined"!=typeof window?window:"undefined"!=typeof global?global:{}).parcelRequirebc54.register("6vcOO",function(e,n){var o,i,l,d;function f(){console.log("views/settings rendered (lazy-once chunk)")}o=e.exports,i="render",l=()=>f,Object.defineProperty(o,i,{get:l,set:d,enumerable:!0,configurable:!0})});
+//# sourceMappingURL=settings.908fc974.js.map

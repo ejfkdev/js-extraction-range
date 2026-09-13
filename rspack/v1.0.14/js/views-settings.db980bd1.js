@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrspack_dynamic_load_demo=self.webpackChunkrspack_dynamic_load_demo||[]).push([["views-settings"],{436:function(e,n,s){function c(){console.log("views/settings rendered (lazy-once chunk)")}s.r(n),s.d(n,{render:function(){return c}})}}]);
+//# sourceMappingURL=views-settings.db980bd1.js.map

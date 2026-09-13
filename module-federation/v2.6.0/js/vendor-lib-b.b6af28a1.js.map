@@ -1,0 +1,1 @@
+{"version":3,"file":"js/vendor-lib-b.b6af28a1.js","mappings":"qLAAO,MAAAA,EAAA,cAEA,SAAAC,IACP,OAAAD,CACA","sources":["webpack://module-federation-dynamic-load-demo/./host/src/lib-b/gamma.js"],"sourcesContent":["export const id = \"lib-b/gamma\";\n\nexport function gamma() {\n  return id;\n}"],"names":["id","gamma"],"sourceRoot":""}

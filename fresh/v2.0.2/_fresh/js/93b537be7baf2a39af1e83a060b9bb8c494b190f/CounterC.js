@@ -1,0 +1,1 @@
+import{a as t}from"./chunk-HCYWZKA7.js";import{h as n,i as e}from"./chunk-MQAWGMSU.js";function i(){let[o,u]=n(0),[r,a]=n("");return e(()=>{import("./partB.js").then(c=>a(c.partBValue()))},[]),t("div",{children:[t("h2",{children:"Island C (dynamic partB)"}),t("p",{children:["count: ",o," ",r]}),t("button",{onClick:()=>u(o+1),children:"+1"})]})}export{i as default};

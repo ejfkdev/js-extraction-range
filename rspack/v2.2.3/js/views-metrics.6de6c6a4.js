@@ -1,0 +1,2 @@
+"use strict";(self.rspackChunkrspack_dynamic_load_demo=self.rspackChunkrspack_dynamic_load_demo||[]).push([["views-metrics"],{320(e,s,r){var c=r(146);function d(){console.log("views/metrics rendered (3-level nested)",c.X)}r.d(s,{render:()=>d})}}]);
+//# sourceMappingURL=views-metrics.6de6c6a4.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"js/remote.e9cde176.js","mappings":"gLAAO,MAAAA,EAAA,IAAAC,IAAAC,QAAAC,IAAA,qBAAAF","sources":["webpack://module-federation-dynamic-load-demo/./remote/src/remote-shared.js"],"sourcesContent":["export const boot = (...args) => console.log(\"[remote/shared]\", ...args);\n"],"names":["boot","args","console","log"],"sourceRoot":""}

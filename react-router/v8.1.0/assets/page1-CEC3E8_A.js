@@ -1,0 +1,1 @@
+import{o as e,t}from"./jsx-runtime-wK_zmrFj.js";var n=t(),r=e(function(){return(0,n.jsxs)(`div`,{children:[(0,n.jsx)(`h2`,{children:`Page 1`}),(0,n.jsx)(`p`,{children:`page one content goes here`})]})});export{r as default};

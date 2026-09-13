@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunkrsbuild_dynamic_load_demo=self.rspackChunkrsbuild_dynamic_load_demo||[]).push([[472],{801(e,s,d){function n(){console.log("views/settings rendered (lazy-once chunk)")}d.r(s),d.d(s,{render:()=>n})}}]);

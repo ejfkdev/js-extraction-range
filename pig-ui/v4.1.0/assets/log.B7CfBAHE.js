@@ -1,0 +1,1 @@
+import{h as a}from"./tagsViewRoutes.Cwi6gg9R.js";var e=e=>a({url:"/admin/log/page",method:"get",params:e}),t=e=>a({url:"/admin/log",method:"delete",data:e}),m=e=>a({url:"/admin/log/sum",method:"get",params:e});export{m as n,e as r,t};

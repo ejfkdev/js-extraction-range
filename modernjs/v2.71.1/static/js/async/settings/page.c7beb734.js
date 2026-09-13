@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmodernjs_dynamic_load_demo=self.webpackChunkmodernjs_dynamic_load_demo||[]).push([[778],{20120(e,d,s){s.r(d);var n=s(74848);const a=()=>(0,n.jsx)("main",{children:(0,n.jsx)("h1",{children:"settings"})});s.d(d,["default",0,a])}}]);

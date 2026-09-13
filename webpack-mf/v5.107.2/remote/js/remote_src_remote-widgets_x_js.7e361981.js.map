@@ -1,0 +1,1 @@
+{"version":3,"file":"js/remote_src_remote-widgets_x_js.8d9f5e31.js","mappings":"gNAAO,MAAAA,EAAA","sources":["webpack://webpack-mf-official-dynamic-load-demo/./remote/src/remote-widgets/x.js"],"sourcesContent":["export const rwx = \"remote-widget-x\";"],"names":["rwx"],"sourceRoot":""}

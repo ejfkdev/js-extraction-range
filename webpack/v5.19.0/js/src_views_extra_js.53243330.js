@@ -1,0 +1,2 @@
+(self.webpackChunkwebpack_dynamic_load_demo=self.webpackChunkwebpack_dynamic_load_demo||[]).push([["src_views_extra_js"],{604:(e,a,c)=>{"use strict";function n(){console.log("views/extra chunk loaded (from inside a context chunk)")}c.r(a),c.d(a,{paint:()=>n})}}]);
+//# sourceMappingURL=src_views_extra_js.53243330.js.map

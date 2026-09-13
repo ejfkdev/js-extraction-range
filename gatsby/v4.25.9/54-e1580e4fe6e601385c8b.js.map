@@ -1,0 +1,1 @@
+{"version":3,"file":"54-6e760e7c356dcfe910ab.js","mappings":"4KAEe,SAASA,IACtB,OAAOC,EAAAA,cAAA,WAAK,WACd","sources":["webpack://gatsby-dj-demo/./src/components/widget-b.js"],"sourcesContent":["import React from \"react\";\n\nexport default function WidgetB() {\n  return <div>widget B</div>;\n}"],"names":["WidgetB","React"],"sourceRoot":""}

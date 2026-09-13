@@ -1,0 +1,41 @@
+{
+  "id": "host",
+  "name": "host",
+  "metaData": {
+    "name": "host",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "1.0.0",
+      "buildName": "mf-rsbuild-dynamic-load-demo"
+    },
+    "remoteEntry": {
+      "name": "",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "host",
+    "pluginVersion": "2.3.3",
+    "prefetchInterface": false,
+    "publicPath": "/"
+  },
+  "shared": [],
+  "remotes": [
+    {
+      "alias": "remote",
+      "consumingFederationContainerName": "host",
+      "federationContainerName": "remote",
+      "moduleName": "remote-app",
+      "usedIn": [
+        "src/main.js + 1 modules"
+      ],
+      "version": "/remote/remoteEntry.js"
+    }
+  ],
+  "exposes": []
+}

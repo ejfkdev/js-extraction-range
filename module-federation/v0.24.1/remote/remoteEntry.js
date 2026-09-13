@@ -1,0 +1,1 @@
+"use strict";var remote;(self.webpackChunkmodule_federation_dynamic_load_demo=self.webpackChunkmodule_federation_dynamic_load_demo||[]).push([["remote"],{},e=>{var o=e(e.s=148);remote=o}]);

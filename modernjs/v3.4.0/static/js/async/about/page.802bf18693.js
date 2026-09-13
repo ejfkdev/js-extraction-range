@@ -1,0 +1,1 @@
+"use strict";(globalThis.rspackChunkmodernjs_dynamic_load_demo=globalThis.rspackChunkmodernjs_dynamic_load_demo||[]).push([[433],{8757(a,d,s){s.r(d);var l=s(74848);s.d(d,{},{default:()=>(0,l.jsx)("main",{children:(0,l.jsx)("h1",{children:"about"})})})}}]);

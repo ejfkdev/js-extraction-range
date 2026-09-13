@@ -1,0 +1,1 @@
+{"version":3,"sources":["/src/lib-a/beta.js"],"sourcesContent":["export const id = \"lib-a/beta\";\nexport function beta() { return id; }\n"],"names":[],"mappings":"2XACgB,OAAA,EAAA,EAAA,GAAA,WADH,OAAA,EAAA,CAAA,GAAA,IAAA,EAAA,aACG,SAAA,IAAgB,OAAA,EAAI,CAAA,CAAA"}

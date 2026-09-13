@@ -1,0 +1,1 @@
+import{a as t}from"./chunk-HCYWZKA7.js";import{h as n}from"./chunk-MQAWGMSU.js";function e(){let[o,u]=n(0);return t("div",{children:[t("h2",{children:"Island B"}),t("p",{children:["count: ",o]}),t("button",{onClick:()=>u(o+1),children:"+1"})]})}export{e as default};

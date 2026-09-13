@@ -1,0 +1,1 @@
+(self.webpackChunkrsbuild_dynamic_load_demo=self.webpackChunkrsbuild_dynamic_load_demo||[]).push([["146"],{63:function(){console.log("template b loaded (context chunk)")}}]);

@@ -1,0 +1,1 @@
+import{t as e}from"./border-BazF8UP0.js";export{e as default};

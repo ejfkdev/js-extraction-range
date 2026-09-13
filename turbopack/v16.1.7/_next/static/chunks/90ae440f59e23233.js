@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,12917,t=>{"use strict";function e(){return"template-tc"}t.s(["default",()=>e])}]);

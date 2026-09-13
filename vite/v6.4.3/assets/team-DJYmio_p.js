@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/dashboard-ChZ87rcb.js","assets/index-BfP0ZCyG.js","assets/vendor-lib-a-CVeJQxq-.js"])))=>i.map(i=>d[i]);
+import{_ as r}from"./index-BfP0ZCyG.js";import{g as o}from"./vendor-lib-b-DbgPTHvm.js";import"./vendor-lib-a-CVeJQxq-.js";function _(){console.log("views/team rendered",o),r(()=>import("./dashboard-ChZ87rcb.js"),__vite__mapDeps([0,1,2])).then(e=>e.render())}export{_ as render};

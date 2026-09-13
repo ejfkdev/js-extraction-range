@@ -1,0 +1,1 @@
+var s="/assets/logo.Bl7HbDUB.svg";export{s as t};

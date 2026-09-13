@@ -1,0 +1,1 @@
+(self.webpackChunkice_dj_demo=self.webpackChunkice_dj_demo||[]).push([[351],{2351:(e,n,t)=>{t.r(n),t.d(n,{default:()=>d});const d={init:function(e){console.log("[heavys] users init",e),document.body.dataset.heavy="users",t.e(884).then(t.bind(t,7884)).then((function(n){return n.default.init(e+"-nested")}))}}}}]);

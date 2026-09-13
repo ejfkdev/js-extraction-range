@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/642.c27720ae.chunk.js","mappings":"0IACe,SAASA,IACtB,OAAOC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,eACd","sources":["pages/Detail.jsx"],"sourcesContent":["import React from \"react\";\nexport default function Detail() {\n  return <div>detail page</div>;\n}\n"],"names":["Detail","_jsx","children"],"sourceRoot":""}

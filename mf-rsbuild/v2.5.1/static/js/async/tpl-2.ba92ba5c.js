@@ -1,0 +1,1 @@
+"use strict";(self["chunk_host "]=self["chunk_host "]||[]).push([["tpl-2"],{"./src/templates/c.js"(e,t,n){function c(){let e=document.createElement("div");e.textContent="template-c rendered",document.body.appendChild(e)}n.r(t),n.d(t,{render:()=>c}),console.log("[template c] loaded")}}]);

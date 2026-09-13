@@ -1,0 +1,1 @@
+{"version":3,"file":"js/views-home.86a88a4a.js","sources":["webpack://rspack-dynamic-load-demo/./src/views/home.js"],"sourcesContent":["import { alpha } from \"../lib-a/alpha\";\nimport { log } from \"../shared/deep\";\n\nexport function render() {\n  log(\"views/home rendered\", alpha);\n}"],"names":["r"],"mappings":"oMAGO,SAASA,IACd,QAAI,sBAAuB,GAAK,CAClC,C"}

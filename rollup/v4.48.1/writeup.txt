@@ -1,0 +1,13 @@
+chunks/about-IG_fMOPa.js
+chunks/contact-Db2YGKFu.js
+chunks/dashboard-BK-6z1Ca.js
+chunks/detail-BFh6Bb9l.js
+chunks/home-DNHwI-2d.js
+chunks/metrics-BG-OFs3g.js
+chunks/page2-extra-CbUHbL3x.js
+chunks/page3-stats-B5pLme8k.js
+chunks/profile-DedKzoA1.js
+chunks/search-BJdhr2dI.js
+chunks/settings-B6XEHxws.js
+chunks/team-Dbu-vJ1s.js
+index.js

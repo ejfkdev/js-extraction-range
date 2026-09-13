@@ -1,0 +1,1 @@
+{"version":3,"file":"js/remote_src_remote-widgets_y_js.05a18d0a.js","mappings":"mNAAO,MAAAA,EAAA","sources":["webpack://webpack-mf-official-dynamic-load-demo/./remote/src/remote-widgets/y.js"],"sourcesContent":["export const rwy = \"remote-widget-y\";"],"names":["rwy"],"sourceRoot":""}

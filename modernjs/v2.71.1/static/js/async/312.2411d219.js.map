@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/async/312.530b868b.js","mappings":"0JAAkB,Y","sources":["src/widgets/x.ts"],"sourcesContent":["export const wx = 'widget-x';\n"],"names":[],"sourceRoot":""}

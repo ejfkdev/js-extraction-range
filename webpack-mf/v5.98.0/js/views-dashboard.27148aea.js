@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebpack_mf_official_dynamic_load_demo=self.webpackChunkwebpack_mf_official_dynamic_load_demo||[]).push([["views-dashboard"],{48:(e,d,a)=>{a.r(d),a.d(d,{render:()=>n});var i=a(413);function n(){console.log("views/dashboard rendered",i.l),a.e("views-metrics").then(a.bind(a,97)).then(e=>e.render())}}}]);
+//# sourceMappingURL=views-dashboard.27148aea.js.map

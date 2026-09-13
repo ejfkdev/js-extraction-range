@@ -1,0 +1,1 @@
+import{d as r}from"./hooks.module-zVINZB8G.js";import{u as n}from"./jsxRuntime.module-Bf9BUubd.js";function i(){const[t,o]=r(0);return n("div",{children:[n("h2",{children:"Island B"}),n("p",{children:["count: ",t]}),n("button",{onClick:()=>o(t+1),children:"+1"})]})}export{i as default};

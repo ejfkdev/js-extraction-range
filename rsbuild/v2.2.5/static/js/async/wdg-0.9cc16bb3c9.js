@@ -1,0 +1,1 @@
+(self.rspackChunkrsbuild_dynamic_load_demo=self.rspackChunkrsbuild_dynamic_load_demo||[]).push([[471],{710(){console.log("widget x loaded (context chunk)")}}]);

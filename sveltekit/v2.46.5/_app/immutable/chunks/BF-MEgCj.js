@@ -1,0 +1,1 @@
+function e(){return"nested-direct"}export{e as direct};

@@ -1,0 +1,1 @@
+function e(){return`partB-loaded`}function t(){return`helper-b`}export{e as default,t as helperB};

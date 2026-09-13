@@ -1,0 +1,42 @@
+{
+  "app": {
+    "name": "test-remote-lib",
+    "is_rich": false,
+    "app_group_name": "test-remote-lib",
+    "build_version": "dj-test-1.0.0",
+    "additional_scripts": [],
+    "additional_body_scripts": []
+  },
+  "version": {
+    "sub_app_version": "1.0.0",
+    "src_map": {
+      "htmlIndexSrc": "",
+      "webDirPath": "",
+      "headAssetList": [
+        {
+          "tag": "link",
+          "append": true,
+          "attrs": { "href": "/lib/style.css", "rel": "stylesheet" }
+        }
+      ],
+      "bodyAssetList": [
+        {
+          "tag": "script",
+          "append": true,
+          "attrs": { "src": "/lib/lib-main.js" }
+        },
+        {
+          "tag": "script",
+          "append": true,
+          "attrs": { "src": "/lib/lib-extra.js" }
+        }
+      ],
+      "chunkJsSrcList": [],
+      "chunkCssSrcList": [],
+      "staticJsSrcList": [],
+      "staticCssSrcList": [],
+      "relativeJsSrcList": [],
+      "relativeCssSrcList": []
+    }
+  }
+}

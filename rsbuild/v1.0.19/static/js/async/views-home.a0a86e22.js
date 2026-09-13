@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrsbuild_dynamic_load_demo=self.webpackChunkrsbuild_dynamic_load_demo||[]).push([["545"],{300:function(e,n,d){d.r(n),d.d(n,{render:function(){return c}});var r=d(77),u=d(838);function c(){(0,u.c)("views/home rendered",r.F)}}}]);

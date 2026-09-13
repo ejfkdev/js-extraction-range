@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrsbuild_dynamic_load_demo=self.webpackChunkrsbuild_dynamic_load_demo||[]).push([["472"],{292(e,d,n){function s(){console.log("views/settings rendered (lazy-once chunk)")}n.r(d),n.d(d,{render:()=>s})}}]);

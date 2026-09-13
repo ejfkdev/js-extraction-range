@@ -1,0 +1,1 @@
+import"./index-yIskweh-.js";const _={},t=[{alias:"__mfe_internal__host__mf_owner__1__remote",entryGlobalName:"remote",name:"__mfe_internal__host__mf_owner__1__remote",type:"module",entry:"/remote/remoteEntry.js",shareScope:"default"}];export{t as usedRemotes,_ as usedShared};

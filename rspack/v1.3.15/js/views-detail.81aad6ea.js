@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrspack_dynamic_load_demo=self.webpackChunkrspack_dynamic_load_demo||[]).push([["views-detail"],{209:function(e,a,d){d.r(a),d.d(a,{show:()=>n});var c=d(945);function n(){console.log("views/detail chunk loaded (nested dynamic import target)",c.y)}}}]);
+//# sourceMappingURL=views-detail.81aad6ea.js.map

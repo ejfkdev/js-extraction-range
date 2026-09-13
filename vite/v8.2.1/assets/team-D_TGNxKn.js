@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/dashboard-C4Uu8Deq.js","assets/vendor-lib-a-D9xvV3QL.js","assets/index-C23IwRwO.js"])))=>i.map(i=>d[i]);
+import{t as e}from"./index-C23IwRwO.js";import{t}from"./vendor-lib-b-CRQrJT1E.js";function n(){console.log(`views/team rendered`,t),e(()=>import(`./dashboard-C4Uu8Deq.js`).then(e=>e.render()),__vite__mapDeps([0,1,2]))}export{n as render};

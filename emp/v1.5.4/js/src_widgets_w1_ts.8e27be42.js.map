@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://emp-dj-site/./src/widgets/w1.ts"],"names":["widget"],"mappings":"8HAAO,SAASA,IACd,MAAO,IACT","file":"js/src_widgets_w1_ts.8e27be42.js","sourcesContent":["export function widget() {\n  return 'w1';\n}"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/lib-a/beta.js"],"names":["beta"],"mappings":"yFAAA,kCAEO,SAASA,IACd,MAHgB","file":"js/vendor-lib-a.0f02e945.js","sourcesContent":["export const id = \"lib-a/beta\";\n\nexport function beta() {\n  return id;\n}"],"sourceRoot":""}

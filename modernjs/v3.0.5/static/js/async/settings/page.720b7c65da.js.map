@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/async/settings/page.720b7c65da.js","sources":["../../../../../src/routes/settings/page.tsx"],"sourcesContent":["const Settings = () => (\n  <main>\n    <h1>settings</h1>\n  </main>\n);\nexport default Settings;\n"],"names":[],"mappings":"8LAKA,MALiB,IACf,UAAC,Q,SACC,UAAC,M,SAAG,U"}

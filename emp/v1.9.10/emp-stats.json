@@ -1,0 +1,1 @@
+{"sharedModules":[],"federatedModules":[{"remote":"host","entry":"emp.js","sharedModules":[],"exposes":{"./hostEntry":[{"chunks":["js/src_hostEntry_ts.c300e890.js"],"sharedModules":[]}]},"remoteModules":{}}]}

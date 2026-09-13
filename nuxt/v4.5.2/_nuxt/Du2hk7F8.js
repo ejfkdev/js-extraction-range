@@ -1,0 +1,1 @@
+var e=`inner-ok`;export{e as innerValue};

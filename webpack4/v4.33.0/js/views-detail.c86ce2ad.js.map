@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/views/detail.js"],"names":["show","console","log"],"mappings":"0FAAA,wDAEO,SAASA,IACdC,QAAQC,IAAI,2DAA4D","file":"js/views-detail.c86ce2ad.js","sourcesContent":["import { gamma } from \"../lib-b/gamma\";\n\nexport function show() {\n  console.log(\"views/detail chunk loaded (nested dynamic import target)\", gamma);\n}"],"sourceRoot":""}

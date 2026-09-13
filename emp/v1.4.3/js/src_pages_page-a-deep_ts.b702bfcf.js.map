@@ -1,0 +1,1 @@
+{"version":3,"file":"js/src_pages_page-a-deep_ts.8bd01273.js","mappings":"4HAAO,SAASA,IACd,MAAO,aACT","sources":["webpack://emp-dj-site/./src/pages/page-a-deep.ts"],"sourcesContent":["export function side() {\n  return 'page-a-deep';\n}"],"names":["side"],"sourceRoot":""}

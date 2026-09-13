@@ -1,0 +1,1 @@
+(function(){function e(e,t){console.log(`[shared/deep]`,e,t===void 0?``:t)}e(`worker started`),self.onmessage=function(){postMessage(`ok`)}})();

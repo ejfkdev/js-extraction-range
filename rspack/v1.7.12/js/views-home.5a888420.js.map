@@ -1,0 +1,1 @@
+{"version":3,"file":"js/views-home.5a888420.js","sources":["webpack://rspack-dynamic-load-demo/./src/views/home.js"],"sourcesContent":["import { alpha } from \"../lib-a/alpha\";\nimport { log } from \"../shared/deep\";\n\nexport function render() {\n  log(\"views/home rendered\", alpha);\n}"],"names":[],"mappings":"2LAGO,SAAS,IACd,QAAI,sBAAuB,GAAK,CAClC,C"}

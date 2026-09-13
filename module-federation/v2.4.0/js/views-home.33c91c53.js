@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmodule_federation_dynamic_load_demo=self.webpackChunkmodule_federation_dynamic_load_demo||[]).push([["views-home"],{3945:(e,d,o)=>{o.r(d),o.d(d,{render:()=>r});var n=o(1547),a=o(5809);function r(){(0,a.R)("views/home rendered",n.X)}}}]);
+//# sourceMappingURL=views-home.33c91c53.js.map

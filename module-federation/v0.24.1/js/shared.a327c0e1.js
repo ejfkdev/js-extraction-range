@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmodule_federation_dynamic_load_demo=self.webpackChunkmodule_federation_dynamic_load_demo||[]).push([["shared"],{809:(e,d,o)=>{function a(e,d){console.log("[shared/deep]",e,void 0===d?"":d)}o.d(d,{R:()=>a})}}]);
+//# sourceMappingURL=shared.a327c0e1.js.map

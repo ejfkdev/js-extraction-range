@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrsbuild_dynamic_load_demo=self.webpackChunkrsbuild_dynamic_load_demo||[]).push([["625"],{828:function(n,e,o){function c(){console.log("views/extra chunk loaded (from inside a context chunk)")}o.r(e),o.d(e,{paint:function(){return c}})}}]);

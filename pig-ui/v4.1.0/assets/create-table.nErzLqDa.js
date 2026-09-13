@@ -1,0 +1,1 @@
+import{h as e}from"./tagsViewRoutes.Cwi6gg9R.js";function t(t){return e({url:"/gen/create-table/page",method:"get",params:t})}function a(t){return e({url:"/gen/create-table",method:"post",data:t})}function r(t){return e({url:"/gen/create-table/"+t,method:"get"})}function n(t){return e({url:"/gen/create-table",method:"delete",data:t})}export{r as i,n,t as r,a as t};

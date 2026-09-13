@@ -1,0 +1,1 @@
+import{t as e}from"./LoginRegist-Dif_jo6o.js";export{e as default};

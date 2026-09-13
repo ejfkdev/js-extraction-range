@@ -1,0 +1,1 @@
+(self.webpackChunkemp_dj_site=self.webpackChunkemp_dj_site||[]).push([["src_widgets_w1_ts"],{646:function(e,t,n){"use strict";function s(){return"w1"}n.r(t),n.d(t,{widget:function(){return s}})}}]);

@@ -1,0 +1,2 @@
+function e(e,t,n,r){Object.defineProperty(e,t,{get:n,set:r,enumerable:!0,configurable:!0})}var t=globalThis.parcelRequirebc54,n=t.register;n("3ylBw",function(n,r){e(n.exports,"side",()=>a);var o=t("kDlFc");function a(){console.log("page2-extra chunk loaded",o.beta)}}),n("kDlFc",function(t,n){e(t.exports,"beta",()=>r);function r(){return"lib-a/beta"}});
+//# sourceMappingURL=page2-extra.e34a1360.js.map

@@ -1,0 +1,2 @@
+function e(e,n,o,t){Object.defineProperty(e,n,{get:o,set:t,enumerable:!0,configurable:!0})}var n=("undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:"undefined"!=typeof window?window:"undefined"!=typeof global?global:{}).parcelRequirebc54;n.register("3ylBw",function(o,t){e(o.exports,"side",()=>l);var i=n("kDlFc");function l(){console.log("page2-extra chunk loaded",i.beta)}}),n.register("kDlFc",function(n,o){e(n.exports,"beta",()=>i);const t="lib-a/beta";function i(){return t}});
+//# sourceMappingURL=page2-extra.95de0143.js.map

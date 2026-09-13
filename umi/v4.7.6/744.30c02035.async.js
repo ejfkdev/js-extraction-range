@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkumi_dj_demo=self.webpackChunkumi_dj_demo||[]).push([[744],{8744:function(t,e,u){u.r(e),e.default={init:function(n){console.log("[heavys] chart init",n),document.body.dataset.heavy="chart"}}}}]);

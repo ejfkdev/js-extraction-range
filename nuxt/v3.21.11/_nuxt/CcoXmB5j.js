@@ -1,0 +1,1 @@
+import{o as s,K as r,B as n,C as l,D as o,E as _,i}from"./DuJb-SwE.js";const u={class:"widget"},m={__name:"Beta",setup(c){const t=i("");return s(async()=>{const e=await r(()=>import("./VDld11fw.js"),[],import.meta.url);t.value=e.default()}),(e,a)=>(n(),l("section",u,[a[0]||(a[0]=o("h2",null,"Beta",-1)),o("p",null,"lib partB: "+_(t.value),1)]))}};export{m as default};

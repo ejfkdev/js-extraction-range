@@ -1,0 +1,1 @@
+{"version":3,"sources":["turbopack:///[project]/components/b.jsx"],"sourcesContent":["export default function B() {\n  return <section>B loaded</section>;\n}"],"names":[],"mappings":"4KAAe,SAAS,IACtB,MAAO,CAAA,EAAA,EAAA,GAAA,EAAC,UAAA,UAAQ,YAClB"}

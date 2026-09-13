@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmodule_federation_dynamic_load_demo=self.webpackChunkmodule_federation_dynamic_load_demo||[]).push([["vendor-lib-a"],{7413:(e,d,a)=>{a.d(d,{l:()=>o});const n="lib-a/beta";function o(){return n}}}]);
+//# sourceMappingURL=vendor-lib-a.81a88fd0.js.map

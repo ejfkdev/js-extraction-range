@@ -1,0 +1,1 @@
+var e=e=>{e.textContent=`widget three mounted`};export{e as mountWidget3};

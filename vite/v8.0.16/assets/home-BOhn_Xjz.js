@@ -1,0 +1,1 @@
+import{n as e}from"./vendor-lib-a-O545pnoL.js";import{n as t}from"./index-DvKCGzva.js";function n(){t(`views/home rendered`,e)}export{n as render};

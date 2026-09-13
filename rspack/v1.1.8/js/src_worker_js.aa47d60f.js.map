@@ -1,0 +1,1 @@
+{"version":3,"file":"js/src_worker_js.aa47d60f.js","sources":["webpack://rspack-dynamic-load-demo/./src/worker.js"],"sourcesContent":["import { log } from \"./shared/deep\";\n\nlog(\"worker started\");\nself.onmessage = function () {\n  postMessage(\"ok\");\n};"],"names":["self","postMessage"],"mappings":"8CAEA,G,OAAA,GAAI,kBACJA,KAAK,SAAS,CAAG,WACfC,YAAY,KACd,C"}

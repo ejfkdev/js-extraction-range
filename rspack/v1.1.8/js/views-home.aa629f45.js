@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrspack_dynamic_load_demo=self.webpackChunkrspack_dynamic_load_demo||[]).push([["views-home"],{713:function(e,n,c){c.r(n),c.d(n,{render:function(){return a}});var r=c(247),d=c(252);function a(){(0,d.c)("views/home rendered",r.F)}}}]);
+//# sourceMappingURL=views-home.aa629f45.js.map

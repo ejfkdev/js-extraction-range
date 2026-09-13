@@ -1,0 +1,1 @@
+import{H as r}from"#entry";async function a(){const{innerValue:t}=await r(async()=>{const{innerValue:e}=await import("./G0nZ7zXl.js");return{innerValue:e}},[],import.meta.url);return"nested:"+t}export{a as runNested};

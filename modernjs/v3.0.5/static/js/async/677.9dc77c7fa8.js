@@ -1,0 +1,1 @@
+"use strict";(globalThis.rspackChunkmodernjs_dynamic_load_demo=globalThis.rspackChunkmodernjs_dynamic_load_demo||[]).push([["677"],{62756(d,s,a){a.d(s,{default:()=>l});var e=a(74848);let l=()=>(0,e.jsx)("p",{children:"metrics"})}}]);

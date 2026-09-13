@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/async/969.df466e68.js","mappings":"+JAAc,c","sources":["src/templates/a.ts"],"sourcesContent":["const value = 'template-a';\nexport default value;\n"],"names":[],"sourceRoot":""}

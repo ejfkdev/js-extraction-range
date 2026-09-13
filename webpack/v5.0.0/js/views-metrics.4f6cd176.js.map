@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://webpack-dynamic-load-demo/./src/views/metrics.js"],"names":["render","console","log"],"mappings":"yLAEO,SAASA,IACdC,QAAQC,IAAI,yBAA0B,IACxC,C","file":"js/views-metrics.4f6cd176.js","sourcesContent":["import { alpha } from \"../lib-a/alpha\";\n\nexport function render() {\n  console.log(\"views/metrics rendered\", alpha);\n}"],"sourceRoot":""}

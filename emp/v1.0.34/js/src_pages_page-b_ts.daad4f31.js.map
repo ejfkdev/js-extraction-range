@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://emp-dj-site/./src/pages/page-b.ts"],"names":["page"],"mappings":"gIAAO,SAASA,IACd,MAAO,QACT,C","file":"js/src_pages_page-b_ts.daad4f31.js","sourcesContent":["export function page() {\n  return 'page-b';\n}"],"sourceRoot":""}

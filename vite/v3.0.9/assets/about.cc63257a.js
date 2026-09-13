@@ -1,0 +1,1 @@
+import{l as o,_ as r}from"./index.c0266d6c.js";import{b as t}from"./vendor-lib-a.1adb32e4.js";function a(){o("views/about rendered",t),r(()=>import("./detail.5412f65f.js"),["assets/detail.5412f65f.js","assets/vendor-lib-b.dab8646b.js"]).then(e=>e.show())}export{a as render};

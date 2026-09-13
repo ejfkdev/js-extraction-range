@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunkrsbuild_dynamic_load_demo=self.rspackChunkrsbuild_dynamic_load_demo||[]).push([[200],{172(e,d,s){var r=s(918);function n(){console.log("views/metrics rendered",r.X)}s.d(d,{render:()=>n})}}]);

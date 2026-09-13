@@ -1,0 +1,2 @@
+(self.webpackChunkwebpack_dynamic_load_demo=self.webpackChunkwebpack_dynamic_load_demo||[]).push([["vendor-lib-b"],{945:(e,a,c)=>{"use strict";c.d(a,{y:()=>b});const n="lib-b/gamma";function b(){return n}}}]);
+//# sourceMappingURL=vendor-lib-b.be3273a9.js.map

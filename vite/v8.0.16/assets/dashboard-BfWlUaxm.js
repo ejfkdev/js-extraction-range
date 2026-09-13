@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/metrics-CNNtwYd5.js","assets/vendor-lib-a-O545pnoL.js"])))=>i.map(i=>d[i]);
+import{t as e}from"./vendor-lib-a-O545pnoL.js";import{t}from"./index-DvKCGzva.js";function n(){console.log(`views/dashboard rendered`,e),t(()=>import(`./metrics-CNNtwYd5.js`).then(e=>e.render()),__vite__mapDeps([0,1]))}export{n as render};

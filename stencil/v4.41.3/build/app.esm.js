@@ -1,0 +1,1 @@
+import{p as a,b as p}from"./p-C7T2-Ams.js";export{s as setNonce}from"./p-C7T2-Ams.js";import{g as o}from"./p-DQuL1Twl.js";(()=>{const p=import.meta.url,s={};return""!==p&&(s.resourcesUrl=new URL(".",p).href),a(s)})().then((async a=>(await o(),p([["p-b05cf0a5",[[1,"app-root"],[1,"app-about",{label:[32]}],[1,"app-cards",{label:[32]}],[1,"app-forms",{label:[32]}]]]],a))));

@@ -1,0 +1,1 @@
+import{_ as d}from"./preload-helper-CLcXU_4U.js";function o(){const e=document.createElement("div");e.textContent="dashboard rendered",document.getElementById("root").appendChild(e),d(()=>import("./metrics-Cbi_Oj5q.js"),[]).then(t=>t.render())}export{o as render};

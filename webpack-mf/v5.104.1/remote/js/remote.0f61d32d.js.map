@@ -1,0 +1,1 @@
+{"version":3,"file":"js/remote.0f61d32d.js","mappings":"gLAAO,MAAAA,EAAA,IAAAC,IAAAC,QAAAC,IAAA,yBAAAF","sources":["webpack://webpack-mf-official-dynamic-load-demo/./remote/src/remote-shared.js"],"sourcesContent":["export const boot = (...args) => console.log(\"[wmf remote/shared]\", ...args);"],"names":["boot","args","console","log"],"ignoreList":[],"sourceRoot":""}

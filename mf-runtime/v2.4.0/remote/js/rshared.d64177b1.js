@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([["rshared"],{5150:(e,t,n)=>{n.r(t),n.d(t,{default:()=>o,render:()=>a});var r=n(3e3);function a(e){e.textContent="remote app rendered: "+(0,r.q)()}n.e("src_remote-gadget-a_js").then(n.bind(n,1763)).then(e=>console.log("[remote-app] gadget-a:",e.tag())),n.e("src_remote-gadget-b_js").then(n.bind(n,6)).then(e=>console.log("[remote-app] gadget-b:",e.tag()));const o={render:a}}}]);
+//# sourceMappingURL=rshared.d64177b1.js.map

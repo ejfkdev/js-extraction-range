@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkcra_dynamic_load_demo||=[]).push([[415],{415(e,a,d){d.r(a),d.d(a,{default:()=>t});d(43);var n=d(579);function t(){return d.e(498).then(d.bind(d,498)).then(e=>console.log("extra loaded",e.default)),(0,n.jsx)("div",{children:"extra page"})}}}]);
+//# sourceMappingURL=415.e431cc04.chunk.js.map

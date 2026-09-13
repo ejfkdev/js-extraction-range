@@ -1,0 +1,1 @@
+{"version":3,"sources":["turbopack:///[project]/components/templates/ta.jsx"],"sourcesContent":["export default function Ta() {\n  return \"template-ta\";\n}"],"names":[],"mappings":"sIAAe,SAAS,IACtB,MAAO,aACT"}

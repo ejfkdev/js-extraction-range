@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://webpack-dynamic-load-demo/./src/page2-extra.js"],"names":["side","console","log"],"mappings":"sLAEO,SAASA,IACdC,QAAQC,IAAI,2BAA4B,IAC1C,C","file":"js/page2-extra.ad4eb3b4.js","sourcesContent":["import { beta } from \"./lib-a/beta\";\n\nexport function side() {\n  console.log(\"page2-extra chunk loaded\", beta);\n}"],"sourceRoot":""}

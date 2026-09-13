@@ -1,0 +1,14 @@
+chunks/about-DYTZ3WRM.js
+chunks/chunk-GYQGVO2O.js
+chunks/contact-5XD2XOUT.js
+chunks/dashboard-SAOQWV2N.js
+chunks/detail-FO67245T.js
+chunks/home-XPMNG4HI.js
+chunks/metrics-KUSVXRE7.js
+chunks/page2-extra-KAJQNVRC.js
+chunks/page3-stats-4RQRWOJ4.js
+chunks/profile-6QHKU5N7.js
+chunks/search-7QCKSQTR.js
+chunks/settings-DN42KYZJ.js
+chunks/team-NWB2EPV2.js
+index.js

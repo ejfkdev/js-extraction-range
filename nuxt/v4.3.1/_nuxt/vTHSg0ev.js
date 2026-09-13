@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./BSrU6NUv.js","./CPwDyja-.js"])))=>i.map(i=>d[i]);
+import{o,I as n,z as r,A as i,B as s,C as l,i as _}from"./CPwDyja-.js";const u={class:"widget"},d={__name:"Delta",setup(c){const t=_("");return o(async()=>{const{runNested:a}=await n(async()=>{const{runNested:e}=await import("./BSrU6NUv.js");return{runNested:e}},__vite__mapDeps([0,1]),import.meta.url);t.value=await a()}),(a,e)=>(r(),i("section",u,[e[0]||(e[0]=s("h2",null,"Delta",-1)),s("p",null,"nested deep import: "+l(t.value),1)]))}};export{d as default};

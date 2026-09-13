@@ -1,0 +1,1 @@
+import{_ as r}from"./DxQdZJew.js";async function n(){const{inner:e}=await r(async()=>{const{inner:o}=await import("./xO-WuXr9.js");return{inner:o}},[],import.meta.url);return console.log("deep",e),e}export{n as goDeep};

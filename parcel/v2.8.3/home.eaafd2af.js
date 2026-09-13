@@ -1,0 +1,2 @@
+var e=("undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:"undefined"!=typeof window?window:"undefined"!=typeof global?global:{}).parcelRequirebc54;e.register("6QdMp",function(n,o){var r,d,f,i;r=n.exports,d="render",f=()=>t,Object.defineProperty(r,d,{get:f,set:i,enumerable:!0,configurable:!0});var l=e("3wfmH"),a=e("7ccv8");function t(){(0,a.log)("views/home rendered",l.alpha)}});
+//# sourceMappingURL=home.eaafd2af.js.map

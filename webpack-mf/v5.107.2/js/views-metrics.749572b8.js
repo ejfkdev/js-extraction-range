@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebpack_mf_official_dynamic_load_demo=self.webpackChunkwebpack_mf_official_dynamic_load_demo||[]).push([["views-metrics"],{97(e,c,i){i.d(c,{render:()=>d});var a=i(547);function d(){console.log("views/metrics rendered (3-level nested)",a.X)}}}]);
+//# sourceMappingURL=views-metrics.749572b8.js.map

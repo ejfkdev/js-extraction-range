@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/async/about/page.d4906079f0.js","sources":["../../../../../src/routes/about/page.tsx"],"sourcesContent":["const About = () => (\n  <main>\n    <h1>about</h1>\n  </main>\n);\nexport default About;\n"],"names":["e"],"mappings":"8LAKA,IAAAA,EALc,IACZ,UAAC,Q,SACC,UAAC,M,SAAG,O"}

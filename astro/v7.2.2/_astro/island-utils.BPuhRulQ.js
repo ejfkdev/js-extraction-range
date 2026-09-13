@@ -1,0 +1,1 @@
+function e(e,t){let n=document.querySelector(e);n&&(n.textContent=`live `+t)}export{e as t};

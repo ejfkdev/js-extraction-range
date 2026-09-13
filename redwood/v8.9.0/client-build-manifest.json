@@ -1,0 +1,92 @@
+{
+  "index.html": {
+    "file": "assets/index-B_picePI.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "pages/DashboardPage/DashboardPage.tsx",
+      "pages/HomePage/HomePage.tsx",
+      "pages/NotFoundPage/NotFoundPage.tsx",
+      "pages/TeamPage/TeamPage.tsx",
+      "pages/HomePage/HomePage.tsx",
+      "pages/TeamPage/TeamPage.tsx",
+      "pages/DashboardPage/DashboardPage.tsx"
+    ]
+  },
+  "pages/DashboardPage/DashboardPage.tsx": {
+    "file": "assets/DashboardPage-DktybU2G.js",
+    "name": "DashboardPage",
+    "src": "pages/DashboardPage/DashboardPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "dynamicImports": [
+      "templates/TplOne.tsx",
+      "templates/TplThree.tsx",
+      "templates/TplTwo.tsx"
+    ]
+  },
+  "pages/HomePage/HomePage.tsx": {
+    "file": "assets/HomePage-BCGTh4S4.js",
+    "name": "HomePage",
+    "src": "pages/HomePage/HomePage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "dynamicImports": [
+      "widgets/WdgAlpha.tsx",
+      "widgets/WdgBeta.tsx"
+    ]
+  },
+  "pages/NotFoundPage/NotFoundPage.tsx": {
+    "file": "assets/NotFoundPage-DcZSPEcq.js",
+    "name": "NotFoundPage",
+    "src": "pages/NotFoundPage/NotFoundPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "pages/TeamPage/TeamPage.tsx": {
+    "file": "assets/TeamPage-9_ffFgs_.js",
+    "name": "TeamPage",
+    "src": "pages/TeamPage/TeamPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "templates/TplOne.tsx": {
+    "file": "assets/TplOne-Beh9LJUT.js",
+    "name": "TplOne",
+    "src": "templates/TplOne.tsx",
+    "isDynamicEntry": true
+  },
+  "templates/TplThree.tsx": {
+    "file": "assets/TplThree-DNLqY47-.js",
+    "name": "TplThree",
+    "src": "templates/TplThree.tsx",
+    "isDynamicEntry": true
+  },
+  "templates/TplTwo.tsx": {
+    "file": "assets/TplTwo-DL-MJJHF.js",
+    "name": "TplTwo",
+    "src": "templates/TplTwo.tsx",
+    "isDynamicEntry": true
+  },
+  "widgets/WdgAlpha.tsx": {
+    "file": "assets/WdgAlpha-D6nB_OK6.js",
+    "name": "WdgAlpha",
+    "src": "widgets/WdgAlpha.tsx",
+    "isDynamicEntry": true
+  },
+  "widgets/WdgBeta.tsx": {
+    "file": "assets/WdgBeta-Dq8xEKRu.js",
+    "name": "WdgBeta",
+    "src": "widgets/WdgBeta.tsx",
+    "isDynamicEntry": true
+  }
+}

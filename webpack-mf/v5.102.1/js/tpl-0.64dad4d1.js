@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebpack_mf_official_dynamic_load_demo=self.webpackChunkwebpack_mf_official_dynamic_load_demo||[]).push([["tpl-0"],{382:(e,a,_)=>{_.r(a);var c=_(315);console.log("template a loaded (context chunk), gamma:",c.u),_.e("host_src_views_extra_js").then(_.bind(_,578)).then(e=>e.paint())}}]);
+//# sourceMappingURL=tpl-0.64dad4d1.js.map

@@ -1,0 +1,1 @@
+import{t as e}from"./adaptive-BPMBkqKw.js";export{e as default};

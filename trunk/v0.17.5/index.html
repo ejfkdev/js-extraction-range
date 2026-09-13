@@ -1,0 +1,54 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>trunk dj test site</title>
+    <script type="module">import init from '/trunk_app-ba34a04967675de9.js';init('/trunk_app-ba34a04967675de9_bg.wasm');</script>
+    
+    
+  
+<link rel="preload" href="/trunk_app-ba34a04967675de9_bg.wasm" as="fetch" type="application/wasm" crossorigin="">
+<link rel="modulepreload" href="/trunk_app-ba34a04967675de9.js"></head>
+  <body>
+    <h1>trunk dj test site</h1>
+    <script type="module">
+      (async () => {
+        // Rust worker wasm (trunk data-type=worker): app-managed at runtime
+        try {
+          new Worker(new URL('./trunk_app_extra.js', import.meta.url), {
+            type: 'module',
+          });
+        } catch (e) {
+          console.warn('rust worker skip', e);
+        }
+        // SPA lazy routes: urls composed from name + extension (no verbatim path)
+        const base = './static/';
+        const routes = ['js/lazy-' + 'home.js', 'js/lazy-' + 'about.js'];
+        for (const r of routes) {
+          import(base + r)
+            .then(() => console.log('lazy ok', r))
+            .catch((e) => console.warn('lazy skip', r, e && e.message));
+        }
+        // sitemap + versioned chunk cache drive the rest of the dynamic loads
+        try {
+          const raw = await fetch('./static/sitemap.json');
+          const sm = await raw.json();
+          for (const rt of sm.routes || []) {
+            import('./static/' + rt.file).catch(() => {});
+          }
+          for (const [cid, hash] of Object.entries(sm.chunks || {})) {
+            import('./static/js/' + cid + '.' + hash + '.js').catch(() => {});
+          }
+          for (const w of sm.workers || []) {
+            try {
+              new Worker(new URL('./static/' + w, import.meta.url));
+            } catch (e) {
+              console.warn('worker skip', w);
+            }
+          }
+        } catch (e) {
+          console.warn('sitemap skip', e);
+        }
+      })();
+    </script>
+  
+</body></html>

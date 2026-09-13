@@ -1,0 +1,1 @@
+var e=`lib-b/gamma`;function t(){return e}export{t};

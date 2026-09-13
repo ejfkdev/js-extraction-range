@@ -1,0 +1,1 @@
+{"version":3,"file":"js/views-settings.df883f22.js","mappings":"iJAAO,SAAAA,IACPC,QAAAC,IAAA,4CACA","sources":["webpack://webpack-dynamic-load-demo/./src/views/settings.js"],"sourcesContent":["export function render() {\n  console.log(\"views/settings rendered (lazy-once chunk)\");\n}"],"names":["render","console","log"],"sourceRoot":""}

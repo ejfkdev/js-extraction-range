@@ -1,0 +1,1 @@
+(self.webpackChunkice_dj_demo=self.webpackChunkice_dj_demo||[]).push([[567],{5161:(e,t,n)=>{n.r(t),n.d(t,{default:()=>i});var u=n(9220),d=n(7294);function i(){return(0,d.useEffect)((function(){n.e(56).then(n.bind(n,8056)).then((function(e){return e.default.init("about")}))}),[]),(0,u.BX)("div",{children:[(0,u.tZ)("h2",{children:"About"}),(0,u.tZ)("div",{id:"about-root"})]})}}}]);

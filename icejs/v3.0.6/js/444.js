@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkice_dj_demo=self.webpackChunkice_dj_demo||[]).push([[444],{444:(e,t,a)=>{a.r(t),a.d(t,{default:()=>o});const o={init:function(e){console.log("[heavys] aboutheavy init",e),document.body.dataset.heavy="aboutheavy"}}}}]);

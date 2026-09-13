@@ -1,0 +1,1 @@
+(self.webpackChunkice_dj_demo=self.webpackChunkice_dj_demo||[]).push([[444],{5444:(e,a,o)=>{o.r(a),o.d(a,{default:()=>t});const t={init:function(e){console.log("[heavys] aboutheavy init",e),document.body.dataset.heavy="aboutheavy"}}}}]);

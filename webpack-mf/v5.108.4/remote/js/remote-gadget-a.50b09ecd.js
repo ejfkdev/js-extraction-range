@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebpack_mf_official_dynamic_load_demo=self.webpackChunkwebpack_mf_official_dynamic_load_demo||[]).push([["remote-gadget-a"],{330(e,a,d){var _=d(981);d.d(a,["ga",0,()=>{(0,_.z)("gadget-a"),d.e("remote-gadget-b").then(d.bind(d,239)).then(e=>e.gb())}])}}]);
+//# sourceMappingURL=remote-gadget-a.50b09ecd.js.map

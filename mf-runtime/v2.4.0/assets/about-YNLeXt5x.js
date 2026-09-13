@@ -1,0 +1,1 @@
+import{g as t}from"./vendor-lib-b-xNCgjMYu.js";function n(){const e=document.createElement("div");e.textContent="about rendered ("+t+")",document.getElementById("root").appendChild(e)}const d={render:n};export{d as default,n as render};

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmodule_federation_dynamic_load_demo=self.webpackChunkmodule_federation_dynamic_load_demo||[]).push([["views-home"],{945:(e,d,o)=>{o.r(d),o.d(d,{render:()=>r});var n=o(547),a=o(809);function r(){(0,a.R)("views/home rendered",n.X)}}}]);
+//# sourceMappingURL=views-home.ffab14c9.js.map

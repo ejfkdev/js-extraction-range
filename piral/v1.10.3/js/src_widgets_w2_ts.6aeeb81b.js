@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkv1_10_3=self.webpackChunkv1_10_3||[]).push([["src_widgets_w2_ts"],{407(e,s,t){function _(){return"w2"}t.d(s,{widget:()=>_})}}]);
+//# sourceMappingURL=src_widgets_w2_ts.6aeeb81b.js.map

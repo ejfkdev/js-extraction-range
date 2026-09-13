@@ -1,0 +1,2 @@
+(function(_){for(var r in _){_[r].__farm_resource_pot__='page2-extra_bbc7.js';(globalThis || window || global)['d25e9ecee5c6996a0667e7c47ebdf736'].__farm_module_system__.register(r,_[r])}})({"fb7198d4":function  (e,t,n,o){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),Object.defineProperty(t,"side",{enumerable:!0,get:function(){return u;}});let r=n("f168223f");function u(){console.log("page2-extra chunk loaded",r.beta);}},});
+//# sourceMappingURL=page2-extra_bbc7.ede17504.js.map

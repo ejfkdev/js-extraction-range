@@ -1,0 +1,1 @@
+{"version":3,"file":"js/vendor-lib-a.fdff1d8e.js","mappings":"gKAAO,MAAAA,EAAA,aAEA,SAAAC,IACP,OAAAD,CACA","sources":["webpack://webpack-dynamic-load-demo/./src/lib-a/beta.js"],"sourcesContent":["export const id = \"lib-a/beta\";\n\nexport function beta() {\n  return id;\n}"],"names":["id","beta"],"sourceRoot":""}

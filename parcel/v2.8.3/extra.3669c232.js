@@ -1,0 +1,2 @@
+("undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:"undefined"!=typeof window?window:"undefined"!=typeof global?global:{}).parcelRequirebc54.register("iQ0qI",function(e,n){var o,i,l,t;function f(){console.log("views/extra chunk loaded (from inside a context chunk)")}o=e.exports,i="paint",l=()=>f,Object.defineProperty(o,i,{get:l,set:t,enumerable:!0,configurable:!0})});
+//# sourceMappingURL=extra.3669c232.js.map

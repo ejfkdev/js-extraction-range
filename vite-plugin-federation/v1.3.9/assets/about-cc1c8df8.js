@@ -1,0 +1,1 @@
+import{l as o,_ as r}from"./index-4cb421d5.js";import{b as t}from"./beta-8bbf1002.js";function a(){o("views/about rendered",t),r(()=>import("./detail-c04154c2.js"),[]).then(e=>e.show())}export{a as render};

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmodule_federation_dynamic_load_demo=self.webpackChunkmodule_federation_dynamic_load_demo||[]).push([["views-team"],{7827:(e,d,n)=>{n.r(d),n.d(d,{render:()=>o});var a=n(5315);function o(){console.log("views/team rendered",a.u),Promise.all([n.e("vendor-lib-a"),n.e("views-dashboard")]).then(n.bind(n,3048)).then(e=>e.render())}}}]);
+//# sourceMappingURL=views-team.abcc2fab.js.map

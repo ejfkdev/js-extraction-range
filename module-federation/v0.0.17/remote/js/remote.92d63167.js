@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmodule_federation_dynamic_load_demo=self.webpackChunkmodule_federation_dynamic_load_demo||[]).push([["main"],{427:(e,d,a)=>{(0,a(981).z)("remote entry loaded")}},e=>{var d=d=>e(e.s=d);e.O(0,["rshared"],()=>(d(686),d(427))),e.O()}]);
+//# sourceMappingURL=remote.92d63167.js.map

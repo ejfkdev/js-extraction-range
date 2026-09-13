@@ -1,0 +1,1 @@
+import{t as e}from"./columns-CKPRhWf7.js";export{e as useColumns};

@@ -1,0 +1,1 @@
+import{t as e}from"./columns-CYBKoVmE.js";export{e as useColumns};

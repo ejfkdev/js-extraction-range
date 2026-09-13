@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/views/settings.js"],"names":["render","console","log"],"mappings":"yFAAO,SAASA,IACdC,QAAQC,IAAI,6CADd","file":"js/views-settings.dfc1bebe.js","sourcesContent":["export function render() {\n  console.log(\"views/settings rendered (lazy-once chunk)\");\n}"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+import{_ as r}from"./preload-helper-DfZQVC28.js";import{g as o}from"./gamma-DbgPTHvm.js";function _(){console.log("views/team rendered",o),r(()=>import("./dashboard-C6l1exk-.js"),[]).then(e=>e.render())}export{_ as render};

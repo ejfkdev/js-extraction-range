@@ -1,0 +1,13 @@
+chunks/about-59aae657.js
+chunks/contact-0a18e5b6.js
+chunks/dashboard-ad96e0ca.js
+chunks/detail-d0888f58.js
+chunks/home-c477e39b.js
+chunks/metrics-fdbf1947.js
+chunks/page2-extra-8be22ca6.js
+chunks/page3-stats-c4c6a266.js
+chunks/profile-65f07c61.js
+chunks/search-e3987168.js
+chunks/settings-4590a21b.js
+chunks/team-9d2c4e5b.js
+index.js

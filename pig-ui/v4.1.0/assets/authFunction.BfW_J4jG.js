@@ -1,0 +1,1 @@
+import{j as t}from"./tagsViewRoutes.Cwi6gg9R.js";function s(s){return t().userInfos.authBtnList.some(t=>t===s)}export{s as t};

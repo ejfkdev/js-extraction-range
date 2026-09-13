@@ -1,0 +1,2 @@
+"use strict";(self.rspackChunkrspack_dynamic_load_demo=self.rspackChunkrspack_dynamic_load_demo||[]).push([["vendor-lib-b"],{74(a,s,c){function d(){return"lib-b/gamma"}c.d(s,{u:()=>d})}}]);
+//# sourceMappingURL=vendor-lib-b.f03d4812.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"js/remote.0fc965e7.js","mappings":"6JACA,UAAAA,GAAI","sources":["webpack://module-federation-dynamic-load-demo/./remote/src/remote.js"],"sourcesContent":["import { boot } from \"./remote-shared\";\nboot(\"remote entry loaded\");\n"],"names":["z"],"sourceRoot":""}

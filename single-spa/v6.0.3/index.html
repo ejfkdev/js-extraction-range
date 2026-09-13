@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>single-spa dj site</title>
+    <script src="/lib/system.min.js"></script>
+    <script>
+      System.import("/js/index.js").catch(function (e) {
+        console.error("boot failed", e);
+      });
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

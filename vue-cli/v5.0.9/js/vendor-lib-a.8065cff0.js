@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkvue_cli_dynamic_load_demo"]=self["webpackChunkvue_cli_dynamic_load_demo"]||[]).push([[189],{886:function(n,e,c){c.d(e,{l:function(){return i}});const u="lib-a/beta";function i(){return u}}}]);

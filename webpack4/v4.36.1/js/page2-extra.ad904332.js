@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{9:function(n,o,e){"use strict";e.r(o),e.d(o,"side",(function(){return a}));var c=e(15);function a(){console.log("page2-extra chunk loaded",c.a)}}}]);
+//# sourceMappingURL=page2-extra.ad904332.js.map

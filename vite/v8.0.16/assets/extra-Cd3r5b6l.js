@@ -1,0 +1,1 @@
+function e(){console.log(`views/extra chunk loaded (from inside a context chunk)`)}export{e as paint};

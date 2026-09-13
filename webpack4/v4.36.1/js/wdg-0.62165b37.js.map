@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/widgets/x.js"],"names":["console","log"],"mappings":"2EAAAA,QAAQC,IAAI","file":"js/wdg-0.62165b37.js","sourcesContent":["console.log(\"widget x loaded (context chunk)\");"],"sourceRoot":""}

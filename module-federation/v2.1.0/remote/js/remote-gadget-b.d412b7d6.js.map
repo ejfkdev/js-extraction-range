@@ -1,0 +1,1 @@
+{"version":3,"file":"js/remote-gadget-b.d412b7d6.js","mappings":"gMAAO,MAAAA,EAAA,IAAAC,QAAAC,IAAA","sources":["webpack://module-federation-dynamic-load-demo/./remote/src/remote-gadget-b.js"],"sourcesContent":["export const gb = () => console.log(\"[remote] gadget-b\");\n"],"names":["gb","console","log"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+"use strict";(self.rspackChunkrspack_dynamic_load_demo=self.rspackChunkrspack_dynamic_load_demo||[]).push([["tpl-0"],{143(a,e,s){s.r(e),console.log("template a loaded (context chunk), gamma:",s(74).u),s.e("src_views_extra_js").then(s.bind(s,683)).then(a=>a.paint())}}]);
+//# sourceMappingURL=tpl-0.f805f7e3.js.map

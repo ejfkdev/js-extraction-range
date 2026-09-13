@@ -1,0 +1,1 @@
+import{c as e,m as o,r}from"./render-template.BFL4B5D8.js";const m=e((s,t,a)=>r`${o()}<div class="comp comp-Three" id="comp-Three"> <h2>Comp Three</h2> <p class="state">initial</p> </div> `,"src/components/CompThree.astro",void 0);export{m as default};

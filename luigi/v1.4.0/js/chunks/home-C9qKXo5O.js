@@ -1,0 +1,1 @@
+import{_ as r}from"../index-Beqo1H4_.js";import"./vendor-luigi-BTbrR4FC.js";r(()=>import("./dashboard-LN_XDYQa.js"),[]).then(e=>e.render()).catch(()=>{});function n(){return"home"}export{n as render};

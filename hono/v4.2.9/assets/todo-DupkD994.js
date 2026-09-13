@@ -1,0 +1,1 @@
+import{r,j as o}from"./index-Cx39zfEP.js";const i=()=>o("ul",{children:[o("li",{children:"todo item one"}),o("li",{children:"todo item two"}),o("li",{children:"todo item three"})]}),d=e=>{e.replaceChildren(),r(o(i,{}),e)};export{d as mountTodo};

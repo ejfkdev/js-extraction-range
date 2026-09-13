@@ -1,0 +1,2 @@
+var e=("undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:"undefined"!=typeof window?window:"undefined"!=typeof global?global:{}).parcelRequirebc54;e.register("g44zc",function(n,o){var r,i,l,f;r=n.exports,i="render",l=()=>t,Object.defineProperty(r,i,{get:l,set:f,enumerable:!0,configurable:!0});var d=e("3wfmH");function t(){console.log("views/metrics rendered",d.alpha)}});
+//# sourceMappingURL=metrics.1ec59ad9.js.map

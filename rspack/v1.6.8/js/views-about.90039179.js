@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrspack_dynamic_load_demo=self.webpackChunkrspack_dynamic_load_demo||[]).push([["views-about"],{796(e,a,d){d.r(a),d.d(a,{render:()=>i});var n=d(886),s=d(764);function i(){(0,s.R)("views/about rendered",n.l),Promise.all([d.e("vendor-lib-b"),d.e("views-detail")]).then(d.bind(d,972)).then(e=>e.show())}}}]);
+//# sourceMappingURL=views-about.90039179.js.map

@@ -1,0 +1,1 @@
+import{S as e}from"./index-DkWNI6C3.js";var t={PurchaseList:`/get-purchase-list`,ProjectList:`/get-project-list`};function n(){return e.get({url:t.PurchaseList})}function r(){return e.get({url:t.ProjectList})}export{n,r as t};

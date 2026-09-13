@@ -1,0 +1,1 @@
+{"version":3,"sources":["turbopack:///[project]/components/templates/tb.jsx"],"sourcesContent":["export default function Tb() {\n  return \"template-tb\";\n}"],"names":[],"mappings":"6JAAe,SAAS,IACtB,MAAO,aACT"}

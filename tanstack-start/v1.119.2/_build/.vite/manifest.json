@@ -1,0 +1,57 @@
+{
+  "_client-AXF94PeY.js": {
+    "file": "assets/client-AXF94PeY.js",
+    "name": "client",
+    "dynamicImports": [
+      "app/routes/page3.tsx?tsr-split=component",
+      "app/routes/page2.tsx?tsr-split=component",
+      "app/routes/page1.tsx?tsr-split=component",
+      "app/routes/index.tsx?tsr-split=component"
+    ]
+  },
+  "app/routes/index.tsx?tsr-split=component": {
+    "file": "assets/index-of6wBZwB.js",
+    "name": "index",
+    "src": "app/routes/index.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_client-AXF94PeY.js"
+    ]
+  },
+  "app/routes/page1.tsx?tsr-split=component": {
+    "file": "assets/page1-BOt6qtE_.js",
+    "name": "page1",
+    "src": "app/routes/page1.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_client-AXF94PeY.js"
+    ]
+  },
+  "app/routes/page2.tsx?tsr-split=component": {
+    "file": "assets/page2-DMBJJIDu.js",
+    "name": "page2",
+    "src": "app/routes/page2.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_client-AXF94PeY.js"
+    ]
+  },
+  "app/routes/page3.tsx?tsr-split=component": {
+    "file": "assets/page3-DsrU3ABC.js",
+    "name": "page3",
+    "src": "app/routes/page3.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_client-AXF94PeY.js"
+    ]
+  },
+  "virtual:$vinxi/handler/client": {
+    "file": "assets/client-Dzmljxiu.js",
+    "name": "client",
+    "src": "virtual:$vinxi/handler/client",
+    "isEntry": true,
+    "imports": [
+      "_client-AXF94PeY.js"
+    ]
+  }
+}

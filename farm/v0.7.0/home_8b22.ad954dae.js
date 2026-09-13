@@ -1,0 +1,2 @@
+(function(_){for(var r in _){_[r].__farm_resource_pot__='home_8b22.js';(globalThis || window || global)['d25e9ecee5c6996a0667e7c47ebdf736'].__farm_module_system__.register(r,_[r])}})({"b3f7ff14":function  (e,n,r,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),Object.defineProperty(n,"render",{enumerable:!0,get:function(){return u;}});let f=r("8fb0010f"),o=r("6d1f0b34");function u(){(0,o.log)("views/home rendered",f.alpha);}},});
+//# sourceMappingURL=home_8b22.ad954dae.js.map

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkemp_dj_site=self.webpackChunkemp_dj_site||[]).push([["src_pages_page-a-deep_ts"],{475:function(e,s,n){function p(){return"page-a-deep"}n.r(s),n.d(s,{side:function(){return p}})}}]);

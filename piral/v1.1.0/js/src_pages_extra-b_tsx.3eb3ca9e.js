@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkv1_1_0=self.webpackChunkv1_1_0||[]).push([["src_pages_extra-b_tsx"],{552(e,t,a){a.d(t,{"default":()=>n});var r=a(540);function n(){return Promise.all([a.e("src_pages_extra-b-1_ts").then(a.bind(a,198)),a.e("src_pages_extra-b-2_ts").then(a.bind(a,203))])["catch"](function(){return undefined}),r.createElement("div",{"data-extra":"b"},"Extra Page B")}}}]);
+//# sourceMappingURL=src_pages_extra-b_tsx.3eb3ca9e.js.map

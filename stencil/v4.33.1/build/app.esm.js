@@ -1,0 +1,2 @@
+import{p as a,g as p,b as r}from"./p-BqlzjlEM.js";export{s as setNonce}from"./p-BqlzjlEM.js";var o=()=>{const p=import.meta.url;const r={};if(p!==""){r.resourcesUrl=new URL(".",p).href}return a(r)};o().then((async a=>{await p();return r([["p-baaaff58",[[1,"app-root"],[1,"app-about",{label:[32]}],[1,"app-cards",{label:[32]}],[1,"app-forms",{label:[32]}]]]],a)}));
+//# sourceMappingURL=app.esm.js.map

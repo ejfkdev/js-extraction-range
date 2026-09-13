@@ -1,0 +1,1 @@
+console.log("lazy-b.js loaded via createElement script concat");

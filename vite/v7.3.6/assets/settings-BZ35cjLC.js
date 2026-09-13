@@ -1,0 +1,1 @@
+function e(){console.log("views/settings rendered (lazy-once chunk)")}export{e as render};

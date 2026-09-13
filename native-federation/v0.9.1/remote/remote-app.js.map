@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/remote-app.js"],
+  "sourcesContent": ["// exposed remote module: micro-frontend UI (kept lean; bundled into\n// remoteEntry.js by the federation builder)\nexport function registerRemote(host) {\n  const node = document.createElement('div');\n  node.dataset.remote = 'remote-app';\n  node.textContent = 'remote-app registered';\n  const body = host && host.documentElement ? host.body : document.body;\n  body.appendChild(node);\n}\n\nexport function remoteInfo() {\n  return 'remote-app v1';\n}"],
+  "mappings": "AAEO,SAASA,EAAeC,EAAM,CACnC,IAAMC,EAAO,SAAS,cAAc,KAAK,EACzCA,EAAK,QAAQ,OAAS,aACtBA,EAAK,YAAc,yBACND,GAAQA,EAAK,gBAAkBA,EAAK,KAAO,SAAS,MAC5D,YAAYC,CAAI,CACvB,CAEO,SAASC,GAAa,CAC3B,MAAO,eACT",
+  "names": ["registerRemote", "host", "node", "remoteInfo"]
+}

@@ -1,0 +1,1 @@
+const n="beta";function o(e){const t=document.createElement("div");t.textContent="beta rendered",e&&e.appendChild(t)}function d(){o(document.getElementById("root")),console.log("views/home rendered with",n)}const r={render:d};export{r as default,d as render};

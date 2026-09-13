@@ -1,0 +1,14 @@
+remote/remoteEntry.js
+remote/static/js/async/36.52a2638e.js
+remote/static/js/async/479.d0274aea.js
+remote/static/js/async/__federation_expose_remote_app.9dcac724.js
+static/js/async/src_views_dashboard_js.f8d86dba.js
+static/js/async/src_views_metrics_js.62198d06.js
+static/js/async/tpl-0.6cf0a430.js
+static/js/async/tpl-1.860fb414.js
+static/js/async/tpl-2.a0901443.js
+static/js/async/views-about.a7eb7273.js
+static/js/async/views-home.7e8cd955.js
+static/js/async/views-settings.0ab59009.js
+static/js/async/views-team.79abf3c4.js
+static/js/index.02995dba.js

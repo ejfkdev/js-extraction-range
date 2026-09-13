@@ -1,0 +1,1 @@
+import{n as e}from"./vendor-lib-a-O545pnoL.js";function t(){console.log(`views/metrics rendered`,e)}export{t as render};

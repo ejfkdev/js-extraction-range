@@ -1,0 +1,1 @@
+function t(){const o=document.querySelector(".accordion-aux");if(o)o.classList.toggle("open");else{const e=document.createElement("div");e.className="accordion-aux",e.textContent="accordion aux created",document.body.appendChild(e)}}export{t as toggle};

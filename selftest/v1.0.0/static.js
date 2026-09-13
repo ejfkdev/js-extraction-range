@@ -1,0 +1,1 @@
+console.log("static.js loaded (direct <script src> in HTML)");

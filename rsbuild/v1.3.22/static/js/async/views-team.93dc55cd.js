@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrsbuild_dynamic_load_demo=self.webpackChunkrsbuild_dynamic_load_demo||[]).push([["470"],{632:function(e,n,d){d.d(n,{y:()=>r});function r(){return"lib-b/gamma"}},978:function(e,n,d){d.r(n),d.d(n,{render:()=>i});var r=d(632);function i(){console.log("views/team rendered",r.y),d.e("513").then(d.bind(d,112)).then(e=>e.render())}}}]);

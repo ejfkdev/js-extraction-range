@@ -1,0 +1,1 @@
+import{j as e}from"./client-LMbv3vJK.js";const t=function(){return e.jsxs("div",{children:[e.jsx("h2",{children:"Page 3"}),e.jsx("p",{children:"page three content goes here"})]})};export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./columns-CMWclgI_.js";export{e as useColumns};

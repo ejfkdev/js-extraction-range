@@ -1,0 +1,1 @@
+(self.webpackChunkemp_dj_site=self.webpackChunkemp_dj_site||[]).push([["src_hostEntry_ts"],{827:function(t,n,o){"use strict";function s(){return console.log("emp hostEntry boot"),"hostEntry"}o.r(n),o.d(n,{hostBoot:function(){return s}})}}]);

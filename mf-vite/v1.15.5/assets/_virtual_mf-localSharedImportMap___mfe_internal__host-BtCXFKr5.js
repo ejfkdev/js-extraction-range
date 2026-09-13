@@ -1,0 +1,1 @@
+import"./remoteEntry-DwrjYRuy.js";import"./preload-helper-CLcXU_4U.js";const o={},r=[{entryGlobalName:"remote",name:"remote",type:"module",entry:"/remote/remoteEntry.js",shareScope:"default"}];export{r as usedRemotes,o as usedShared};

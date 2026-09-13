@@ -1,0 +1,1 @@
+import{H as e,R as t,_ as n,x as r}from"./vue.runtime.esm-bundler-P1jIn7UA.js";import{t as i}from"./index-DkWNI6C3.js";var a={},o={class:`tdesign-wrapper`};function s(i,a){let s=e(`router-view`);return t(),n(`div`,o,[r(s)])}var c=i(a,[[`render`,s],[`__scopeId`,`data-v-d2d85c5e`]]);export{c as default};

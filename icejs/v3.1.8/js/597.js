@@ -1,0 +1,1 @@
+(self.webpackChunkice_dj_demo=self.webpackChunkice_dj_demo||[]).push([[597],{3597:(e,t,n)=>{n.r(t),n.d(t,{default:()=>s});const s={init:function(e){console.log("[heavys] settings init",e),document.body.dataset.heavy="settings"}}}}]);

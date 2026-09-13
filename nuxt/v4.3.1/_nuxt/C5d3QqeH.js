@@ -1,0 +1,1 @@
+import{o as s,I as r,z as n,A as l,B as o,C as _,i}from"./CPwDyja-.js";const u={class:"widget"},m={__name:"Beta",setup(c){const t=i("");return s(async()=>{const e=await r(()=>import("./VDld11fw.js"),[],import.meta.url);t.value=e.default()}),(e,a)=>(n(),l("section",u,[a[0]||(a[0]=o("h2",null,"Beta",-1)),o("p",null,"lib partB: "+_(t.value),1)]))}};export{m as default};

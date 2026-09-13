@@ -1,0 +1,62 @@
+{
+  "routeAssets": {
+    "main": {
+      "chunkIds": [
+        691,
+        740,
+        594,
+        479,
+        792
+      ],
+      "assets": [
+        "/static/js/main.8eaf3f3f.js",
+        "/static/js/main.8eaf3f3f.js.map"
+      ]
+    },
+    "about/page": {
+      "chunkIds": [
+        272
+      ],
+      "assets": [
+        "/static/js/async/about/page.bd9bb97d.js",
+        "/static/js/async/about/page.bd9bb97d.js.map"
+      ]
+    },
+    "detail/page": {
+      "chunkIds": [
+        70
+      ],
+      "assets": [
+        "/static/js/async/detail/page.650231e7.js",
+        "/static/js/async/detail/page.650231e7.js.map"
+      ]
+    },
+    "page": {
+      "chunkIds": [
+        530
+      ],
+      "assets": [
+        "/static/js/async/page.829360f6.js",
+        "/static/js/async/page.829360f6.js.map"
+      ]
+    },
+    "settings/page": {
+      "chunkIds": [
+        778
+      ],
+      "assets": [
+        "/static/js/async/settings/page.f713834a.js",
+        "/static/js/async/settings/page.f713834a.js.map"
+      ]
+    },
+    "team/page": {
+      "chunkIds": [
+        118
+      ],
+      "assets": [
+        "/static/js/async/team/page.df6c816d.js",
+        "/static/js/async/team/page.df6c816d.js.map"
+      ]
+    }
+  }
+}

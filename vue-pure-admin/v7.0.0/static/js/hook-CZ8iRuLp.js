@@ -1,0 +1,1 @@
+import{t as e}from"./hook-DKN1jGaS.js";export{e as useRole};

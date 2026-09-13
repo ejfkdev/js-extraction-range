@@ -1,0 +1,1 @@
+import{t as e}from"./list-BUfVMLea.js";export{e as list};

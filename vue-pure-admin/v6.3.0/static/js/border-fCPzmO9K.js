@@ -1,0 +1,1 @@
+import{_ as o}from"./border.vue_vue_type_script_setup_true_lang-S6P0KwBD.js";import"./data-BEpEfGa7.js";import"./index-l_TS8Tc_.js";export{o as default};

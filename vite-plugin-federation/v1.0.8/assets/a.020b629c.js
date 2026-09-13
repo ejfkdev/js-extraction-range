@@ -1,0 +1,1 @@
+import{_ as a}from"./index.1d55af9c.js";import{g as m}from"./gamma.474aa2fa.js";console.log("template a loaded (expression import dir), gamma:",m);a(()=>import("./extra.bcb5f670.js"),[]).then(o=>o.paint());

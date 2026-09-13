@@ -1,0 +1,1 @@
+"use strict";(self["chunk_host "]=self["chunk_host "]||[]).push([["views-settings"],{"./src/views/settings.js"(e,t,s){s.d(t,{render:()=>n});function n(){let e=document.createElement("div");e.textContent="settings rendered",document.getElementById("root").appendChild(e)}}}]);

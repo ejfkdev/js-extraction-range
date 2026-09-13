@@ -1,0 +1,1 @@
+import{o as s,H as r,y as n,z as l,A as o,B as _,g as m}from"./Cm7J_l5m.js";const i={class:"widget"},p={__name:"Gamma",setup(u){const a=m("");return s(async()=>{const t=await r(()=>import("./DFf-cB4u.js"),[],import.meta.url);a.value=t.default()}),(t,e)=>(n(),l("section",i,[e[0]||(e[0]=o("h2",null,"Gamma",-1)),o("p",null,"lib partA: "+_(a.value),1)]))}};export{p as default};

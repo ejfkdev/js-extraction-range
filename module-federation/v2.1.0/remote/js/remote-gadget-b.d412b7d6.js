@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmodule_federation_dynamic_load_demo=self.webpackChunkmodule_federation_dynamic_load_demo||[]).push([["remote-gadget-b"],{7239:(e,o,d)=>{d.r(o),d.d(o,{gb:()=>a});const a=()=>console.log("[remote] gadget-b")}}]);
+//# sourceMappingURL=remote-gadget-b.d412b7d6.js.map

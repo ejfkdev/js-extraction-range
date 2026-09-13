@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/dashboard-DvRFPcSz.js","assets/index-DEXEuRYk.js","assets/vendor-lib-a-CfI8HaiQ.js"])))=>i.map(i=>d[i]);
+import{_ as n}from"./index-DEXEuRYk.js";import"./vendor-lib-a-CfI8HaiQ.js";function d(){const e=document.createElement("div");e.textContent="team rendered",document.getElementById("root").appendChild(e),n(()=>import("./dashboard-DvRFPcSz.js"),__vite__mapDeps([0,1,2])).then(t=>t.render())}export{d as render};

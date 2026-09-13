@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_dj_demo=self.webpackChunkgatsby_dj_demo||[]).push([[632],{632:function(e,t,n){function u(){return React.createElement("div",null,"extra two")}n.r(t),n.d(t,{default:function(){return u}})}}]);
+//# sourceMappingURL=632-c98e6e3ab4b77632aa98.js.map

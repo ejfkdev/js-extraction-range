@@ -1,0 +1,1 @@
+{"version":3,"file":"267-86df3886200862bbac2c.js","mappings":"8KAEe,SAASA,IACtB,OAAOC,EAAAA,cAAA,WAAK,WACd","sources":["webpack://gatsby-dj-demo/./src/components/widget-a.js"],"sourcesContent":["import React from \"react\";\n\nexport default function WidgetA() {\n  return <div>widget A</div>;\n}"],"names":["WidgetA","React"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"file":"632-ce3f4e9d49390e2492a0.js","mappings":"qHAAe,SAASA,IACtB,OAAOC,MAAAC,cAAA,WAAK,YACd","sources":["webpack://gatsby-dj-demo/./src/components/extra-two.js"],"sourcesContent":["export default function ExtraTwo() {\n  return <div>extra two</div>;\n}"],"names":["ExtraTwo","React","createElement"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+import{_ as o}from"./index-q5VlIDXa.js";import"./vendor-lib-a-C6vYNnbI.js";import"./vendor-lib-b-CYn_pwdL.js";function m(){console.log("[page] team (lazy chunk re-imports)"),document.body.dataset.page="team",o(()=>import("./metrics-C17mNe5t.js"),[]).then(e=>e.render())}export{m as render};

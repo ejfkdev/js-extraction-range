@@ -1,0 +1,1 @@
+{"version":3,"file":"js/__federation_expose_app.ef916361.js","mappings":"wGAAO,SAAAA,IACP,6BACA","sources":["webpack:///./src/remote-shared.js"],"sourcesContent":["export function deepMsg() {\n  return \"remote-shared-message\";\n}\n\nexport function boot(tag) {\n  console.log(\"[remote]\", tag);\n}"],"names":["deepMsg"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmodernjs_dynamic_load_demo=self.webpackChunkmodernjs_dynamic_load_demo||[]).push([[15],{67015(d,e,s){s.r(e);s.d(e,["wy",0,"widget-y"])}}]);

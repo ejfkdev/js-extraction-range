@@ -1,0 +1,1 @@
+import{_ as r}from"./preload-helper-DfZQVC28.js";import{b as o}from"./beta-fgEP4nz1.js";function _(){console.log("views/dashboard rendered",o),r(()=>import("./metrics-D1LwLZfs.js"),[]).then(e=>e.render())}export{_ as render};

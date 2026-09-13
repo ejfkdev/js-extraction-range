@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkemp_dj_site=self.webpackChunkemp_dj_site||[]).push([["src_hostEntry_ts"],{569(t,s,e){function o(){return console.log("emp hostEntry boot"),"hostEntry"}e.r(s),e.d(s,{hostBoot:function(){return o}})}}]);
+//# sourceMappingURL=src_hostEntry_ts.aa265d36.js.map

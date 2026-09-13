@@ -1,0 +1,1 @@
+import{t as e}from"./index-Dkf8tCcg.js";import{t}from"./vendor-lib-b-CRQrJT1E.js";console.log(`template a loaded (context chunk), gamma:`,t),e(()=>import(`./extra-Cd3r5b6l.js`).then(e=>e.paint()),[]);

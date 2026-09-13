@@ -1,0 +1,2 @@
+(self.rspackChunkrspack_dynamic_load_demo=self.rspackChunkrspack_dynamic_load_demo||[]).push([["wdg-1"],{457(){console.log("widget y loaded (context chunk)")}}]);
+//# sourceMappingURL=wdg-1.8e2dcad3.js.map

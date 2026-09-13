@@ -1,0 +1,69 @@
+{
+  "app/index.tsx": {
+    "file": "assets/app-C3kna81e.js",
+    "name": "app",
+    "src": "app/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "virtual:one-entry"
+    ],
+    "dynamicImports": [
+      "ui/widget.tsx",
+      "ui/widget2.tsx",
+      "ui/widget3.tsx"
+    ]
+  },
+  "node_modules/one/dist/esm/link/prefetchIntent.mjs": {
+    "file": "assets/prefetchIntent-C7D_JMwt.js",
+    "name": "prefetchIntent",
+    "src": "node_modules/one/dist/esm/link/prefetchIntent.mjs",
+    "isDynamicEntry": true
+  },
+  "node_modules/one/dist/esm/link/prefetchViewport.mjs": {
+    "file": "assets/prefetchViewport-g9oywQ7M.js",
+    "name": "prefetchViewport",
+    "src": "node_modules/one/dist/esm/link/prefetchViewport.mjs",
+    "isDynamicEntry": true
+  },
+  "ui/widget.tsx": {
+    "file": "assets/widget-D75nCgzG.js",
+    "name": "widget",
+    "src": "ui/widget.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "virtual:one-entry"
+    ],
+    "dynamicImports": [
+      "ui/widget4.tsx"
+    ]
+  },
+  "ui/widget2.tsx": {
+    "file": "assets/widget2-DyK7_6tV.js",
+    "name": "widget2",
+    "src": "ui/widget2.tsx",
+    "isDynamicEntry": true
+  },
+  "ui/widget3.tsx": {
+    "file": "assets/widget3-BnC7MsWE.js",
+    "name": "widget3",
+    "src": "ui/widget3.tsx",
+    "isDynamicEntry": true
+  },
+  "ui/widget4.tsx": {
+    "file": "assets/widget4-D1jaHCza.js",
+    "name": "widget4",
+    "src": "ui/widget4.tsx",
+    "isDynamicEntry": true
+  },
+  "virtual:one-entry": {
+    "file": "assets/_virtual_one-entry-DRkgFW3g.js",
+    "name": "_virtual_one-entry",
+    "src": "virtual:one-entry",
+    "isEntry": true,
+    "dynamicImports": [
+      "node_modules/one/dist/esm/link/prefetchViewport.mjs",
+      "node_modules/one/dist/esm/link/prefetchIntent.mjs",
+      "app/index.tsx"
+    ]
+  }
+}

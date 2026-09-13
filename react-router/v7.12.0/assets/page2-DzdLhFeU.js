@@ -1,0 +1,1 @@
+import{w as t,j as e}from"./jsx-runtime-Cg8uu_RG.js";const s=t(function(){return e.jsxs("div",{children:[e.jsx("h2",{children:"Page 2"}),e.jsx("p",{children:"page two content goes here"})]})});export{s as default};

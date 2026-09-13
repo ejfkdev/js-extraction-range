@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkvue_cli_dynamic_load_demo"]=self["webpackChunkvue_cli_dynamic_load_demo"]||[]).push([[998],{74:function(n,u,c){c.d(u,{u:function(){return i}});const e="lib-b/gamma";function i(){return e}}}]);

@@ -1,0 +1,1 @@
+import{t as e}from"./hook-DFgYpmiy.js";export{e as useUser};

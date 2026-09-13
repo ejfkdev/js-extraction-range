@@ -1,0 +1,2 @@
+function e(e,n,r,t){Object.defineProperty(e,n,{get:r,set:t,enumerable:!0,configurable:!0})}var n=globalThis.parcelRequirebc54,r=n.register;r("8eBgv",function(r,t){e(r.exports,"render",()=>i);var o=n("3jhsx");function i(){console.log("views/team rendered",o.gamma),n("iS0oU").then(e=>e.render())}}),r("3jhsx",function(n,r){e(n.exports,"gamma",()=>t);function t(){return"lib-b/gamma"}}),r("iS0oU",function(e,r){e.exports=import("3fyWe").then(()=>n("hOS8d"))});
+//# sourceMappingURL=team.54930a40.js.map

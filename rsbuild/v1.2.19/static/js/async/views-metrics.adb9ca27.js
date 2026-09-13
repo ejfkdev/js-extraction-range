@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrsbuild_dynamic_load_demo=self.webpackChunkrsbuild_dynamic_load_demo||[]).push([["929"],{46:function(e,d,n){n.r(d),n.d(d,{render:()=>s});var r=n(77);function s(){console.log("views/metrics rendered",r.F)}}}]);

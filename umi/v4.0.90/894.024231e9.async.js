@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkumi_dj_demo=self.webpackChunkumi_dj_demo||[]).push([[894],{3894:function(u,t,n){n.r(t),t.default={init:function(e){console.log("[heavys] extra init",e),document.body.dataset.heavy="extra",n.e(744).then(n.bind(n,8744)).then(function(d){return d.default.init(e+"-nested")})}}}}]);

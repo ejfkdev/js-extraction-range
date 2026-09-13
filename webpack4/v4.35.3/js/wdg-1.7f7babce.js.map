@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/widgets/y.js"],"names":["console","log"],"mappings":"2EAAAA,QAAQC,IAAI","file":"js/wdg-1.7f7babce.js","sourcesContent":["console.log(\"widget y loaded (context chunk)\");"],"sourceRoot":""}

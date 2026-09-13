@@ -1,0 +1,59 @@
+{
+  "id": "remote",
+  "name": "remote",
+  "metaData": {
+    "name": "remote",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "1.0.0",
+      "buildName": "module-federation-dynamic-load-demo"
+    },
+    "remoteEntry": {
+      "name": "remoteEntry.js",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "remote",
+    "pluginVersion": "2.1.0",
+    "prefetchInterface": false,
+    "publicPath": "/remote/"
+  },
+  "shared": [],
+  "remotes": [],
+  "exposes": [
+    {
+      "path": "./remote-app",
+      "id": "remote:remote-app",
+      "name": "remote-app",
+      "requires": [],
+      "file": "remote/src/remote-app.js",
+      "assets": {
+        "js": {
+          "sync": [
+            "js/remote.e9cde176.js",
+            "js/__federation_expose_remote_app.4c62b388.js"
+          ],
+          "async": [
+            "js/remote-gadget-a.35b88d3b.js",
+            "js/remote_src_remote-templates_a_js.df55a293.js",
+            "js/remote_src_remote-templates_b_js.c407760b.js",
+            "js/remote_src_remote-templates_c_js.9a2af0bc.js",
+            "js/remote_src_remote-widgets_x_js.466cb635.js",
+            "js/remote_src_remote-widgets_y_js.b15edcad.js",
+            "js/remote-gadget-b.d412b7d6.js"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    }
+  ]
+}

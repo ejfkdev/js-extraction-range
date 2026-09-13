@@ -1,0 +1,1 @@
+(()=>{"use strict";var r={},e={};function o(s){var t=e[s];if(void 0!==t)return t.exports;var n=e[s]={exports:{}};return r[s](n,n.exports,o),n.exports}o.rv=function(){return"1.0.14"},o.ruid="bundler=rspack@1.0.14";!function(r,e){console.log("[shared/deep]",r,"")}("worker started"),self.onmessage=function(){postMessage("ok")}})();

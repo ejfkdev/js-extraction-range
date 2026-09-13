@@ -1,0 +1,1 @@
+import{_ as o}from"./index-COjMz7o9.js";import"./vendor-lib-a-CfI8HaiQ.js";function n(){const e=document.createElement("div");e.textContent="dashboard rendered",document.getElementById("root").appendChild(e),o(()=>import("./metrics-Cbi_Oj5q.js"),[]).then(t=>t.render())}export{n as render};

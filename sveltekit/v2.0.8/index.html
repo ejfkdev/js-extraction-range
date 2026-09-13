@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+		<link rel="modulepreload" href="./_app/immutable/entry/start.CYUCxJX9.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/scheduler.B7z6WnsH.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/singletons.DlmRuLoo.js">
+		<link rel="modulepreload" href="./_app/immutable/entry/app.C9Ie-LsK.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/preload-helper.CmsKOCeN.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/index.Dn_eVLit.js">
+		<link rel="modulepreload" href="./_app/immutable/nodes/0.DGydOGSm.js">
+		<link rel="modulepreload" href="./_app/immutable/nodes/2.D3qY_LXG.js">
+  </head>
+  <body data-sveltekit-preload-data="hover">
+    <div style="display: contents">  <h1 data-svelte-h="svelte-15agkex">SvelteKit single-route SPA</h1> <p data-svelte-h="svelte-1tftkci">Chunks come from lazy component imports and nested dynamic imports.</p>    
+			
+			<script>
+				{
+					__sveltekit_1os2rjx = {
+						base: new URL(".", location).pathname.slice(0, -1),
+						env: null
+					};
+
+					const element = document.currentScript.parentElement;
+
+					const data = [null,null];
+
+					Promise.all([
+						import("./_app/immutable/entry/start.CYUCxJX9.js"),
+						import("./_app/immutable/entry/app.C9Ie-LsK.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element, {
+							node_ids: [0, 2],
+							data,
+							form: null,
+							error: null
+						});
+					});
+				}
+			</script>
+		</div>
+  </body>
+</html>

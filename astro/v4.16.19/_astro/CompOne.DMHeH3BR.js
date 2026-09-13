@@ -1,0 +1,1 @@
+import{c as e,m as o,r as s}from"./transition.Dk5BmUxF.js";const m=e((t,r,a)=>s`${o()}<div class="comp comp-One" id="comp-One"> <h2>Comp One</h2> <p class="state">initial</p> </div> `,"src/components/CompOne.astro",void 0);export{m as default};

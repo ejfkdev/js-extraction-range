@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrsbuild_dynamic_load_demo=self.webpackChunkrsbuild_dynamic_load_demo||[]).push([["268"],{424:function(n,e,t){t.d(e,{y:function(){return a}});function a(){return"lib-b/gamma"}},148:function(n,e,t){t.r(e),console.log("template a loaded (context chunk), gamma:",t(424).y),t.e("625").then(t.bind(t,828)).then(n=>n.paint())}}]);

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{10:function(n,e,a){"use strict";a.r(e);var o=a(16);console.log("template a loaded (context chunk), gamma:",o.a),a.e(17).then(a.bind(null,19)).then(n=>n.paint())}}]);
+//# sourceMappingURL=tpl-0.6bc98d06.js.map

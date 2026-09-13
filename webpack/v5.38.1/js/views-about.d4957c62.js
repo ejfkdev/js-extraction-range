@@ -1,0 +1,2 @@
+(self.webpackChunkwebpack_dynamic_load_demo=self.webpackChunkwebpack_dynamic_load_demo||[]).push([["views-about"],{439:(e,a,d)=>{"use strict";d.r(a),d.d(a,{render:()=>o});var n=d(335),i=d(252);function o(){(0,i.c)("views/about rendered",n.K),Promise.all([d.e("vendor-lib-b"),d.e("views-detail")]).then(d.bind(d,209)).then(e=>e.show())}}}]);
+//# sourceMappingURL=views-about.d4957c62.js.map

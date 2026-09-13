@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkcra_dynamic_load_demo||=[]).push([[638],{638(a,d,e){e.r(d),e.d(d,{default:()=>u});e(43);var r=e(579);function u(){return(0,r.jsx)("div",{children:"about page"})}}}]);
+//# sourceMappingURL=638.7e30c79e.chunk.js.map

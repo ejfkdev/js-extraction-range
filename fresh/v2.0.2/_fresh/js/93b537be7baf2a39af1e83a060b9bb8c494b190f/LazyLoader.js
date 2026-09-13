@@ -1,0 +1,1 @@
+import{a as i}from"./chunk-HCYWZKA7.js";import{h as a,i as o}from"./chunk-MQAWGMSU.js";function d(){let[r,s]=a("idle");return o(()=>{let e=!0;return(async()=>{let t=await import("./partA.js"),n=await t.loadDeep(),{deepValue:p}=await import("./inner.js");e&&s(`${t.partAValue()} | ${n} | ${p}`)})(),()=>{e=!1}},[]),i("p",{children:["deep dynamic-import: ",r]})}export{d as default};

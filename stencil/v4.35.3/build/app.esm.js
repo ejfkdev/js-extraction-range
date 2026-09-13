@@ -1,0 +1,2 @@
+import{p as a,b as p}from"./p-DmYsPe_B.js";export{s as setNonce}from"./p-DmYsPe_B.js";import{g as r}from"./p-DQuL1Twl.js";var o=()=>{const p=import.meta.url;const s={};if(p!==""){s.resourcesUrl=new URL(".",p).href}return a(s)};o().then((async a=>{await r();return p([["p-3aa47123",[[1,"app-root"],[1,"app-about",{label:[32]}],[1,"app-cards",{label:[32]}],[1,"app-forms",{label:[32]}]]]],a)}));
+//# sourceMappingURL=app.esm.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/async/519.5ca0eac2.js","mappings":"sKAAkB,Y","sources":["webpack://modernjs-dynamic-load-demo/./src/widgets/y.ts"],"sourcesContent":["export const wy = 'widget-y';\n"],"names":[],"sourceRoot":""}

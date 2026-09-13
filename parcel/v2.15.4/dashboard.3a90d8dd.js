@@ -1,0 +1,2 @@
+function e(e,r,n,t){Object.defineProperty(e,r,{get:n,set:t,enumerable:!0,configurable:!0})}var r=globalThis.parcelRequirebc54,n=r.register;n("hOS8d",function(n,t){e(n.exports,"render",()=>c);var o=r("kDlFc");function c(){console.log("views/dashboard rendered",o.beta),r("8sbdZ").then(e=>e.render())}}),n("kDlFc",function(r,n){e(r.exports,"beta",()=>t);function t(){return"lib-a/beta"}}),n("8sbdZ",function(e,n){e.exports=import("bx4q1").then(()=>r("g44zc"))});
+//# sourceMappingURL=dashboard.3a90d8dd.js.map

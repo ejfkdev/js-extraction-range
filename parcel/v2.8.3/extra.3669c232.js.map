@@ -1,0 +1,1 @@
+{"mappings":"8MAAO,SAASA,IACdC,QAAQC,IAAI,yDACd,C","sources":["src/views/extra.js"],"sourcesContent":["export function paint() {\n  console.log(\"views/extra chunk loaded (from inside a context chunk)\");\n}"],"names":["$db6d6ab41a5176a7$export$4e0651d2e7bf59d0","console","log"],"version":3,"file":"extra.3669c232.js.map"}

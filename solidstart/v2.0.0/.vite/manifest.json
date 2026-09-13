@@ -1,0 +1,60 @@
+{
+  "_web-CNBk8amf.js": {
+    "file": "_build/assets/web-CNBk8amf.js",
+    "name": "web"
+  },
+  "src/entry-client.tsx": {
+    "file": "_build/assets/entry-client-C4rUIxkh.js",
+    "name": "entry-client",
+    "src": "src/entry-client.tsx",
+    "isEntry": true,
+    "imports": [
+      "_web-CNBk8amf.js"
+    ],
+    "dynamicImports": [
+      "src/routes/index.tsx?pick=default&pick=$css&lang.tsx",
+      "src/routes/page1.tsx?pick=default&pick=$css&lang.tsx",
+      "src/routes/page2.tsx?pick=default&pick=$css&lang.tsx",
+      "src/routes/page3.tsx?pick=default&pick=$css&lang.tsx"
+    ],
+    "css": [
+      "_build/assets/entry-client-4oASMqV8.css"
+    ]
+  },
+  "src/routes/index.tsx?pick=default&pick=$css&lang.tsx": {
+    "file": "_build/assets/index-N3KtyoQX.js",
+    "name": "index",
+    "src": "src/routes/index.tsx?pick=default&pick=$css&lang.tsx",
+    "isEntry": true,
+    "imports": [
+      "_web-CNBk8amf.js"
+    ]
+  },
+  "src/routes/page1.tsx?pick=default&pick=$css&lang.tsx": {
+    "file": "_build/assets/page1-BRYDI2mP.js",
+    "name": "page1",
+    "src": "src/routes/page1.tsx?pick=default&pick=$css&lang.tsx",
+    "isEntry": true,
+    "imports": [
+      "_web-CNBk8amf.js"
+    ]
+  },
+  "src/routes/page2.tsx?pick=default&pick=$css&lang.tsx": {
+    "file": "_build/assets/page2-DXgQcdTq.js",
+    "name": "page2",
+    "src": "src/routes/page2.tsx?pick=default&pick=$css&lang.tsx",
+    "isEntry": true,
+    "imports": [
+      "_web-CNBk8amf.js"
+    ]
+  },
+  "src/routes/page3.tsx?pick=default&pick=$css&lang.tsx": {
+    "file": "_build/assets/page3-DfeawdJE.js",
+    "name": "page3",
+    "src": "src/routes/page3.tsx?pick=default&pick=$css&lang.tsx",
+    "isEntry": true,
+    "imports": [
+      "_web-CNBk8amf.js"
+    ]
+  }
+}

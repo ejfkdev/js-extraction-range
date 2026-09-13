@@ -1,0 +1,1 @@
+function n(e){let t=document.createElement("div");t.dataset.remote="remote-app",t.textContent="remote-app registered",(e&&e.documentElement?e.body:document.body).appendChild(t)}function r(){return"remote-app v1"}export{n as registerRemote,r as remoteInfo};

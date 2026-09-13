@@ -1,0 +1,1 @@
+import{t as e}from"./hook-fP56BLJs.js";export{e as useRole};

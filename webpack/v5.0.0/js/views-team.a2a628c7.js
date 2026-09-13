@@ -1,0 +1,2 @@
+(self.webpackChunkwebpack_dynamic_load_demo=self.webpackChunkwebpack_dynamic_load_demo||[]).push([["views-team"],{230:(e,a,d)=>{"use strict";d.r(a),d.d(a,{render:()=>r});var n=d(945);function r(){console.log("views/team rendered",n.y),Promise.all([d.e("vendor-lib-a"),d.e("views-dashboard")]).then(d.bind(d,221)).then(e=>e.render())}}}]);
+//# sourceMappingURL=views-team.a2a628c7.js.map

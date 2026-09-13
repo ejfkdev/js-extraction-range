@@ -1,0 +1,1 @@
+{"version":3,"file":"130-9522f78f987613ece050.js","mappings":"qHAAe,SAASA,IACtB,OAAOC,MAAAC,cAAA,WAAK,YACd","sources":["webpack://gatsby-dj-demo/./src/components/extra-one.js"],"sourcesContent":["export default function ExtraOne() {\n  return <div>extra one</div>;\n}"],"names":["ExtraOne","React","createElement"],"sourceRoot":""}

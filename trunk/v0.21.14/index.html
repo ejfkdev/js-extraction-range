@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>trunk dj test site</title>
+    
+<script type="module">
+import init, * as bindings from '/trunk_app-594c0d14a191f8b0.js';
+const wasm = await init({ module_or_path: '/trunk_app-594c0d14a191f8b0_bg.wasm' });
+
+
+window.wasmBindings = bindings;
+
+
+dispatchEvent(new CustomEvent("TrunkApplicationStarted", {detail: {wasm}}));
+
+</script>
+    
+    
+  <link rel="modulepreload" href="/trunk_app-594c0d14a191f8b0.js" crossorigin="anonymous" integrity="sha384-zswXNbCwdlGg/Oej+9SMwcS3mMocfBk1NbJ0Db72+g3dtBui3BS8f1g4PHeUBzTR"><link rel="modulepreload" href="/snippets/trunk_app-6c9b13385c2d20ea/bridge_src/bridge.js" crossorigin="anonymous" integrity="sha384-QiVI+sP0wuJ3cwCJnPgZ6+A20A7BLUI/bjW1AovBYEbMfGMwD+85NsnZGvngDt2f"><link rel="preload" href="/trunk_app-594c0d14a191f8b0_bg.wasm" crossorigin="anonymous" integrity="sha384-4c9tQSzI3iBR4HIqkdfIUpxfU9yjnzrJg1u61+nVM7j9dIs1VF+s7JfPxUi5/eJ5" as="fetch" type="application/wasm"></head>
+  <body>
+    <h1>trunk dj test site</h1>
+    <script type="module">
+      (async () => {
+        // Rust worker wasm (trunk data-type=worker): app-managed at runtime
+        try {
+          new Worker(new URL('./trunk_app_extra.js', import.meta.url), {
+            type: 'module',
+          });
+        } catch (e) {
+          console.warn('rust worker skip', e);
+        }
+        // SPA lazy routes: urls composed from name + extension (no verbatim path)
+        const base = './static/';
+        const routes = ['js/lazy-' + 'home.js', 'js/lazy-' + 'about.js'];
+        for (const r of routes) {
+          import(base + r)
+            .then(() => console.log('lazy ok', r))
+            .catch((e) => console.warn('lazy skip', r, e && e.message));
+        }
+        // sitemap + versioned chunk cache drive the rest of the dynamic loads
+        try {
+          const raw = await fetch('./static/sitemap.json');
+          const sm = await raw.json();
+          for (const rt of sm.routes || []) {
+            import('./static/' + rt.file).catch(() => {});
+          }
+          for (const [cid, hash] of Object.entries(sm.chunks || {})) {
+            import('./static/js/' + cid + '.' + hash + '.js').catch(() => {});
+          }
+          for (const w of sm.workers || []) {
+            try {
+              new Worker(new URL('./static/' + w, import.meta.url));
+            } catch (e) {
+              console.warn('worker skip', w);
+            }
+          }
+        } catch (e) {
+          console.warn('sitemap skip', e);
+        }
+      })();
+    </script>
+  </body>
+</html>

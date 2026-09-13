@@ -1,0 +1,1 @@
+import{o as s,I as r,z as n,A as l,B as o,C as _,i}from"./CPwDyja-.js";const m={class:"widget"},p={__name:"Gamma",setup(u){const a=i("");return s(async()=>{const t=await r(()=>import("./DFf-cB4u.js"),[],import.meta.url);a.value=t.default()}),(t,e)=>(n(),l("section",m,[e[0]||(e[0]=o("h2",null,"Gamma",-1)),o("p",null,"lib partA: "+_(a.value),1)]))}};export{p as default};

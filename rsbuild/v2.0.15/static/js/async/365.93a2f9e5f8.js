@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunkrsbuild_dynamic_load_demo=self.rspackChunkrsbuild_dynamic_load_demo||[]).push([[365],{508(d,n,s){function e(){console.log("views/extra chunk loaded (from inside a context chunk)")}s.d(n,{paint:()=>e})}}]);

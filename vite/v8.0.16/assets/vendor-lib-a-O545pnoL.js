@@ -1,0 +1,1 @@
+var e=`lib-a/alpha`;function t(){return e}var n=`lib-a/beta`;function r(){return n}export{t as n,r as t};

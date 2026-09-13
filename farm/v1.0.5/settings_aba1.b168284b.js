@@ -1,0 +1,2 @@
+(function(_){for(var r in _){_[r].__farm_resource_pot__='settings_aba1.js';(globalThis || window || global)['d25e9ecee5c6996a0667e7c47ebdf736'].__farm_module_system__.register(r,_[r])}})({"de25de83":function  (e,n,t,r){"use strict";function o(){console.log("views/settings rendered");}Object.defineProperty(n,"__esModule",{value:!0}),Object.defineProperty(n,"render",{enumerable:!0,get:function(){return o;}});},});
+//# sourceMappingURL=settings_aba1.b168284b.js.map

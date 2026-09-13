@@ -1,0 +1,1 @@
+import{t as e}from"./list-BI_2PwaD.js";export{e as list};

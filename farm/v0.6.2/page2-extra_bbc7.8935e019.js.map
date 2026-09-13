@@ -1,0 +1,1 @@
+{"version":3,"sources":["/src/page2-extra.js"],"sourcesContent":["import { beta } from \"./lib-a/beta\";\n\nexport function side() {\n  console.log(\"page2-extra chunk loaded\", beta);\n}\n"],"names":[],"mappings":"+SAEgB,WAAA,CAAA,EAAA,IAAA,WAAA,OAAA,EAAA,CAAA,GAAA,IAAA,EAAA,EAAA,YAAT,SAAA,IAAS,QAAA,GAAA,CAAA,2BAAA,EAAA,IAAA,EAEhB,CAAA,CAAA"}

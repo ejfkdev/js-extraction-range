@@ -1,0 +1,1 @@
+"use strict";(self.chunk_host=self.chunk_host||[]).push([["views-team"],{"./src/views/team.js"(e,t,s){s.d(t,{render:()=>n});function n(){let e=document.createElement("div");e.textContent="team rendered",document.getElementById("root").appendChild(e),s.e("src_views_dashboard_js").then(s.bind(s,"./src/views/dashboard.js")).then(e=>e.render())}}}]);

@@ -1,0 +1,1 @@
+{"version":3,"sources":["turbopack:///[project]/components/sub/sub-a.jsx"],"sourcesContent":["export function note() {\n  console.log(\"sub-a loaded (2nd-level nested)\");\n}"],"names":[],"mappings":"sIAAO,SAAS,IACd,QAAQ,GAAG,CAAC,kCACd"}

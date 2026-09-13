@@ -1,0 +1,1 @@
+import{t as e}from"./columns-Dsv_9vDf.js";export{e as useColumns};

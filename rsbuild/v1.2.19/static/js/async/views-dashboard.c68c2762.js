@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrsbuild_dynamic_load_demo=self.webpackChunkrsbuild_dynamic_load_demo||[]).push([["513"],{447:function(e,n,d){d.d(n,{K:()=>r});function r(){return"lib-a/beta"}},184:function(e,n,d){d.r(n),d.d(n,{render:()=>i});var r=d(447);function i(){console.log("views/dashboard rendered",r.K),d.e("929").then(d.bind(d,46)).then(e=>e.render())}}}]);

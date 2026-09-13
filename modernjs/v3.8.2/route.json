@@ -1,0 +1,13 @@
+{
+  "routes": [
+    {
+      "urlPath": "/",
+      "entryName": "index",
+      "entryPath": "html/index/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/async/230.c5c6ef05.js","mappings":"oJAAA,MACA,EADgBA,KAAMC,EAAAA,EAAAA,KAAA,KAAAC,SAAG,Y","sources":["src/components/Metrics.tsx"],"sourcesContent":["const Metrics = () => <p>metrics</p>;\nexport default Metrics;\n"],"names":["Metrics","_jsx","children"],"sourceRoot":""}

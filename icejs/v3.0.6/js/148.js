@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkice_dj_demo=self.webpackChunkice_dj_demo||[]).push([[148],{148:(e,t,c)=>{c.r(t),c.d(t,{default:()=>a});const a={init:function(e){console.log("[heavys] chart init",e),document.body.dataset.heavy="chart"}}}}]);

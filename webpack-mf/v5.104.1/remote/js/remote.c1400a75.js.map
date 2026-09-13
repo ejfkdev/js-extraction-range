@@ -1,0 +1,1 @@
+{"version":3,"file":"js/remote.c1400a75.js","mappings":"6JACA,SAAAA,GAAI","sources":["webpack://webpack-mf-official-dynamic-load-demo/./remote/src/remote.js"],"sourcesContent":["import { boot } from \"./remote-shared\";\nboot(\"remote entry loaded\");"],"names":["z"],"ignoreList":[],"sourceRoot":""}

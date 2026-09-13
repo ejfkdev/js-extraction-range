@@ -1,0 +1,1 @@
+{"version":3,"file":"page3-CCx0EJXR.js","sources":["../../.marko-run/page3.marko?marko-browser-entry"],"sourcesContent":["<!-- use class -->\n\nimport Layout1 from \"../../src/routes/+layout.marko\";\nimport Page from \"../../src/routes/page3/+page.marko\";\n\n<Layout1>\n\t<Page/>\n</>\n"],"names":["init"],"mappings":"mCAEAA,EAAAA,KAAI"}

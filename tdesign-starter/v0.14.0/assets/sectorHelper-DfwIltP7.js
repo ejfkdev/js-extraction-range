@@ -1,0 +1,1 @@
+import{Ri as e,ji as t,ni as n}from"./charts-BBUHR6-O.js";function r(r,i,a){var o=r.get(`borderRadius`);if(o==null)return a?{cornerRadius:0}:null;t(o)||(o=[o,o,o,o]);var s=Math.abs(i.r||0-i.r0||0);return{cornerRadius:e(o,function(e){return n(e,s)})}}export{r as t};

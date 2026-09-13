@@ -1,0 +1,1 @@
+{"version":3,"file":"js/vendor-lib-b.c0fa9fcb.js","mappings":"2IAEO,SAAAA,IACP,MAHO,aAIP","sources":["webpack://webpack-dynamic-load-demo/./src/lib-b/gamma.js"],"sourcesContent":["export const id = \"lib-b/gamma\";\n\nexport function gamma() {\n  return id;\n}"],"names":["gamma"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"file":"js/page2-extra.2e8c858f.js","sources":["webpack://rspack-dynamic-load-demo/./src/page2-extra.js"],"sourcesContent":["import { beta } from \"./lib-a/beta\";\n\nexport function side() {\n  console.log(\"page2-extra chunk loaded\", beta);\n}"],"names":["console"],"mappings":"oJAEO,SAAS,IACdA,QAAQ,GAAG,CAAC,2BAA4B,GAAI,CAC9C,C"}

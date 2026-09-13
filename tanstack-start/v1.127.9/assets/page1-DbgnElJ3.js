@@ -1,0 +1,1 @@
+import{j as e}from"./main-CjfK-7EY.js";const t=function(){return e.jsxs("div",{children:[e.jsx("h2",{children:"Page 1"}),e.jsx("p",{children:"page one content goes here"})]})};export{t as component};

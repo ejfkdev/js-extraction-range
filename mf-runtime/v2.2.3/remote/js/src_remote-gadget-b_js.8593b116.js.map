@@ -1,0 +1,1 @@
+{"version":3,"file":"js/src_remote-gadget-b_js.8593b116.js","mappings":"qGAAO,SAAAA,IACP,gBACA","sources":["webpack:///./src/remote-gadget-b.js"],"sourcesContent":["export function tag() {\n  return \"gadget-b\";\n}"],"names":["tag"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebpack_mf_official_dynamic_load_demo=self.webpackChunkwebpack_mf_official_dynamic_load_demo||[]).push([["vendor-lib-a"],{413:(a,e,c)=>{c.d(e,{l:()=>_});const i="lib-a/beta";function _(){return i}}}]);
+//# sourceMappingURL=vendor-lib-a.4e437e13.js.map

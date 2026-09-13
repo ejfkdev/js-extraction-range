@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/templates/b.js"],"sourcesContent":["console.log(\"template b loaded (context chunk)\");\n"],"names":[],"mappings":";;;;;;YAAA,QAAQ,GAAG,CAAC"}

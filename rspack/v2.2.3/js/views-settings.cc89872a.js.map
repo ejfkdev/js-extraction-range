@@ -1,0 +1,1 @@
+{"version":3,"file":"js/views-settings.cc89872a.js","sources":["webpack://rspack-dynamic-load-demo/./src/views/settings.js"],"sourcesContent":["export function render() {\n  console.log(\"views/settings rendered (lazy-once chunk)\");\n}"],"names":["console"],"mappings":"0IAAO,SAAS,IACdA,QAAQ,GAAG,CAAC,4CACd,C"}

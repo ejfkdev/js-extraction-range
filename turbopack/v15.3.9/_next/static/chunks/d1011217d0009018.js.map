@@ -1,0 +1,1 @@
+{"version":3,"sources":["turbopack:///[project]/components/d.jsx"],"sourcesContent":["export function ping() {\n  console.log(\"d loaded (nested dynamic import target)\");\n}"],"names":[],"mappings":"6JAAO,SAAS,IACd,QAAQ,GAAG,CAAC,0CACd"}
