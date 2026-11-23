@@ -14,9 +14,11 @@ It is a **benchmark range for agents and tools that extract JavaScript from webs
 
 | | |
 |---|---|
-| Tools / frameworks | **74** (15 bundlers · 17 micro-frontend · 25 meta/SSR · 3 Rust-WASM · 12 admin apps · 2 other) |
+| Tools / frameworks | **78** (19 bundlers · 17 micro-frontend · 25 meta/SSR · 3 Rust-WASM · 12 admin apps · 1 spec/polyfill · 1 other) |
 | Version builds (test sites) | **600** — each one an independent static site |
 | Files / size | 20,606 files · ~462 MB (incl. **2,377 source maps**) |
+| JS files in builds (ground truth) | **12,964** — of which **11,414 should be detectable** (2,209 HTML-referenced + 9,205 dynamically referenced with a static trace); 1,549 have no static trace at all |
+| dj measured extraction | **12,038** URLs — hits **11,288 / 11,414** of the should-detect set (**98.90%**); all 126 misses sit in 23 fixtures proven statically unreachable; dj additionally surfaces 711 no-trace files |
 | Deployment | Pure static — GitHub Pages / Cloudflare Pages / any file server, no build step |
 
 ### Layout
@@ -119,6 +121,8 @@ diff <(sort found.txt) <(sort vite/v8.3.0/writeup.txt)
 | 工具 / 框架 | **78 个**（打包器 19 · 微前端 17 · 元框架/SSR 25 · Rust-WASM 3 · 应用模板 12 · 规范垫片 1 · 其他 1） |
 | 版本构建（测试站点） | **600 个**，每个都是一个独立静态站点 |
 | 文件 / 体积 | 20,606 个文件 · 约 462 MB（含 **2,377 个 source map**） |
+| 产物 JS 总数（标准答案） | **12,964** 个——其中**应检出 11,414**（HTML 直引 2,209 + 动态且有静态引用痕迹 9,205）；1,549 个无任何静态痕迹 |
+| dj 实测检出 | **12,038** 个 URL——命中应检出集合 **11,288 / 11,414（98.90%）**；126 个漏检全部集中在 23 个已证明静态不可达的夹具；另多检出 711 个无痕迹文件 |
 | 部署 | 纯静态——GitHub Pages / Cloudflare Pages / 任意文件服务器，无需构建 |
 
 ### 目录结构
