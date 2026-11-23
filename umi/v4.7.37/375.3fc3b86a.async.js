@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkumi_dj_demo=self.webpackChunkumi_dj_demo||[]).push([[375],{45375:(function(n,e){e.default={init:function(t){console.log("[heavys] settings init",t),document.body.dataset.heavy="settings"}}})}]);

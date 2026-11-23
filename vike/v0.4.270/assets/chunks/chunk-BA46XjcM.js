@@ -1,0 +1,1 @@
+function e(){return`Widget B`}var t=`widget-b placeholder`;export{t as default,e as title};

@@ -1,0 +1,1 @@
+function e(){let e=document.querySelector(`.site-title`);e&&(e.textContent+=` [lazy-extra ok]`)}export{e as lazyInit};

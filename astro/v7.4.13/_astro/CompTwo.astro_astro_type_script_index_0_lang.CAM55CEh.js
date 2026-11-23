@@ -1,0 +1,1 @@
+import{t as e}from"./island-utils.BPuhRulQ.js";e(`#comp-Two .state`,`comp-Two`);
