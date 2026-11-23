@@ -1,0 +1,1 @@
+import{A as e,T as t,b as n,f as r,j as i,m as a,u as o,x as s,y as c}from"../chunks/C3ToRPGk.js";import{t as l}from"../chunks/GJpBLBvm.js";var u=a(`<h1> </h1> <p> </p>`,1);function d(a,d){i(d,!0);var f=u(),p=c(f),m=n(p,!0),h=s(p,2),g=n(h,!0);t(()=>{o(m,l.status),o(g,l.error?.message)}),r(a,f),e()}export{d as component};

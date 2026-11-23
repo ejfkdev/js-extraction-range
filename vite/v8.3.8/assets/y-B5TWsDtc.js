@@ -1,1 +1,0 @@
-console.log(`widget y loaded (context chunk)`);

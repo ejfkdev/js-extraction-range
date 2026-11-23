@@ -1,0 +1,1 @@
+import{f as e,p as t,s as n,y as r}from"../chunks/C3ToRPGk.js";var i=Object.defineProperty,a=((e,t)=>{let n={};for(var r in e)i(n,r,{get:e[r],enumerable:!0});return t||i(n,Symbol.toStringTag,{value:`Module`}),n})({prerender:()=>!0});function o(i,a){var o=t(),s=r(o);n(s,()=>a.children),e(i,o)}export{o as component,a as universal};

@@ -1,1 +1,0 @@
-import{n as e}from"./vendor-lib-a-D9xvV3QL.js";function t(){console.log(`views/metrics rendered`,e)}export{t as render};

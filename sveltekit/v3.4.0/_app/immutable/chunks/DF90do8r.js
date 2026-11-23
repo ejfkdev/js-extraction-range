@@ -1,0 +1,1 @@
+import{f as e,m as t}from"./C3ToRPGk.js";import"../nodes/2._cNyvHjj.js";var n=t(`<p>InnerWidget (chunk inside LazyC chunk)</p>`);function r(t){var r=n();e(t,r)}export{r as default};

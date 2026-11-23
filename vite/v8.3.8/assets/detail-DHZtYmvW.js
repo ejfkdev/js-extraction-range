@@ -1,1 +1,0 @@
-import{t as e}from"./vendor-lib-b-CRQrJT1E.js";function t(){console.log(`views/detail chunk loaded (nested dynamic import target)`,e)}export{t as show};

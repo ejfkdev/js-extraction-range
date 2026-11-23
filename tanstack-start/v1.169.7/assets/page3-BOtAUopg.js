@@ -1,0 +1,1 @@
+import{t as e}from"./index-B3ju0Y0j.js";var t=e();function n(){return(0,t.jsxs)(`div`,{children:[(0,t.jsx)(`h2`,{children:`Page 3`}),(0,t.jsx)(`p`,{children:`page three content goes here`})]})}export{n as component};

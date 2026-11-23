@@ -1,0 +1,6 @@
+{
+  "$version": "v4",
+  "name": "host",
+  "shared": [],
+  "exposes": []
+}

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkumi_dj_demo=self.webpackChunkumi_dj_demo||[]).push([[348],{61348:(function(u,e){e.default={init:function(t){console.log("[heavys] table init",t),document.body.dataset.heavy="table"}}})}]);

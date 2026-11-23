@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkumi_dj_demo=self.webpackChunkumi_dj_demo||[]).push([[720],{41720:(function(s,t,n){t.default={init:function(e){console.log("[heavys] users init",e),document.body.dataset.heavy="users",n.e(348).then(n.bind(n,61348)).then(function(u){return u.default.init(e+"-nested")})}}})}]);

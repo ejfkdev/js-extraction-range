@@ -1,0 +1,1 @@
+var e=e=>{e.textContent=`widget four (nested) mounted`};export{e as mountWidget4};

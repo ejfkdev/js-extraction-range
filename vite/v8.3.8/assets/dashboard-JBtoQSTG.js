@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/metrics-MhdsQafC.js","assets/vendor-lib-a-D9xvV3QL.js"])))=>i.map(i=>d[i]);
-import{t as e}from"./vendor-lib-a-D9xvV3QL.js";import{t}from"./index-DRg82b4U.js";function n(){console.log(`views/dashboard rendered`,e),t(()=>import(`./metrics-MhdsQafC.js`).then(e=>e.render()),__vite__mapDeps([0,1]))}export{n as render};

@@ -1,0 +1,1 @@
+import{l as e,r as t}from"./web-mipSRKGE.js";var n=e(`<div><h1>Home</h1><p>home content goes here`);function r(){return t(n)}export{r as default};

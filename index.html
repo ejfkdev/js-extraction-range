@@ -1,6 +1,6 @@
 <!doctype html><html lang="zh-CN"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>JS 提取测试靶场 — 78 工具 / 597 版本</title>
+<title>JS 提取测试靶场 — 78 工具 / 600 版本</title>
 <style>
 body{font:14px/1.6 -apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin:24px;color:#1f2328}
 h1{font-size:20px}
@@ -14,7 +14,7 @@ a{color:#0969da;text-decoration:none}a:hover{text-decoration:underline}
 code{background:#f6f8fa;border-radius:4px;padding:1px 5px}
 </style></head><body>
 <h1>JS 提取测试靶场 · JS Extraction Test Range</h1>
-<p class="note">78 个工具 / 597 个版本 · 生成于 2026-11-23 · 来源 <code>sites/&lt;工具&gt;/v&lt;版本&gt;/</code> 构建产物</p>
+<p class="note">78 个工具 / 600 个版本 · 生成于 2026-11-23 · 来源 <code>sites/&lt;工具&gt;/v&lt;版本&gt;/</code> 构建产物</p>
 <p class="note"><b>字段说明</b>　js 总数＝产物里全部 js 文件；HTML 直引＝入口页面直接引用的 js；应提取＝产物文本中有引用痕迹、运行时会被加载的动态 js；无引用＝找不到任何静态引用痕迹的文件。恒等式：<b>js 总数 = HTML 直引 + 应提取 + 无引用</b>。<br>每个版本目录是一个<b>独立站点</b>（产物以 <code>base:"/"</code> 构建、资源为根绝对路径），测试时以该目录为 Web 根单独起服务：<code>python3 -m http.server 8000 --directory &lt;工具&gt;/&lt;版本&gt;</code>；在本库子路径下直接打开页面只能看到骨架（根绝对路径资源不会命中）。每个版本目录内的 <code>writeup.txt</code> 是其全部 js 文件清单（标准答案）。</p>
 <table><thead><tr><th>类型</th><th>工具</th><th>版本</th><th>首页地址</th><th>js 总数</th><th>HTML 直引</th><th>应提取</th><th>无引用</th></tr></thead><tbody>
 <tr><td>打包器</td><td>browserify</td><td>v17.0.1</td><td><a href="browserify/v17.0.1/">/browserify/v17.0.1/</a></td><td class="n">2</td><td class="n">1</td><td class="n">1</td><td class="n">0</td></tr>
@@ -39,6 +39,7 @@ code{background:#f6f8fa;border-radius:4px;padding:1px 5px}
 <tr><td>打包器</td><td>farm</td><td>v0.6.2</td><td><a href="farm/v0.6.2/">/farm/v0.6.2/</a></td><td class="n">11</td><td class="n">1</td><td class="n">10</td><td class="n">0</td></tr>
 <tr><td>打包器</td><td>farm</td><td>v0.7.0</td><td><a href="farm/v0.7.0/">/farm/v0.7.0/</a></td><td class="n">11</td><td class="n">1</td><td class="n">10</td><td class="n">0</td></tr>
 <tr><td>打包器</td><td>farm</td><td>v1.0.5</td><td><a href="farm/v1.0.5/">/farm/v1.0.5/</a></td><td class="n">11</td><td class="n">1</td><td class="n">10</td><td class="n">0</td></tr>
+<tr><td>打包器</td><td>farm</td><td>v2.0.1</td><td><a href="farm/v2.0.1/">/farm/v2.0.1/</a></td><td class="n">11</td><td class="n">1</td><td class="n">10</td><td class="n">0</td></tr>
 <tr><td>打包器</td><td>mako</td><td>v0.4.17</td><td><a href="mako/v0.4.17/">/mako/v0.4.17/</a></td><td class="n">16</td><td class="n">1</td><td class="n">15</td><td class="n">0</td></tr>
 <tr><td>打包器</td><td>mako</td><td>v0.5.4</td><td><a href="mako/v0.5.4/">/mako/v0.5.4/</a></td><td class="n">16</td><td class="n">1</td><td class="n">15</td><td class="n">0</td></tr>
 <tr><td>打包器</td><td>mako</td><td>v0.6.0</td><td><a href="mako/v0.6.0/">/mako/v0.6.0/</a></td><td class="n">16</td><td class="n">1</td><td class="n">15</td><td class="n">0</td></tr>
@@ -158,7 +159,6 @@ code{background:#f6f8fa;border-radius:4px;padding:1px 5px}
 <tr><td>打包器</td><td>vite</td><td>v8.1.5</td><td><a href="vite/v8.1.5/">/vite/v8.1.5/</a></td><td class="n">18</td><td class="n">2</td><td class="n">16</td><td class="n">0</td></tr>
 <tr><td>打包器</td><td>vite</td><td>v8.2.1</td><td><a href="vite/v8.2.1/">/vite/v8.2.1/</a></td><td class="n">18</td><td class="n">2</td><td class="n">16</td><td class="n">0</td></tr>
 <tr><td>打包器</td><td>vite</td><td>v8.3.0</td><td><a href="vite/v8.3.0/">/vite/v8.3.0/</a></td><td class="n">18</td><td class="n">2</td><td class="n">16</td><td class="n">0</td></tr>
-<tr><td>打包器</td><td>vite</td><td>v8.3.8</td><td><a href="vite/v8.3.8/">/vite/v8.3.8/</a></td><td class="n">18</td><td class="n">2</td><td class="n">16</td><td class="n">0</td></tr>
 <tr><td>打包器</td><td>vite-plus</td><td>v0.3.1</td><td><a href="vite-plus/v0.3.1/">/vite-plus/v0.3.1/</a></td><td class="n">18</td><td class="n">2</td><td class="n">16</td><td class="n">0</td></tr>
 <tr><td>打包器</td><td>vite-plus</td><td>v1.7.0</td><td><a href="vite-plus/v1.7.0/">/vite-plus/v1.7.0/</a></td><td class="n">18</td><td class="n">2</td><td class="n">16</td><td class="n">0</td></tr>
 <tr><td>打包器</td><td>webpack</td><td>v5.0.0</td><td><a href="webpack/v5.0.0/">/webpack/v5.0.0/</a></td><td class="n">20</td><td class="n">3</td><td class="n">16</td><td class="n">1</td></tr>
@@ -306,6 +306,7 @@ code{background:#f6f8fa;border-radius:4px;padding:1px 5px}
 <tr><td>微前端框架</td><td>native-federation</td><td>v4.2.1</td><td><a href="native-federation/v4.2.1/">/native-federation/v4.2.1/</a></td><td class="n">16</td><td class="n">2</td><td class="n">10</td><td class="n">4</td></tr>
 <tr><td>微前端框架</td><td>native-federation</td><td>v4.3.2</td><td><a href="native-federation/v4.3.2/">/native-federation/v4.3.2/</a></td><td class="n">16</td><td class="n">2</td><td class="n">10</td><td class="n">4</td></tr>
 <tr><td>微前端框架</td><td>native-federation</td><td>v4.4.1</td><td><a href="native-federation/v4.4.1/">/native-federation/v4.4.1/</a></td><td class="n">16</td><td class="n">2</td><td class="n">10</td><td class="n">4</td></tr>
+<tr><td>微前端框架</td><td>native-federation</td><td>v4.10.1</td><td><a href="native-federation/v4.10.1/">/native-federation/v4.10.1/</a></td><td class="n">16</td><td class="n">2</td><td class="n">10</td><td class="n">4</td></tr>
 <tr><td>微前端框架</td><td>piral</td><td>v1.1.0</td><td><a href="piral/v1.1.0/">/piral/v1.1.0/</a></td><td class="n">12</td><td class="n">1</td><td class="n">11</td><td class="n">0</td></tr>
 <tr><td>微前端框架</td><td>piral</td><td>v1.2.0</td><td><a href="piral/v1.2.0/">/piral/v1.2.0/</a></td><td class="n">12</td><td class="n">1</td><td class="n">11</td><td class="n">0</td></tr>
 <tr><td>微前端框架</td><td>piral</td><td>v1.3.3</td><td><a href="piral/v1.3.3/">/piral/v1.3.3/</a></td><td class="n">12</td><td class="n">1</td><td class="n">11</td><td class="n">0</td></tr>
@@ -363,6 +364,7 @@ code{background:#f6f8fa;border-radius:4px;padding:1px 5px}
 <tr><td>元框架/SSR</td><td>analog</td><td>v1.0.2</td><td><a href="analog/v1.0.2/">/analog/v1.0.2/</a></td><td class="n">3</td><td class="n">1</td><td class="n">2</td><td class="n">0</td></tr>
 <tr><td>元框架/SSR</td><td>analog</td><td>v1.22.5</td><td><a href="analog/v1.22.5/">/analog/v1.22.5/</a></td><td class="n">3</td><td class="n">1</td><td class="n">2</td><td class="n">0</td></tr>
 <tr><td>元框架/SSR</td><td>analog</td><td>v2.7.0</td><td><a href="analog/v2.7.0/">/analog/v2.7.0/</a></td><td class="n">2</td><td class="n">1</td><td class="n">1</td><td class="n">0</td></tr>
+<tr><td>元框架/SSR</td><td>analog</td><td>v2.9.7</td><td><a href="analog/v2.9.7/">/analog/v2.9.7/</a></td><td class="n">2</td><td class="n">1</td><td class="n">1</td><td class="n">0</td></tr>
 <tr><td>元框架/SSR</td><td>angular</td><td>v17.0.10</td><td><a href="angular/v17.0.10/">/angular/v17.0.10/</a></td><td class="n">10</td><td class="n">4</td><td class="n">6</td><td class="n">0</td></tr>
 <tr><td>元框架/SSR</td><td>angular</td><td>v17.3.17</td><td><a href="angular/v17.3.17/">/angular/v17.3.17/</a></td><td class="n">10</td><td class="n">4</td><td class="n">6</td><td class="n">0</td></tr>
 <tr><td>元框架/SSR</td><td>angular</td><td>v18.0.7</td><td><a href="angular/v18.0.7/">/angular/v18.0.7/</a></td><td class="n">10</td><td class="n">4</td><td class="n">6</td><td class="n">0</td></tr>
@@ -413,7 +415,6 @@ code{background:#f6f8fa;border-radius:4px;padding:1px 5px}
 <tr><td>元框架/SSR</td><td>hono</td><td>v4.11.10</td><td><a href="hono/v4.11.10/">/hono/v4.11.10/</a></td><td class="n">5</td><td class="n">1</td><td class="n">4</td><td class="n">0</td></tr>
 <tr><td>元框架/SSR</td><td>hono</td><td>v4.12.34</td><td><a href="hono/v4.12.34/">/hono/v4.12.34/</a></td><td class="n">5</td><td class="n">1</td><td class="n">4</td><td class="n">0</td></tr>
 <tr><td>元框架/SSR</td><td>hono</td><td>v4.13.2</td><td><a href="hono/v4.13.2/">/hono/v4.13.2/</a></td><td class="n">5</td><td class="n">1</td><td class="n">4</td><td class="n">0</td></tr>
-<tr><td>元框架/SSR</td><td>hono</td><td>v4.13.20</td><td><a href="hono/v4.13.20/">/hono/v4.13.20/</a></td><td class="n">5</td><td class="n">1</td><td class="n">4</td><td class="n">0</td></tr>
 <tr><td>元框架/SSR</td><td>icejs</td><td>v3.0.6</td><td><a href="icejs/v3.0.6/">/icejs/v3.0.6/</a></td><td class="n">13</td><td class="n">4</td><td class="n">3</td><td class="n">6</td></tr>
 <tr><td>元框架/SSR</td><td>icejs</td><td>v3.1.8</td><td><a href="icejs/v3.1.8/">/icejs/v3.1.8/</a></td><td class="n">13</td><td class="n">4</td><td class="n">3</td><td class="n">6</td></tr>
 <tr><td>元框架/SSR</td><td>icejs</td><td>v3.2.10</td><td><a href="icejs/v3.2.10/">/icejs/v3.2.10/</a></td><td class="n">13</td><td class="n">4</td><td class="n">3</td><td class="n">6</td></tr>
@@ -455,6 +456,7 @@ code{background:#f6f8fa;border-radius:4px;padding:1px 5px}
 <tr><td>元框架/SSR</td><td>one</td><td>v1.22.0</td><td><a href="one/v1.22.0/">/one/v1.22.0/</a></td><td class="n">10</td><td class="n">2</td><td class="n">6</td><td class="n">2</td></tr>
 <tr><td>元框架/SSR</td><td>one</td><td>v1.23.1</td><td><a href="one/v1.23.1/">/one/v1.23.1/</a></td><td class="n">10</td><td class="n">2</td><td class="n">6</td><td class="n">2</td></tr>
 <tr><td>元框架/SSR</td><td>one</td><td>v1.24.5</td><td><a href="one/v1.24.5/">/one/v1.24.5/</a></td><td class="n">10</td><td class="n">2</td><td class="n">6</td><td class="n">2</td></tr>
+<tr><td>元框架/SSR</td><td>one</td><td>v2.24.0</td><td><a href="one/v2.24.0/">/one/v2.24.0/</a></td><td class="n">11</td><td class="n">2</td><td class="n">6</td><td class="n">3</td></tr>
 <tr><td>元框架/SSR</td><td>qwik</td><td>v1.9.1</td><td><a href="qwik/v1.9.1/">/qwik/v1.9.1/</a></td><td class="n">21</td><td class="n">0</td><td class="n">0</td><td class="n">21</td></tr>
 <tr><td>元框架/SSR</td><td>qwik</td><td>v1.10.0</td><td><a href="qwik/v1.10.0/">/qwik/v1.10.0/</a></td><td class="n">21</td><td class="n">0</td><td class="n">0</td><td class="n">21</td></tr>
 <tr><td>元框架/SSR</td><td>qwik</td><td>v1.11.0</td><td><a href="qwik/v1.11.0/">/qwik/v1.11.0/</a></td><td class="n">21</td><td class="n">0</td><td class="n">0</td><td class="n">21</td></tr>
@@ -491,6 +493,7 @@ code{background:#f6f8fa;border-radius:4px;padding:1px 5px}
 <tr><td>元框架/SSR</td><td>solidstart</td><td>v1.2.1</td><td><a href="solidstart/v1.2.1/">/solidstart/v1.2.1/</a></td><td class="n">6</td><td class="n">6</td><td class="n">0</td><td class="n">0</td></tr>
 <tr><td>元框架/SSR</td><td>solidstart</td><td>v1.3.2</td><td><a href="solidstart/v1.3.2/">/solidstart/v1.3.2/</a></td><td class="n">6</td><td class="n">6</td><td class="n">0</td><td class="n">0</td></tr>
 <tr><td>元框架/SSR</td><td>solidstart</td><td>v2.0.0</td><td><a href="solidstart/v2.0.0/">/solidstart/v2.0.0/</a></td><td class="n">6</td><td class="n">1</td><td class="n">5</td><td class="n">0</td></tr>
+<tr><td>元框架/SSR</td><td>solidstart</td><td>v2.2.3</td><td><a href="solidstart/v2.2.3/">/solidstart/v2.2.3/</a></td><td class="n">6</td><td class="n">2</td><td class="n">4</td><td class="n">0</td></tr>
 <tr><td>元框架/SSR</td><td>stencil</td><td>v4.33.1</td><td><a href="stencil/v4.33.1/">/stencil/v4.33.1/</a></td><td class="n">8</td><td class="n">2</td><td class="n">0</td><td class="n">6</td></tr>
 <tr><td>元框架/SSR</td><td>stencil</td><td>v4.34.0</td><td><a href="stencil/v4.34.0/">/stencil/v4.34.0/</a></td><td class="n">8</td><td class="n">2</td><td class="n">0</td><td class="n">6</td></tr>
 <tr><td>元框架/SSR</td><td>stencil</td><td>v4.35.3</td><td><a href="stencil/v4.35.3/">/stencil/v4.35.3/</a></td><td class="n">9</td><td class="n">3</td><td class="n">0</td><td class="n">6</td></tr>
@@ -523,6 +526,7 @@ code{background:#f6f8fa;border-radius:4px;padding:1px 5px}
 <tr><td>元框架/SSR</td><td>sveltekit</td><td>v2.54.0</td><td><a href="sveltekit/v2.54.0/">/sveltekit/v2.54.0/</a></td><td class="n">21</td><td class="n">12</td><td class="n">5</td><td class="n">4</td></tr>
 <tr><td>元框架/SSR</td><td>sveltekit</td><td>v2.62.0</td><td><a href="sveltekit/v2.62.0/">/sveltekit/v2.62.0/</a></td><td class="n">20</td><td class="n">12</td><td class="n">1</td><td class="n">7</td></tr>
 <tr><td>元框架/SSR</td><td>sveltekit</td><td>v2.70.2</td><td><a href="sveltekit/v2.70.2/">/sveltekit/v2.70.2/</a></td><td class="n">21</td><td class="n">12</td><td class="n">2</td><td class="n">7</td></tr>
+<tr><td>元框架/SSR</td><td>sveltekit</td><td>v3.4.0</td><td><a href="sveltekit/v3.4.0/">/sveltekit/v3.4.0/</a></td><td class="n">18</td><td class="n">9</td><td class="n">6</td><td class="n">3</td></tr>
 <tr><td>元框架/SSR</td><td>tanstack-start</td><td>v1.111.15</td><td><a href="tanstack-start/v1.111.15/">/tanstack-start/v1.111.15/</a></td><td class="n">6</td><td class="n">2</td><td class="n">4</td><td class="n">0</td></tr>
 <tr><td>元框架/SSR</td><td>tanstack-start</td><td>v1.119.2</td><td><a href="tanstack-start/v1.119.2/">/tanstack-start/v1.119.2/</a></td><td class="n">6</td><td class="n">2</td><td class="n">4</td><td class="n">0</td></tr>
 <tr><td>元框架/SSR</td><td>tanstack-start</td><td>v1.127.9</td><td><a href="tanstack-start/v1.127.9/">/tanstack-start/v1.127.9/</a></td><td class="n">5</td><td class="n">5</td><td class="n">0</td><td class="n">0</td></tr>
@@ -531,6 +535,7 @@ code{background:#f6f8fa;border-radius:4px;padding:1px 5px}
 <tr><td>元框架/SSR</td><td>tanstack-start</td><td>v1.151.6</td><td><a href="tanstack-start/v1.151.6/">/tanstack-start/v1.151.6/</a></td><td class="n">5</td><td class="n">2</td><td class="n">3</td><td class="n">0</td></tr>
 <tr><td>元框架/SSR</td><td>tanstack-start</td><td>v1.159.14</td><td><a href="tanstack-start/v1.159.14/">/tanstack-start/v1.159.14/</a></td><td class="n">5</td><td class="n">2</td><td class="n">3</td><td class="n">0</td></tr>
 <tr><td>元框架/SSR</td><td>tanstack-start</td><td>v1.168.46</td><td><a href="tanstack-start/v1.168.46/">/tanstack-start/v1.168.46/</a></td><td class="n">5</td><td class="n">2</td><td class="n">3</td><td class="n">0</td></tr>
+<tr><td>元框架/SSR</td><td>tanstack-start</td><td>v1.169.7</td><td><a href="tanstack-start/v1.169.7/">/tanstack-start/v1.169.7/</a></td><td class="n">5</td><td class="n">2</td><td class="n">3</td><td class="n">0</td></tr>
 <tr><td>元框架/SSR</td><td>umi</td><td>v4.0.90</td><td><a href="umi/v4.0.90/">/umi/v4.0.90/</a></td><td class="n">11</td><td class="n">1</td><td class="n">0</td><td class="n">10</td></tr>
 <tr><td>元框架/SSR</td><td>umi</td><td>v4.1.10</td><td><a href="umi/v4.1.10/">/umi/v4.1.10/</a></td><td class="n">11</td><td class="n">5</td><td class="n">0</td><td class="n">6</td></tr>
 <tr><td>元框架/SSR</td><td>umi</td><td>v4.2.15</td><td><a href="umi/v4.2.15/">/umi/v4.2.15/</a></td><td class="n">12</td><td class="n">2</td><td class="n">4</td><td class="n">6</td></tr>
@@ -539,7 +544,6 @@ code{background:#f6f8fa;border-radius:4px;padding:1px 5px}
 <tr><td>元框架/SSR</td><td>umi</td><td>v4.5.3</td><td><a href="umi/v4.5.3/">/umi/v4.5.3/</a></td><td class="n">12</td><td class="n">2</td><td class="n">4</td><td class="n">6</td></tr>
 <tr><td>元框架/SSR</td><td>umi</td><td>v4.6.84</td><td><a href="umi/v4.6.84/">/umi/v4.6.84/</a></td><td class="n">12</td><td class="n">2</td><td class="n">4</td><td class="n">6</td></tr>
 <tr><td>元框架/SSR</td><td>umi</td><td>v4.7.6</td><td><a href="umi/v4.7.6/">/umi/v4.7.6/</a></td><td class="n">12</td><td class="n">2</td><td class="n">4</td><td class="n">6</td></tr>
-<tr><td>元框架/SSR</td><td>umi</td><td>v4.7.37</td><td><a href="umi/v4.7.37/">/umi/v4.7.37/</a></td><td class="n">12</td><td class="n">2</td><td class="n">4</td><td class="n">6</td></tr>
 <tr><td>元框架/SSR</td><td>vike</td><td>v0.4.249</td><td><a href="vike/v0.4.249/">/vike/v0.4.249/</a></td><td class="n">8</td><td class="n">3</td><td class="n">5</td><td class="n">0</td></tr>
 <tr><td>元框架/SSR</td><td>vike</td><td>v0.4.250</td><td><a href="vike/v0.4.250/">/vike/v0.4.250/</a></td><td class="n">8</td><td class="n">3</td><td class="n">5</td><td class="n">0</td></tr>
 <tr><td>元框架/SSR</td><td>vike</td><td>v0.4.251</td><td><a href="vike/v0.4.251/">/vike/v0.4.251/</a></td><td class="n">8</td><td class="n">3</td><td class="n">5</td><td class="n">0</td></tr>
@@ -552,7 +556,6 @@ code{background:#f6f8fa;border-radius:4px;padding:1px 5px}
 <tr><td>元框架/SSR</td><td>vike</td><td>v0.4.258</td><td><a href="vike/v0.4.258/">/vike/v0.4.258/</a></td><td class="n">8</td><td class="n">3</td><td class="n">5</td><td class="n">0</td></tr>
 <tr><td>元框架/SSR</td><td>vike</td><td>v0.4.259</td><td><a href="vike/v0.4.259/">/vike/v0.4.259/</a></td><td class="n">8</td><td class="n">3</td><td class="n">5</td><td class="n">0</td></tr>
 <tr><td>元框架/SSR</td><td>vike</td><td>v0.4.260</td><td><a href="vike/v0.4.260/">/vike/v0.4.260/</a></td><td class="n">8</td><td class="n">3</td><td class="n">5</td><td class="n">0</td></tr>
-<tr><td>元框架/SSR</td><td>vike</td><td>v0.4.270</td><td><a href="vike/v0.4.270/">/vike/v0.4.270/</a></td><td class="n">9</td><td class="n">3</td><td class="n">5</td><td class="n">1</td></tr>
 <tr><td>元框架/SSR</td><td>vue-cli</td><td>v4.0.5</td><td><a href="vue-cli/v4.0.5/">/vue-cli/v4.0.5/</a></td><td class="n">19</td><td class="n">3</td><td class="n">16</td><td class="n">0</td></tr>
 <tr><td>元框架/SSR</td><td>vue-cli</td><td>v4.1.2</td><td><a href="vue-cli/v4.1.2/">/vue-cli/v4.1.2/</a></td><td class="n">19</td><td class="n">3</td><td class="n">16</td><td class="n">0</td></tr>
 <tr><td>元框架/SSR</td><td>vue-cli</td><td>v4.2.3</td><td><a href="vue-cli/v4.2.3/">/vue-cli/v4.2.3/</a></td><td class="n">19</td><td class="n">3</td><td class="n">16</td><td class="n">0</td></tr>

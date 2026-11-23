@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkumi_dj_demo=self.webpackChunkumi_dj_demo||[]).push([[468],{57468:(function(u,e){e.default={init:function(t){console.log("[heavys] chart init",t),document.body.dataset.heavy="chart"}}})}]);

@@ -1,0 +1,1 @@
+import{t as e}from"./DclECHGd.js";async function t(){let{inner:t}=await e(async()=>{let{inner:e}=await import(`./DirvR8sP.js`);return{inner:e}},[],import.meta.url);return console.log(`deep`,t),t}export{t as goDeep};

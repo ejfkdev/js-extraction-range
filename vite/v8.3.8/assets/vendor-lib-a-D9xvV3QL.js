@@ -1,1 +1,0 @@
-function e(){return`lib-a/alpha`}function t(){return`lib-a/beta`}export{e as n,t};

@@ -1,1 +1,0 @@
-function e(){return`lib-b/gamma`}export{e as t};
