@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunkrsbuild_dynamic_load_demo=self.rspackChunkrsbuild_dynamic_load_demo||[]).push([[4],{J(d,a,e){e.d(a,{},{l:function(){return"lib-a/beta"}})},B(d,a,e){var l=e("J");e.d(a,{},{side:function(){console.log("page2-extra chunk loaded",l.l)}})}}]);

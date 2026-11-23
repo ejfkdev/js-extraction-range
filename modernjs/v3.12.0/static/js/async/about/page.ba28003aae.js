@@ -1,0 +1,1 @@
+"use strict";(globalThis.rspackChunkmodernjs_dynamic_load_demo=globalThis.rspackChunkmodernjs_dynamic_load_demo||[]).push([["v"],{Ea(a,d,s){s.r(d);var l=s("X1");d.default=()=>(0,l.jsx)("main",{children:(0,l.jsx)("h1",{children:"about"})})}}]);

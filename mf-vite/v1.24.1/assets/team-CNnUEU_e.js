@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/dashboard-lnjVzXFS.js","assets/vite-preload-helper-CLcXU_4U.js"])))=>i.map(i=>d[i]);
+import{_ as n}from"./vite-preload-helper-CLcXU_4U.js";function r(){const e=document.createElement("div");e.textContent="team rendered",document.getElementById("root").appendChild(e),n(()=>import("./dashboard-lnjVzXFS.js"),__vite__mapDeps([0,1])).then(t=>t.render())}export{r as render};

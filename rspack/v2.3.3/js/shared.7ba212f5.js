@@ -1,0 +1,2 @@
+"use strict";(self.rspackChunkrspack_dynamic_load_demo=self.rspackChunkrspack_dynamic_load_demo||[]).push([["shared"],{764(s,d,a){a.d(d,{},{R:function(s,d){console.log("[shared/deep]",s,void 0===d?"":d)}})}}]);
+//# sourceMappingURL=shared.7ba212f5.js.map

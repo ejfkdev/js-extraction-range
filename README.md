@@ -8,15 +8,15 @@
 
 **What is this?**
 
-A static collection of **570 real website builds**, produced by **74 bundlers / frameworks / app templates** across their version lines. Every page is deliberately full of **dynamically loaded JavaScript**: lazy routes, expression/context imports, webpack & rspack chunk hash-maps, Vite modulepreload / build manifests, Module Federation remotes, micro-frontend sub-app entries, web workers, WASM, multi-page HTML pivots, source maps…
+A static collection of **592 real website builds**, produced by **78 bundlers / frameworks / app templates** across their version lines. Every page is deliberately full of **dynamically loaded JavaScript**: lazy routes, expression/context imports, webpack & rspack chunk hash-maps, Vite modulepreload / build manifests, Module Federation remotes, micro-frontend sub-app entries, web workers, WASM, multi-page HTML pivots, source maps…
 
 It is a **benchmark range for agents and tools that extract JavaScript from websites** (crawlers, recon tooling, AI agents): serve one build, point your tool at it, then diff what it found against the ground truth shipped right next to it.
 
 | | |
 |---|---|
 | Tools / frameworks | **74** (15 bundlers · 17 micro-frontend · 25 meta/SSR · 3 Rust-WASM · 12 admin apps · 2 other) |
-| Version builds (test sites) | **570** — each one an independent static site |
-| Files / size | 19,417 files · ~448 MB (incl. **2,282 source maps**) |
+| Version builds (test sites) | **592** — each one an independent static site |
+| Files / size | 20,494 files · ~461 MB (incl. **2,377 source maps**) |
 | Deployment | Pure static — GitHub Pages / Cloudflare Pages / any file server, no build step |
 
 ### Layout
@@ -54,7 +54,7 @@ Suggested scoring for your tool, per version:
 - **recall** over `html-ref + expected` (compare against `writeup.txt`);
 - **bonus recall** over `unreferenced`;
 - **false positives** = reported URLs whose path is not in `writeup.txt`;
-- optionally: source-map discovery/restoration — 2,282 `.map` files are present and referenced via `sourceMappingURL`.
+- optionally: source-map discovery/restoration — 2,377 `.map` files are present and referenced via `sourceMappingURL`.
 
 ### Categories
 
@@ -110,15 +110,15 @@ diff <(sort found.txt) <(sort vite/v8.3.0/writeup.txt)
 
 **这是什么？**
 
-一个纯静态的 **JS 提取测试靶场**：**74 个打包器 / 框架 / 应用模板**、跨版本线共 **570 个真实构建产物**。每个页面都刻意布满**动态加载的 JavaScript**：懒加载路由、表达式/上下文 import、webpack 与 rspack 的 chunk hash 映射、Vite modulepreload 与构建清单、Module Federation 远程模块、微前端子应用入口、Web Worker、WASM、多路 HTML 入口、source map……
+一个纯静态的 **JS 提取测试靶场**：**78 个打包器 / 框架 / 应用模板**、跨版本线共 **592 个真实构建产物**。每个页面都刻意布满**动态加载的 JavaScript**：懒加载路由、表达式/上下文 import、webpack 与 rspack 的 chunk hash 映射、Vite modulepreload 与构建清单、Module Federation 远程模块、微前端子应用入口、Web Worker、WASM、多路 HTML 入口、source map……
 
 用途：给**从网站提取 JS 的工具或 Agent**（爬虫、信息收集工具、AI Agent）当**基准靶场**——把某个构建产物单独起服，让你的工具去扫，然后和随附的标准答案做 diff。
 
 | | |
 |---|---|
-| 工具 / 框架 | **74 个**（打包器 15 · 微前端 17 · 元框架/SSR 25 · Rust-WASM 3 · 应用模板 12 · 其他 2） |
-| 版本构建（测试站点） | **570 个**，每个都是一个独立静态站点 |
-| 文件 / 体积 | 19,417 个文件 · 约 448 MB（含 **2,282 个 source map**） |
+| 工具 / 框架 | **78 个**（打包器 19 · 微前端 17 · 元框架/SSR 25 · Rust-WASM 3 · 应用模板 12 · 规范垫片 1 · 其他 1） |
+| 版本构建（测试站点） | **592 个**，每个都是一个独立静态站点 |
+| 文件 / 体积 | 20,494 个文件 · 约 461 MB（含 **2,377 个 source map**） |
 | 部署 | 纯静态——GitHub Pages / Cloudflare Pages / 任意文件服务器，无需构建 |
 
 ### 目录结构
@@ -155,7 +155,7 @@ python3 -m http.server 8000 --directory vite/v8.3.0
 - **召回率**：以 `HTML 直引 + 应提取` 为分母，对照 `writeup.txt`；
 - **加分召回**：`无引用` 部分；
 - **误报**：报告了但不在 `writeup.txt` 里的 URL；
-- 可选：source map 发现/还原能力——2,282 个 `.map` 文件都在，且产物带 `sourceMappingURL` 引用。
+- 可选：source map 发现/还原能力——2,377 个 `.map` 文件都在，且产物带 `sourceMappingURL` 引用。
 
 ### 分类
 

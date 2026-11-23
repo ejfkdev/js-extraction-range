@@ -1,0 +1,67 @@
+{
+  "routeAssets": {
+    "about/page": {
+      "chunkIds": [
+        "v"
+      ],
+      "assets": [
+        "/static/js/async/about/page.ba28003aae.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "detail/page": {
+      "chunkIds": [
+        "d"
+      ],
+      "assets": [
+        "/static/js/async/detail/page.7182b46da3.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "index": {
+      "chunkIds": [
+        6,
+        "re",
+        "ik",
+        "l",
+        7,
+        "q"
+      ],
+      "assets": [
+        "/static/js/lib-react.1d66dc39c7.js",
+        "/static/js/lib-router.2c8e2827f8.js",
+        "/static/js/lib-polyfill.c56e9e72d7.js",
+        "/static/js/7.ae422d9348.js",
+        "/static/js/index.93189896e4.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "page": {
+      "chunkIds": [
+        3
+      ],
+      "assets": [
+        "/static/js/async/page.51db1d74e8.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "settings/page": {
+      "chunkIds": [
+        "tq"
+      ],
+      "assets": [
+        "/static/js/async/settings/page.75e02b6372.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "team/page": {
+      "chunkIds": [
+        "x"
+      ],
+      "assets": [
+        "/static/js/async/team/page.45e3c4ba6a.js"
+      ],
+      "referenceCssAssets": []
+    }
+  }
+}

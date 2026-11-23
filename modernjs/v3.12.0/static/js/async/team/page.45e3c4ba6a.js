@@ -1,0 +1,1 @@
+"use strict";(globalThis.rspackChunkmodernjs_dynamic_load_demo=globalThis.rspackChunkmodernjs_dynamic_load_demo||[]).push([["x"],{oI(e,a,n){n.r(a);var s=n("X1"),d=n("uz");a.default=()=>{let[e,a]=(0,d.useState)(null);return(0,d.useEffect)(()=>{n.e("pb").then(n.bind(n,"zP")).then(e=>a(e.default()))},[]),(0,s.jsxs)("main",{children:[(0,s.jsx)("h1",{children:"team"}),e]})}}}]);

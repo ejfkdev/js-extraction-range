@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/dashboard-JBtoQSTG.js","assets/vendor-lib-a-D9xvV3QL.js","assets/index-DRg82b4U.js"])))=>i.map(i=>d[i]);
+import{t as e}from"./vendor-lib-b-CRQrJT1E.js";import{t}from"./index-DRg82b4U.js";function n(){console.log(`views/team rendered`,e),t(()=>import(`./dashboard-JBtoQSTG.js`).then(e=>e.render()),__vite__mapDeps([0,1,2]))}export{n as render};

@@ -1,0 +1,1 @@
+"use strict";(self.chunk_host=self.chunk_host||[]).push([["views-home"],{"./src/views/home.js"(e,t,n){n.d(t,{render:()=>o});function o(){var e;let t;e=document.getElementById("root"),(t=document.createElement("div")).textContent="beta rendered",e&&e.appendChild(t),console.log("views/home rendered with","beta")}}}]);

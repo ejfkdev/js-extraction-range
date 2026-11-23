@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,10760,e=>{"use strict";e.s(["note",0,function(){console.log("sub-a loaded (2nd-level nested)")}])}]);

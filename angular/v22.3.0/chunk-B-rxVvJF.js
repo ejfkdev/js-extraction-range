@@ -1,0 +1,1 @@
+async function o(){return`extra-loader -> `+(await import(`./chunk-DWQbyT9Z.js`)).nestedValue()}export{o as loadExtra};

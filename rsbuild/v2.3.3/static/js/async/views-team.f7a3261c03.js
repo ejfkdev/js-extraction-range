@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunkrsbuild_dynamic_load_demo=self.rspackChunkrsbuild_dynamic_load_demo||[]).push([[3],{vi(e,n,d){d.d(n,{},{u:function(){return"lib-b/gamma"}})},g(e,n,d){var r=d("vi");d.d(n,{},{render:function(){console.log("views/team rendered",r.u),d.e("4l").then(d.bind(d,"gO")).then(e=>e.render())}})}}]);

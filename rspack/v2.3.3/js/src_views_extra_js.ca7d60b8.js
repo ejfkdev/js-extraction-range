@@ -1,0 +1,2 @@
+"use strict";(self.rspackChunkrspack_dynamic_load_demo=self.rspackChunkrspack_dynamic_load_demo||[]).push([["src_views_extra_js"],{683(s,a,c){c.d(a,{},{paint:function(){console.log("views/extra chunk loaded (from inside a context chunk)")}})}}]);
+//# sourceMappingURL=src_views_extra_js.ca7d60b8.js.map

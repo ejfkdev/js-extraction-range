@@ -1,0 +1,2 @@
+(Array.isArray(self.webpackChunkwebpack_dynamic_load_demo)?self.webpackChunkwebpack_dynamic_load_demo:self.webpackChunkwebpack_dynamic_load_demo=[]).push([["tpl-1"],{346(){console.log("template b loaded (context chunk)")}}]);
+//# sourceMappingURL=tpl-1.15c89fb1.js.map

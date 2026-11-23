@@ -1,0 +1,1 @@
+import"./index-D56SjbfA.js";const t={},o=[{alias:"remote",entryGlobalName:"remote",name:"__mfe_internal__host__mf_owner__143211152078530__remote",type:"module",entry:"/remote/remoteEntry.js",shareScope:"default"}];export{o as usedRemotes,t as usedShared};

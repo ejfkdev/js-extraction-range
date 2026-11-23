@@ -1,0 +1,1 @@
+"use strict";(globalThis.rspackChunkmodernjs_dynamic_load_demo=globalThis.rspackChunkmodernjs_dynamic_load_demo||[]).push([["pb"],{zP(e,d,s){var a=s("X1"),l=s("uz");d.default=()=>{let[e,d]=(0,l.useState)(null);return(0,l.useEffect)(()=>{s.e("r").then(s.bind(s,"tC")).then(e=>d(e.default()))},[]),(0,a.jsxs)("div",{children:[(0,a.jsx)("h2",{children:"dashboard"}),e]})}}}]);

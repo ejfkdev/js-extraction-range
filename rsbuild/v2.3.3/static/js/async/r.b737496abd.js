@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("[shared/deep]","worker started",""),self.onmessage=function(){postMessage("ok")}})();

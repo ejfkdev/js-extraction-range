@@ -1,0 +1,2 @@
+"use strict";(self.rspackChunkrspack_dynamic_load_demo=self.rspackChunkrspack_dynamic_load_demo||[]).push([["views-team"],{404(e,a,d){var r=d(74);d.d(a,{},{render:function(){console.log("views/team rendered",r.u),Promise.all([d.e("vendor-lib-a"),d.e("views-dashboard")]).then(d.bind(d,257)).then(e=>e.render())}})}}]);
+//# sourceMappingURL=views-team.d6f15e4d.js.map

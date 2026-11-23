@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunkrsbuild_dynamic_load_demo=self.rspackChunkrsbuild_dynamic_load_demo||[]).push([["kd"],{q(d,e,s){var r=s("Y");s.d(e,{},{render:function(){console.log("views/metrics rendered",r.X)}})}}]);

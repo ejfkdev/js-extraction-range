@@ -1,0 +1,2 @@
+"use strict";(Array.isArray(self.webpackChunkwebpack_dynamic_load_demo)?self.webpackChunkwebpack_dynamic_load_demo:self.webpackChunkwebpack_dynamic_load_demo=[]).push([["shared"],{764(e,a,d){function c(e,a){console.log("[shared/deep]",e,void 0===a?"":a)}d.d(a,{R:()=>c})}}]);
+//# sourceMappingURL=shared.6eea7e2f.js.map

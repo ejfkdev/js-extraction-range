@@ -1,0 +1,2 @@
+(Array.isArray(self.webpackChunkwebpack_dynamic_load_demo)?self.webpackChunkwebpack_dynamic_load_demo:self.webpackChunkwebpack_dynamic_load_demo=[]).push([["wdg-1"],{457(){console.log("widget y loaded (context chunk)")}}]);
+//# sourceMappingURL=wdg-1.7a1bc754.js.map

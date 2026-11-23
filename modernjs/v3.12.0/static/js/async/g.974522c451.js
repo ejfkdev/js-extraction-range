@@ -1,0 +1,1 @@
+"use strict";(globalThis.rspackChunkmodernjs_dynamic_load_demo=globalThis.rspackChunkmodernjs_dynamic_load_demo||[]).push([["g"],{y6(e,a,d){var o=d("X1");a.default=()=>(d.e(8).then(d.bind(d,"Kv")).then(e=>console.log("extra loaded",e.default)),(0,o.jsx)("p",{children:"home extra"}))}}]);

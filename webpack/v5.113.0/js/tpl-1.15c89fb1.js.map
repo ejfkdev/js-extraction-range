@@ -1,0 +1,1 @@
+{"version":3,"file":"js/tpl-1.15c89fb1.js","mappings":"4KAAAA,QAAQC,IAAI,oC","sources":["webpack://webpack-dynamic-load-demo/./src/templates/b.js"],"sourcesContent":["console.log(\"template b loaded (context chunk)\");"],"names":["console","log"],"sourceRoot":""}

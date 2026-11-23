@@ -1,0 +1,1 @@
+"use strict";(self.chunk_host=self.chunk_host||[]).push([["src_views_metrics_js"],{"./src/views/metrics.js"(e,t,s){s.d(t,{render:()=>n});function n(){let e=document.createElement("div");e.textContent="metrics rendered",document.getElementById("root").appendChild(e)}}}]);

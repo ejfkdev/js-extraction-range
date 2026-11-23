@@ -1,0 +1,2 @@
+"use strict";(self.rspackChunkrspack_dynamic_load_demo=self.rspackChunkrspack_dynamic_load_demo||[]).push([["views-settings"],{680(e,s,n){n.r(s),n.d(s,{},{render:function(){console.log("views/settings rendered (lazy-once chunk)")}})}}]);
+//# sourceMappingURL=views-settings.31c1a285.js.map

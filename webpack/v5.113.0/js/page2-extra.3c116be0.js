@@ -1,0 +1,2 @@
+"use strict";(Array.isArray(self.webpackChunkwebpack_dynamic_load_demo)?self.webpackChunkwebpack_dynamic_load_demo:self.webpackChunkwebpack_dynamic_load_demo=[]).push([["page2-extra"],{568(a,e,c){c.d(e,{side:()=>o});var d=c(886);function o(){console.log("page2-extra chunk loaded",d.l)}}}]);
+//# sourceMappingURL=page2-extra.3c116be0.js.map

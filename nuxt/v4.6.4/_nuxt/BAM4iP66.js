@@ -1,0 +1,1 @@
+import{i as e}from"#entry";async function t(){let{innerValue:t}=await e(async()=>{let{innerValue:e}=await import(`./Du2hk7F8.js`);return{innerValue:e}},[],import.meta.url);return`nested:`+t}export{t as runNested};

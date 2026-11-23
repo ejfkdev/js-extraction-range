@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunkrsbuild_dynamic_load_demo=self.rspackChunkrsbuild_dynamic_load_demo||[]).push([["c8"],{vi(d,i,a){a.d(i,{},{u:function(){return"lib-b/gamma"}})},P(d,i,a){var e=a("vi");a.d(i,{},{show:function(){console.log("views/detail chunk loaded (nested dynamic import target)",e.u)}})}}]);

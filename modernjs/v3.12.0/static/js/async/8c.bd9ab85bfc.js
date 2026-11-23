@@ -1,0 +1,1 @@
+"use strict";(globalThis.rspackChunkmodernjs_dynamic_load_demo=globalThis.rspackChunkmodernjs_dynamic_load_demo||[]).push([["8c"],{ux(d,s,a){a.r(s),a.d(s,{},{wx:"widget-x"})}}]);

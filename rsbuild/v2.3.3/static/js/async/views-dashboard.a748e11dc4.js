@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunkrsbuild_dynamic_load_demo=self.rspackChunkrsbuild_dynamic_load_demo||[]).push([["4l"],{J(e,d,n){n.d(d,{},{l:function(){return"lib-a/beta"}})},gO(e,d,n){var r=n("J");n.d(d,{},{render:function(){console.log("views/dashboard rendered",r.l),n.e("kd").then(n.bind(n,"q")).then(e=>e.render())}})}}]);

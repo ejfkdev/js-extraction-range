@@ -1,0 +1,2 @@
+"use strict";(self.rspackChunkrspack_dynamic_load_demo=self.rspackChunkrspack_dynamic_load_demo||[]).push([["views-about"],{796(e,s,a){a.r(s);var d=a(886),r=a(764);a.d(s,{},{render:function(){(0,r.R)("views/about rendered",d.l),Promise.all([a.e("vendor-lib-b"),a.e("views-detail")]).then(a.bind(a,972)).then(e=>e.show())}})}}]);
+//# sourceMappingURL=views-about.8439f924.js.map

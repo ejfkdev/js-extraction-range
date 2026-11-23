@@ -1,0 +1,1 @@
+"use strict";(self.chunk_host=self.chunk_host||[]).push([["views-about"],{"./src/views/about.js"(e,t,n){n.d(t,{render:()=>o});function o(){let e=document.createElement("div");e.textContent="about rendered (gamma)",document.getElementById("root").appendChild(e)}}}]);

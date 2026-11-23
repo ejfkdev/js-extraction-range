@@ -1,0 +1,2 @@
+(self.rspackChunkrspack_dynamic_load_demo=self.rspackChunkrspack_dynamic_load_demo||[]).push([["tpl-1"],{346(){console.log("template b loaded (context chunk)")}}]);
+//# sourceMappingURL=tpl-1.1793732b.js.map

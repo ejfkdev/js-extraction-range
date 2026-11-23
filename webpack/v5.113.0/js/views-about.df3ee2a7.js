@@ -1,0 +1,2 @@
+"use strict";(Array.isArray(self.webpackChunkwebpack_dynamic_load_demo)?self.webpackChunkwebpack_dynamic_load_demo:self.webpackChunkwebpack_dynamic_load_demo=[]).push([["views-about"],{796(e,a,d){d.r(a),d.d(a,{render:()=>i});var n=d(886),r=d(764);function i(){(0,r.R)("views/about rendered",n.l),Promise.all([d.e("vendor-lib-b"),d.e("views-detail")]).then(()=>d(972)).then(e=>e.show())}}}]);
+//# sourceMappingURL=views-about.df3ee2a7.js.map

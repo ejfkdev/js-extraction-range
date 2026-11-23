@@ -1,0 +1,1 @@
+function t(){const e=document.createElement("div");e.textContent="settings rendered",document.getElementById("root").appendChild(e)}function n(){console.log("[settings] ready")}export{n as ready,t as render};

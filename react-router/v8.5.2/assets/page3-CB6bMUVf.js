@@ -1,0 +1,1 @@
+import{o as e,t}from"./jsx-runtime-CdOmLtuG.js";var n=t(),r=e(function(){return(0,n.jsxs)(`div`,{children:[(0,n.jsx)(`h2`,{children:`Page 3`}),(0,n.jsx)(`p`,{children:`page three content goes here`})]})});export{r as default};

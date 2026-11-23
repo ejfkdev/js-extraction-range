@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunkrsbuild_dynamic_load_demo=self.rspackChunkrsbuild_dynamic_load_demo||[]).push([["w"],{T(d,e,r){r.r(e);var s=r("Y"),n=r("U");r.d(e,{},{render:function(){(0,n.R)("views/home rendered",s.X)}})}}]);
